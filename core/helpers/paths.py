@@ -1,0 +1,5 @@
+BASE_PATH        = "./"
+DATA_PATH        = "./data/"
+DATASETS_PATH    = "./data/datasets/"
+TESTS_TEMP_PATH  = "./tests/@temp/"
+REPORTS_PATH     = "./reports/"
