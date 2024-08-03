@@ -4,6 +4,8 @@
 from core.datasets.dataset import Dataset
 from core.datasets.labeled_dataset import LabeledDataset
 from core.reporting.logger import Logger
+from setup.transforms.agmv import AGMV
+from setup.transforms.kdae import KDAE
 
 #
 # CLASSIFIERS

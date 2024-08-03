@@ -1,0 +1,12 @@
+#!/bin/python3
+import pandas as pd
+import sys
+
+# arguments
+argv = sys.argv 
+file = sys.argv[1]
+outfile = sys.argv[2]
+
+# convert 
+df = pd.read_json(file, lines=True)
+df.to_csv(outfile)

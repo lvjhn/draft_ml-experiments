@@ -1,0 +1,22 @@
+#!/bin/python3 
+
+from collections import Counter 
+import pandas as pd 
+import sys
+
+# arguments
+argv = sys.argv 
+file = sys.argv[1]
+label = sys.argv[2]
+
+df = pd.read_csv(file) 
+
+# print label counts 
+counts = Counter(df[label]) 
+
+# print label counts 
+for label in counts: 
+    print(f"{label} = {counts[label]} ({round(counts[label] / len(df), 2)})")
+
+print(F"TOTAL   : {len(df)}")
+print(F"LABELS  : {len(counts)}")
