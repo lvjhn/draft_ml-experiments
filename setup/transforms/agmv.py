@@ -99,13 +99,12 @@ class AGMV(BaseEstimator, TransformerMixin):
 
         if self.averaging == "word":
             words       = tokenize.word_tokenize(a) 
-            vector     = [self.vectorize_word(w) for w in words]
+            vector      = [self.vectorize_word(w) for w in words]
 
         elif self.averaging == "sentence":
-            words      = tokenize.word_tokenize(a) 
             sentences  = tokenize.sent_tokenize(a) 
-            sentences = [tokenize.word_tokenize(s) for s in sentences]
-            vector    = [self.vectorize_sentence(s) for s in sentences]
+            sentences  = [tokenize.word_tokenize(s) for s in sentences]
+            vector     = [self.vectorize_sentence(s) for s in sentences]
 
         vector = np.mean(vector, axis=0)
 
