@@ -27,16 +27,17 @@ from core.helpers.project_imports import *
 
 # ==== MAIN SCRIPT ========================================================== # 
 
-def weather_classification_dataset(
-    label = "Weather Type", 
+def load_agnc_dataset(
+    label = "Class Index", 
     holdout = 0.3,
-    task_type = "classification"
+    task_type = "classification",
+    features = ["Title", "Description"]
 ):
     dataset = Dataset(
         context = "kaggle",
-        subcontext = "nikhil7280",
-        name = "Weather Type Classification",
-        file = "weather_classification_data.csv",
+        subcontext = "amananandrai",
+        name = "AG News Classification Dataset",
+        file = "all.csv",
         manual_types = {}
     )
 
@@ -44,7 +45,7 @@ def weather_classification_dataset(
     labeled = LabeledDataset(
         dataset      = dataset,
         feature_mode = "include",
-        features     = None,
+        features     = features,
         label        = label,
         remove_ids   = True,
         holdout      = holdout,
@@ -55,25 +56,25 @@ def weather_classification_dataset(
 
 # ============================================================================ #
 
-def website_classification_dataset(
-    label = "Category", 
+def load_nac_b_dataset(
+    label = "category", 
     holdout = 0.3,
-    task_type = "classification"
+    task_type = "classification",
+    features =  ["headlines", "description", "content"]
 ):
     dataset = Dataset(
         context = "kaggle",
-        subcontext = "hetulmehta",
-        name = "Website Classification",
-        file = "website_classification.csv", 
-        manual_types = {
-            "cleaned_website_text" : "text"
-        }
+        subcontext = "banuprakashv",
+        name = "News Article Classification Dataset",
+        file = "all.csv",
+        manual_types = {}
     )
+
 
     labeled = LabeledDataset(
         dataset      = dataset,
         feature_mode = "include",
-        features     = ["cleaned_website_text"],
+        features     = features,
         label        = label,
         remove_ids   = True,
         holdout      = holdout,
@@ -84,89 +85,146 @@ def website_classification_dataset(
 
 # ============================================================================ #
 
-def imdb_movie_reviews_dataset(
-    label = "label", 
+def load_nt_dataset(
+    label = "category", 
     holdout = 0.3,
-    task_type = "classification"
+    task_type = "classification",
+    features = ["text"]
 ):
     dataset = Dataset(
         context = "kaggle",
-        subcontext = "lakshmi25npathi",
-        name = "IMDB Dataset",
-        file = "IMDB Dataset.csv",
-        manual_types = {
-            "review" : "text",
-        }
+        subcontext = "dabayondharchowdhury",
+        name = "News Text",
+        file = "all.csv",
+        manual_types = {}
     )
+
 
     labeled = LabeledDataset(
         dataset      = dataset,
         feature_mode = "include",
-        features     = None,
-        label        = "sentiment",
+        features     = features,
+        label        = label,
         remove_ids   = True,
         holdout      = holdout,
-        task_type = task_type
+        task_type    = task_type
     )
-    
+
     return labeled 
 
 # ============================================================================ #
 
-def ag_news_classification_dataset(
+def load_wnc_dataset(
     label = "label", 
     holdout = 0.3,
-    task_type = "classification"
+    task_type = "classification",
+    features = ["text"]
+
 ):
     dataset = Dataset(
         context = "kaggle",
-        subcontext = "amananandrai",
-        name = "AG News Classification Dataset",
-        file = "ag-news.csv",
-        manual_types = {
-            "text" : "text",
-        }
+        subcontext = "khoshbayani",
+        name = "World News Category",
+        file = "all.csv",
+        manual_types = {}
     )
-    
+
+
     labeled = LabeledDataset(
         dataset      = dataset,
         feature_mode = "include",
-        features     = None,
-        label        = "label",
+        features     = features,
+        label        = label,
         remove_ids   = True,
         holdout      = holdout,
-        task_type = task_type
+        task_type    = task_type
     )
-    return labeled 
+
+    return labeled
 
 # ============================================================================ #
 
-def philippine_fake_news_corpus_dataset(
+def load_ncd_r_dataset(
+    label = "category", 
+    holdout = 0.3,
+    task_type = "classification",
+    features = ["headline", "short_description"]
+):
+    dataset = Dataset(
+        context = "kaggle",
+        subcontext = "rmisra",
+        name = "News Category Dataset",
+        file = "all.csv",
+        manual_types = {}
+    )
+
+
+    labeled = LabeledDataset(
+        dataset      = dataset,
+        feature_mode = "include",
+        features     = features,
+        label        = label,
+        remove_ids   = True,
+        holdout      = holdout,
+        task_type    = task_type
+    )
+
+    return labeled
+
+# ============================================================================ #
+
+def load_nac_t_dataset(
+    label = "category", 
+    holdout = 0.3,
+    task_type = "classification",
+    features = ["title", "body"]
+):
+    dataset = Dataset(
+        context = "kaggle",
+        subcontext = "timilsinabimal",
+        name = "News Article Category",
+        file = "all.csv",
+        manual_types = {}
+    )
+
+
+    labeled = LabeledDataset(
+        dataset      = dataset,
+        feature_mode = "include",
+        features     = features,
+        label        = label,
+        remove_ids   = True,
+        holdout      = holdout,
+        task_type    = task_type
+    )
+
+    return labeled
+
+# ============================================================================ #
+
+def load_pfncd_dataset(
     label = "Label", 
     holdout = 0.3,
-       task_type = "classification"
+    task_type = "classification",
+    features = ["Headline", "Content"]
 ):
     dataset = Dataset(
         context = "github",
         subcontext = "aaroncarlfernandex",
         name = "Philippine Fake News Corpus",
-        file = "Philippine Fake News Corpus.csv",
-        manual_types = {
-            "Headline" : "text",
-            "Content" : "text"
-        }
+        file = "all.csv",
+        manual_types = {}
     )
+
 
     labeled = LabeledDataset(
         dataset      = dataset,
         feature_mode = "include",
-        features     = ["Content"],
+        features     = features,
         label        = label,
         remove_ids   = True,
         holdout      = holdout,
-        task_type = task_type
+        task_type    = task_type
     )
-    
-    return labeled 
 
-
+    return labeled
