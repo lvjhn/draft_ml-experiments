@@ -704,5 +704,53 @@ class Common:
     def get_hash(df): 
         """ 
             Gets hash of dataframe.
-        """ 
+    """ 
         return joblib.hash(df)
+
+    def print_dict(dict_, indent="d"):
+        for key in dict_: 
+            print(f"{indent}{key} = {dict_[key]}")
+
+    def print_conf_matrix(labels, matrix): 
+        table = []
+        for i in range(matrix.shape[0]):
+            row = matrix[i, :]
+            row = [labels[i], *row]
+            table.append(row)
+        print(tabulate(table, headers=["", *labels]))
+
+    def percentile_tuple(list_, percentile, index):
+        N = len(list_)
+        P = (N - 1) * (percentile / 100)
+        if P % 1 == 0:
+            return list_[int(P)][index]
+        else:
+            a = math.floor(P)
+            b = math.ceil(P)
+            return (list_[a][index] + list_[b][index]) / 2
+
+    def patch_with_length(dataset): 
+        df = dataset.state["df"]
+        texts = dataset.state["grouped_types"]["text"]
+
+        def compute_length(x):
+            if type(x) is str: 
+                return len(x)
+            else: 
+                return 0
+
+        for text_column in texts: 
+            df[f"{text_column} | Length"] = \
+                df[text_column].apply(compute_length)
+
+    def get_name_field(group): 
+        if group == "island-groups": 
+            return "Island Group"
+        elif group == "regions": 
+            return "Region"
+        elif group == "provinces": 
+            return "Province"
+        elif group == "municities": 
+            return "Municity" 
+        else:
+            raise Exception(f"Unknown group: {group}")

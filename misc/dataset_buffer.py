@@ -25,10 +25,10 @@ print("@ Loading WNC dataset.")
 ds = load_wnc_dataset()
 
 print("@ Loading NCD (R) dataset.")
-ds = load_ncd_r_dataset()
+ds = load_ncd_dataset()
 
 print("@ Loading NAC (T) dataset.")
 ds = load_nac_t_dataset()
 
 print("@ Loading PFNCD dataset.")
-ds = load_pfncd_dataset()
+ds = load_pfnc_dataset()

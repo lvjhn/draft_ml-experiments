@@ -1,0 +1,5942 @@
+{
+    "name": "Isabela",
+    "data": [
+        [
+            "Toggle the table of contents"
+        ],
+        [
+            "Isabela (province)"
+        ],
+        [
+            "43 languages"
+        ],
+        [
+            "Ac\u00e8h\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u95a9\u5357\u8a9e / B\u00e2n-l\u00e2m-g\u00faBikol CentralBrezhonegCebuanoChavacano de ZamboangaDeutschEspa\u00f1olEsperanto\u0641\u0627\u0631\u0633\u06ccFran\u00e7ais\ud55c\uad6d\uc5b4\u0939\u093f\u0928\u094d\u0926\u0940IlokanoBahasa Indonesia\u0418\u0440\u043e\u043dItalianoKapampangan\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8LatinaLatvie\u0161u\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438Bahasa MelayuNederlands\u65e5\u672c\u8a9eNorsk bokm\u00e5lPangasinanPolskiPortugu\u00eas\u0420\u0443\u0441\u0441\u043a\u0438\u0439Simple EnglishSuomiSvenskaTagalog\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0e44\u0e17\u0e22T\u00fcrk\u00e7e\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0627\u0631\u062f\u0648Ti\u1ebfng Vi\u1ec7tWinaray\u4e2d\u6587"
+        ],
+        [
+            "Edit links"
+        ],
+        [
+            "ArticleTalk"
+        ],
+        [
+            "English"
+        ],
+        [
+            "ReadEditView history"
+        ],
+        [
+            "Tools"
+        ],
+        [
+            "Tools"
+        ],
+        [
+            "move to sidebar"
+        ],
+        [
+            "hide"
+        ],
+        [
+            "\t\tActions"
+        ],
+        [
+            "ReadEditView history"
+        ],
+        [
+            "\t\tGeneral"
+        ],
+        [
+            "What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item"
+        ],
+        [
+            "\t\tPrint/export"
+        ],
+        [
+            "Download as PDFPrintable version"
+        ],
+        [
+            "\t\tIn other projects"
+        ],
+        [
+            "Wikimedia CommonsWikivoyage"
+        ],
+        [
+            "Appearance"
+        ],
+        [
+            "move to sidebar"
+        ],
+        [
+            "hide"
+        ],
+        [
+            "Coordinates: 17\u00b0N 122\u00b0E\ufeff / \ufeff17\u00b0N 122\u00b0E\ufeff / 17; 122"
+        ],
+        [
+            "From Wikipedia, the free encyclopedia"
+        ],
+        [
+            "For a city in the province of Basilan, see Isabela, Basilan.Province in Cagayan Valley, Philippines"
+        ],
+        [
+            "Province in Cagayan Valley, PhilippinesIsabelaProvinceProvince of Isabela(from top: left to right) Pacific coast in Dinapigue,  Sierra Madre Mountains, Magat Dam,  Cagayan River in Jones, Aerial view of  Divilacan and Cabigan Church Ruins in San Pablo."
+        ],
+        [
+            "FlagSealNicknames:\u00a0Queen Province of the NorthRice Bowl of the NorthTop Corn Producer of the Philippines\u00a0\u2022\u00a0Total1,697,050\u00a0\u2022\u00a0Rank15th out of 81\u00a0\u2022\u00a0Density130/km2 (340/sq\u00a0mi)\u00a0\u00a0\u2022\u00a0Rank67th out of 81\u00a0(Includes Santiago)DemonymsIsabele\u00f1o (m)Isabele\u00f1a (f)IsabelanDivisions\u00a0\u2022\u00a0Independent\u00a0cities"
+        ],
+        [
+            "1"
+        ],
+        [
+            " Santiago"
+        ],
+        [
+            "\u00a0\u2022\u00a0Component cities"
+        ],
+        [
+            "2"
+        ],
+        [
+            " Cauayan"
+        ],
+        [
+            " Ilagan"
+        ],
+        [
+            "\u00a0\u2022\u00a0Municipalities"
+        ],
+        [
+            "34"
+        ],
+        [
+            " Alicia"
+        ],
+        [
+            " Angadanan"
+        ],
+        [
+            " Aurora"
+        ],
+        [
+            " Benito Soliven"
+        ],
+        [
+            " Burgos"
+        ],
+        [
+            " Cabagan"
+        ],
+        [
+            " Cabatuan"
+        ],
+        [
+            " Cordon"
+        ],
+        [
+            " Delfin Albano"
+        ],
+        [
+            " Dinapigue"
+        ],
+        [
+            " Divilacan"
+        ],
+        [
+            " Echague"
+        ],
+        [
+            " Gamu"
+        ],
+        [
+            " Jones"
+        ],
+        [
+            " Luna"
+        ],
+        [
+            " Maconacon"
+        ],
+        [
+            " Mallig"
+        ],
+        [
+            " Naguilian"
+        ],
+        [
+            " Palanan"
+        ],
+        [
+            " Quezon"
+        ],
+        [
+            " Quirino"
+        ],
+        [
+            " Ramon"
+        ],
+        [
+            " Reina Mercedes"
+        ],
+        [
+            " Roxas"
+        ],
+        [
+            " San Agustin"
+        ],
+        [
+            " San Guillermo"
+        ],
+        [
+            " San Isidro"
+        ],
+        [
+            " San Manuel"
+        ],
+        [
+            " San Mariano"
+        ],
+        [
+            " San Mateo"
+        ],
+        [
+            " San Pablo"
+        ],
+        [
+            " Santa Maria"
+        ],
+        [
+            " Santo Tomas"
+        ],
+        [
+            " Tumauini"
+        ],
+        [
+            "\u00a0\u2022\u00a0Barangays1,018including independent cities: 1,055\u00a0\u2022\u00a0DistrictsLegislative districts of Isabela (shared with Santiago City)Time zoneUTC+8 (PHT)ZIP code3300\u20133336IDD\u2009:\u2009area\u00a0code\u2009+63\u2009(0)78ISO 3166 codePH-ISASpoken languages"
+        ],
+        [
+            "Ilocano"
+        ],
+        [
+            "Ibanag"
+        ],
+        [
+            "Gaddang"
+        ],
+        [
+            "Tagalog"
+        ],
+        [
+            "Yogad"
+        ],
+        [
+            "English"
+        ],
+        [
+            "Websiteprovinceofisabela.ph"
+        ],
+        [
+            "Isabela, officially the Province of Isabela (Ilocano: Probinsia ti Isabela; Ibanag: Provinsia na Isabela; Tagalog: Lalawigan ng Isabela), is the second largest province in the Philippines in land area located in the Cagayan Valley.",
+            "Its capital and the largest local government unit is the city of Ilagan.",
+            "It is bordered by the provinces of Cagayan to the north, Kalinga to the northwest, Mountain Province to the central-west, Ifugao and Nueva Vizcaya to the southwest, Quirino, Aurora and the independent city of Santiago to the south, and the Philippine Sea to the east."
+        ],
+        [
+            "This primarily agricultural province is the rice and corn granary of Luzon due to its plain and rolling terrain.",
+            "In 2012, the province was declared as the country's top producer of corn with 1,209,524 metric tons."
+        ],
+        [
+            "Isabela is the 9th richest province in the Philippines as of 2021."
+        ],
+        [
+            "Etymology"
+        ],
+        [
+            "The province was named after Isabella II, who was queen regnant of Spain from September 29, 1833, until September 30, 1868, when she was deposed in the Glorious Revolution, and her formal abdication two years later."
+        ],
+        [
+            "There have been proposals to change the name to something more indigenous, but these were rejected by the people of Isabela."
+        ],
+        [
+            "History"
+        ],
+        [
+            "The province of Isabela used to be a vast rainforest where numerous indigenous ethnolinguistic groups lived.",
+            "Many of the same ethnic groups still live in the province.",
+            "Shell midden sites and other archaeological sites throughout the province constitute the material culture of those groups during the classical era."
+        ],
+        [
+            "Spanish colonial period"
+        ],
+        [
+            "During the Spanish era, prior to 1856, the Cagayan Valley was divided into only two provinces: Cagayan and Nueva Vizcaya.",
+            "The Province of Cagayan at that time consisted of all towns from Tumauini to Aparri in the north.",
+            "All other towns from Ilagan southward to Aritao composed the Province of the old Nueva Vizcaya.",
+            "In order to facilitate the work of the Catholic missionaries in the evangelization of the Cagayan Valley, a royal decree was issued on May 1, 1856, creating the Province of Isabela consisting of the towns of Gamu, Old Angadanan (now Alicia), Bindang (now Roxas) and Camarag (now Echague), Carig (now Santiago City) and Palanan, all detached from the Province of Nueva Vizcaya; while Cabagan and Tumauini were taken from the Province of Cagayan.",
+            "The exception is Palanan, which was established in 1625 by Spanish forces who arrived by ship from the Pacific coastal town of Baler in Tayabas province (now part of Aurora).",
+            "Thus, Palanan was originally a part of Pampanga"
+        ],
+        [
+            "The province was placed under the jurisdiction of a governor (Lieutenant Colonel of Cavalry Francisco Contreras y Urtasun) with Ilagan as the capital, where it remains up to present.",
+            "It was initially called Isabela de Luz\u00f3n to differentiate from other places in the Philippines bearing the name of Isabela.",
+            "The new province was named after Queen Isabella II of Spain.",
+            "During that time, the Spanish controlled only the areas along the Cagayan River, leaving the Mallig Plants, the Magat River and the Sierra Madre Mountains to Gaddang tribes."
+        ],
+        [
+            "The Atta or Negritos were the first people in valley.",
+            "They were later moved to the uplands or variably assimilated by the Austronesians, from whom the Ibanags, Itawes, Yogads, Gaddangs, Irayas, Malawegs, and Paranans descended - who actually came from one ethnicity.",
+            "These are the people found by the Spaniards in the different villages along the rivers all over Cagayan Valley, including present Isabela.",
+            "The Spaniards rightly judged that these various villagers came from a single racial stock and decided to make the Ibanag language the lingua franca, both civilly and ecclesiastically for the entire people of Cagayan which they called collectively as the Cagayanes which later was transliterated to become Cagayanos."
+        ],
+        [
+            "Various other peoples, mainly the Ilocanos, Pangasinenses, Kapampangans and Tagalogs, as well as Visayans, Moros and even foreigners like the Chinese, Indians, Arabs, Spaniards and others were further infused to the native Cagayanes to become the modern Cagayano, and Isabeli\u00f1o in the exact province, that we know today."
+        ],
+        [
+            "American invasion era"
+        ],
+        [
+            "Although the province did not play a major role in the revolt against Spain, it is in Palanan that the final pages of the Philippine Revolution were written when United States troops, led by General Frederick Funston, finally captured General Emilio Aguinaldo on March 23, 1901.",
+            "To commemorate this historical event, in 1962 the town officials constructed a monument by the Palanan City Hall, right on the spot where General Aguinaldo was captured, to memorialize the historic event.",
+            "The monument was inaugurated on June 12, 1962, Philippine Independence Day, and still stands."
+        ],
+        [
+            "Isabela was re-organized as a province under the American military government through Act No.",
+            "210, passed August 24, 1901."
+        ],
+        [
+            "The Americans built schools and other buildings and instituted changes in the overall political system.",
+            "However, the province's economy remained predominantly agricultural, with rice replacing corn and tobacco as the principal crop."
+        ],
+        [
+            "Japanese occupation era"
+        ],
+        [
+            "World War II stagnated the province's economic growth but it recovered dramatically after the war.",
+            "In 1942, Imperial Japanese forces occupied Isabela.",
+            "In 1945, the liberation of Isabela commenced with the arrival of the Philippine Commonwealth troops under the 11th Infantry Regiment, Philippine Army, USAFIP-NL and the recognized guerrillas attacked by the Japanese Imperial forces in World War II."
+        ],
+        [
+            "A new wave of immigration began in the late 19th and 20th centuries with the arrival of the Ilokano who came in large numbers.",
+            "They now constitute the largest group in the province, and it was only in this large-scale Ilocano immigration & settlement that made Ilocano language replaced Ibanag as the lingua franca of the province.",
+            "Other ethnic groups followed that made Isabela the \"Melting Pot of the Northern Philippines\"."
+        ],
+        [
+            "Postwar era"
+        ],
+        [
+            "This section needs expansion.",
+            "You can help by adding to it.",
+            "(May 2024)"
+        ],
+        [
+            "In the years after the Second World War, Isabela was ruled by the Dy family for 35 years (1969-2004).",
+            "The dynasty was started by the patriarch of the family, Faustino N. Dy Sr., who served as the mayor of Cauayan from 1965 to 1969 and sat as provincial governor for 22 years (1969\u20131992), surviving the initial attempts of President Ferdinand Marcos to remove him for being a member of the political opposition during the imposition of Martial Law in 1972 and winning reelection in 1988 after his removal by President Corazon Aquino after he had sided with Marcos in 1986."
+        ],
+        [
+            "During the Marcos dictatorship"
+        ],
+        [
+            "Main articles: Martial law under Ferdinand Marcos and Human rights abuses of the Marcos dictatorship"
+        ],
+        [
+            "By the first term of the first term of the presidency of Ferdinand Marcos, Isabela had become known among students activists for its remoteness and the poverty of its agricultural workers, making it a favorite destination for \"dissatisfied, alienated young activists.\"",
+            "The Armed Forces had a number of initial successes against the NPA in Isabela at this time, including the discovery of the Taringsing Documents in Cordon outlining plans for a communist takeover; and the failed landing of arms bound for the NPA in Palanan during the MV Karagatan incident in 1972.",
+            "These incidents were cited as some of the justifications for the declaration of Martial Law by Marcos later that year."
+        ],
+        [
+            "With only a year left in his last constitutionally allowed term as president Ferdinand Marcos placed the Philippines under Martial Law in September 1972 and thus retained the position for fourteen more years."
+        ],
+        [
+            "The province of Isabela became a particular center of both conflict and protest when Marcos cronies Danding Cojuangco and Antonio Carag managed to block a Spanish-era grant which was supposed to see the return of Hacienda San Antonio and Hacienda Santa Isabel in Ilagan to local farmers.",
+            "Cojuangco and Carag purchased the two haciendas themselves, displacing tens of thousands of farmers who were supposed to get those lands back a hundred years after the Spanish acquired them."
+        ],
+        [
+            "In its desire to serve its parishioners, the Roman Catholic Diocese of Ilagan hosted a Social Action Center which would help the farmers.",
+            "In the Social Action Center's newsletter, the \"Courier,\" researcher Sabino Padilla Jr. documented and exposed the ways by which Cojuangco, Carag, the provincial government, and the military harassed the farmers who were supposed to get the land.",
+            "This all led to a protest march in joined by 12,000 protesters from all over Isabela, and eventually, for 4,000 farmers to finally get the titles to their land.",
+            "But it also earned the ire of the administration."
+        ],
+        [
+            "In 1982, Padilla and 12 others were arrested by the regime and jailed under poor conditions at the Bayombong, Nueva Vizcaya Stockade of the Philippine Constabulary until almost the end of the Marcos regime."
+        ],
+        [
+            "It was also during the dictatorship that  Marcos began awarding logging concessions to his cronies in the areas of the Sierra Madre region, which heralded the beginning of widescale deforestation and other environmental problems that affect the province since then, despite Marcos creating the Palanan Wilderness Area in 1978 which was later expanded by President Fidel V. Ramos to become the Northern Sierra Madre Natural Park in 1997."
+        ],
+        [
+            "In 1975, construction began on the Magat Dam on the boundary of Ramon, Isabela with neighboring Ifugao Province, becoming a catchbasin for 8 rivers upstream in Ifugao"
+        ],
+        [
+            "After the People Power Revolution in 1986, many of the activists who had joined the underground movement decided to \"surface,\" as the new administration of Corazon Aquino released political prisoners and initiated peace talks."
+        ],
+        [
+            "Contemporary"
+        ],
+        [
+            "This section needs expansion.",
+            "You can help by adding to it.",
+            "(May 2024)"
+        ],
+        [
+            "Following the 1986 People Power Revolution, known as the current Fifth Philippine Republic, under the 1987 Philippine Constitution, various changes have been attempted since then in the province."
+        ],
+        [
+            "Dy Sr. was succeeded by his son, Benjamin G. Dy, in the gubernatorial seat from 1992 to 2001.",
+            "Another Dy took over the gubernatorial seat in 2001 when Faustino Dy Jr. won the 2001 elections after having served as the district representative of the 2nd Legislative District of the province from 1992 to 2001.",
+            "It was only in the 2004 elections that the family's control of the gubernatorial seat ended when Grace Padaca, a former journalist, won over Faustino Dy Jr. She was the first woman to serve as the governor of the province.",
+            "After serving for six years (2004-2010), Padaca was defeated in the 2010 National Elections by Faustino \"Bojie\" G. Dy III who served as governor of the province for three consecutive terms (2010-2019).",
+            "He was then succeeded by Rodolfo \"Rodito\" Albano III, a member of the Albano dynasty that dominates Isabela's 1st congressional district."
+        ],
+        [
+            "In July 1994, the municipality of Santiago was converted into an independent-component city in the province of Isabela.",
+            "Several attempts were made to revert the status into a component city but did not go through.",
+            "Santiago is geographically located in Isabela but not under the administration of the province.",
+            "Its electorates are prohibited to participate in the provincial-level elections except in the 4th legislative district of Isabela where the city belongs for congress representation."
+        ],
+        [
+            "In 1995, Republic Act 7891 was passed, legislating that Isabela be divided into two new provinces: Isabela del Norte and Isabela del Sur."
+        ],
+        [
+            "In 1999, the municipality of Ilagan, also serving as the capital town of the province, sought to become a city.",
+            "The plebiscite held on March 14, 1999, turned down its first bid for cityhood.",
+            "The majority of the people voted no in that event.",
+            "In its second attempt to cityhood, the campaign did not go through due to lack of concurrency in the senate in 2006.",
+            "Finally, Ilagan became a city, after its third move gained 96% of the votes in a plebiscite conducted on August 11, 2012."
+        ],
+        [
+            "In 2001, the municipality of Cauayan became a component city in the province of Isabela."
+        ],
+        [
+            "In 2019, the province was reorganized into six districts, thereby increasing the number of legislative districts from four to six.",
+            "Cities and municipalities were retained and others were reapportioned to the current district assignments."
+        ],
+        [
+            "2020 Ulysses Flood"
+        ],
+        [
+            "Further information: Typhoon Vamco"
+        ],
+        [
+            "Cagayan has been heavily impacted by changing weather pattern changes resulting from climate change,"
+        ],
+        [
+            "In November 2020, Typhoon Vamco (locally known in the Philippines as Typhoon Ulysses) crossed the country, dams from all around Luzon neared their spilling points, forcing them to release large amounts of water into their impounds including Magat Dam.",
+            "The dam opened all of its 7 gates at 24 metres (79\u00a0ft), releasing over 5,037 cubic metres (1,331,000 US gal) of water into the Cagayan River flooding numerous riverside towns."
+        ],
+        [
+            "Because there was very little media coverage of the flooding in the area in the wake of the COVID-19 lockdown in Luzon and the Shutdown of ABS-CBN broadcasting earlier that year,"
+        ],
+        [
+            "Geography"
+        ],
+        [
+            "Isabela comprises an aggregate land area of 12,414.93 square kilometres (4,793.43\u00a0sq\u00a0mi),"
+        ],
+        [
+            "View of the Sierra Madre"
+        ],
+        [
+            "The province is divided into three physiographic areas.",
+            "The eastern area, straddled by the Sierra Madre mountain range, is rugged and thickly forested.",
+            "A substantial portion is uncharted.",
+            "These unexplored hinterlands are home to a rich variety of flora and fauna, and some are under government reservations.",
+            "It is home to one of the world's largest remaining low-altitude rainforests, with numerous unknown endemic species of flora and fauna and biological diversity in the protected area known as the Northern Sierra Madre Natural Park."
+        ],
+        [
+            "The highest point of the province is located near the border with Cagayan.",
+            "Mount Dos Cuernos peak has an elevation of 1,785 metres (5,856\u00a0ft) located in San Pablo near the border with Maconacon.",
+            "Other notable peaks in the Northern Sierra Madre Natural Park is Mount Cresta in Divilacan with an elevation of 1,672 metres (5,486\u00a0ft)."
+        ],
+        [
+            "The western area is a fertile valley hemmed by the Central Cordillera.",
+            "It is crisscrossed by the mighty Cagayan River, Siffu River, and Magat River."
+        ],
+        [
+            "Mallig Plains region"
+        ],
+        [
+            "Mallig Plains is a region in the western section of the province.",
+            "Its name was derived from the rolling terrains or kilometers of plain lands in western part of Isabela.",
+            "The municipality of Roxas serves as the business center of the region.",
+            "The Plains encompassing the municipalities of Quezon, Mallig, Quirino, Burgos, Aurora, San Manuel and Roxas."
+        ],
+        [
+            "Administrative divisions"
+        ],
+        [
+            "Isabela is politically subdivided into thirty-four (34) municipalities, two component cities and one independent component city.",
+            "The province is represented in the Philippine House of Representatives with six legislative districts."
+        ],
+        [
+            "The province has ten first class municipalities, two second class cities and one first class independent component city.",
+            "Ilagan City, which became a city thirteen years after its failed cityhood proposal in 1998, it is now Luzon\u2019s largest and the country\u2019s fourth biggest city after Davao City, Puerto Princesa and Zamboanga City by land area."
+        ],
+        [
+            "\u00a0\u2020\u00a0 Provincial capital and component city\u00a0^\u00a0 Independent component city\u00a0\u2217\u00a0 Component city\u00a0 Municipality"
+        ],
+        [
+            "City or municipality"
+        ],
+        [
+            "District"
+        ],
+        [
+            "Population"
+        ],
+        [
+            "\u00b1% p.a."
+        ],
+        [
+            "Area"
+        ],
+        [
+            "Density"
+        ],
+        [
+            "Barangay"
+        ],
+        [
+            "Coordinates"
+        ],
+        [
+            "(2020)"
+        ],
+        [
+            "(2015)"
+        ],
+        [
+            "km2"
+        ],
+        [
+            "sq mi"
+        ],
+        [
+            "/km2"
+        ],
+        [
+            "/sq mi"
+        ],
+        [
+            "Alicia"
+        ],
+        [
+            "3rd"
+        ],
+        [
+            "4.4%"
+        ],
+        [
+            "73,874"
+        ],
+        [
+            "71,504"
+        ],
+        [
+            "0.62%"
+        ],
+        [
+            "154.10"
+        ],
+        [
+            "59.50"
+        ],
+        [
+            "480"
+        ],
+        [
+            "1,200"
+        ],
+        [
+            "34"
+        ],
+        [
+            "16\u00b046\u203244\u2033N 121\u00b041\u203257\u2033E\ufeff / \ufeff16.7789\u00b0N 121.6992\u00b0E\ufeff / 16.7789; 121.6992\ufeff (Alicia)"
+        ],
+        [
+            "Angadanan"
+        ],
+        [
+            "3rd"
+        ],
+        [
+            "2.7%"
+        ],
+        [
+            "44,977"
+        ],
+        [
+            "43,061"
+        ],
+        [
+            "0.83%"
+        ],
+        [
+            "204.40"
+        ],
+        [
+            "78.92"
+        ],
+        [
+            "220"
+        ],
+        [
+            "570"
+        ],
+        [
+            "59"
+        ],
+        [
+            "16\u00b045\u203224\u2033N 121\u00b044\u203253\u2033E\ufeff / \ufeff16.7568\u00b0N 121.7480\u00b0E\ufeff / 16.7568; 121.7480\ufeff (Angadanan)"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "5th"
+        ],
+        [
+            "2.2%"
+        ],
+        [
+            "36,621"
+        ],
+        [
+            "35,017"
+        ],
+        [
+            "0.86%"
+        ],
+        [
+            "115.56"
+        ],
+        [
+            "44.62"
+        ],
+        [
+            "320"
+        ],
+        [
+            "830"
+        ],
+        [
+            "33"
+        ],
+        [
+            "16\u00b059\u203226\u2033N 121\u00b038\u203221\u2033E\ufeff / \ufeff16.9906\u00b0N 121.6392\u00b0E\ufeff / 16.9906; 121.6392\ufeff (Aurora)"
+        ],
+        [
+            "Benito Soliven"
+        ],
+        [
+            "2nd"
+        ],
+        [
+            "1.8%"
+        ],
+        [
+            "29,752"
+        ],
+        [
+            "29,624"
+        ],
+        [
+            "0.08%"
+        ],
+        [
+            "197.52"
+        ],
+        [
+            "76.26"
+        ],
+        [
+            "150"
+        ],
+        [
+            "390"
+        ],
+        [
+            "29"
+        ],
+        [
+            "16\u00b059\u203205\u2033N 121\u00b057\u203241\u2033E\ufeff / \ufeff16.9847\u00b0N 121.9615\u00b0E\ufeff / 16.9847; 121.9615\ufeff (Benito Soliven)"
+        ],
+        [
+            "Burgos"
+        ],
+        [
+            "5th"
+        ],
+        [
+            "1.5%"
+        ],
+        [
+            "26,040"
+        ],
+        [
+            "23,784"
+        ],
+        [
+            "1.74%"
+        ],
+        [
+            "73.10"
+        ],
+        [
+            "28.22"
+        ],
+        [
+            "360"
+        ],
+        [
+            "930"
+        ],
+        [
+            "14"
+        ],
+        [
+            "17\u00b004\u203205\u2033N 121\u00b041\u203237\u2033E\ufeff / \ufeff17.0680\u00b0N 121.6937\u00b0E\ufeff / 17.0680; 121.6937\ufeff (Burgos)"
+        ],
+        [
+            "Cabagan"
+        ],
+        [
+            "1st"
+        ],
+        [
+            "3.2%"
+        ],
+        [
+            "53,897"
+        ],
+        [
+            "50,174"
+        ],
+        [
+            "1.37%"
+        ],
+        [
+            "430.40"
+        ],
+        [
+            "166.18"
+        ],
+        [
+            "120"
+        ],
+        [
+            "310"
+        ],
+        [
+            "26"
+        ],
+        [
+            "17\u00b025\u203235\u2033N 121\u00b045\u203254\u2033E\ufeff / \ufeff17.4263\u00b0N 121.7649\u00b0E\ufeff / 17.4263; 121.7649\ufeff (Cabagan)"
+        ],
+        [
+            "Cabatuan"
+        ],
+        [
+            "3rd"
+        ],
+        [
+            "2.4%"
+        ],
+        [
+            "39,990"
+        ],
+        [
+            "39,413"
+        ],
+        [
+            "0.28%"
+        ],
+        [
+            "72.00"
+        ],
+        [
+            "27.80"
+        ],
+        [
+            "560"
+        ],
+        [
+            "1,500"
+        ],
+        [
+            "22"
+        ],
+        [
+            "16\u00b057\u203215\u2033N 121\u00b040\u203211\u2033E\ufeff / \ufeff16.9542\u00b0N 121.6698\u00b0E\ufeff / 16.9542; 121.6698\ufeff (Cabatuan)"
+        ],
+        [
+            "Cauayan City"
+        ],
+        [
+            "\u2217"
+        ],
+        [
+            "6th"
+        ],
+        [
+            "8.5%"
+        ],
+        [
+            "143,403"
+        ],
+        [
+            "129,523"
+        ],
+        [
+            "1.96%"
+        ],
+        [
+            "336.40"
+        ],
+        [
+            "129.88"
+        ],
+        [
+            "430"
+        ],
+        [
+            "1,100"
+        ],
+        [
+            "65"
+        ],
+        [
+            "16\u00b056\u203203\u2033N 121\u00b046\u203200\u2033E\ufeff / \ufeff16.9343\u00b0N 121.7666\u00b0E\ufeff / 16.9343; 121.7666\ufeff (Cauayan)"
+        ],
+        [
+            "Cordon"
+        ],
+        [
+            "4th"
+        ],
+        [
+            "2.7%"
+        ],
+        [
+            "46,477"
+        ],
+        [
+            "42,926"
+        ],
+        [
+            "1.52%"
+        ],
+        [
+            "144.00"
+        ],
+        [
+            "55.60"
+        ],
+        [
+            "320"
+        ],
+        [
+            "830"
+        ],
+        [
+            "26"
+        ],
+        [
+            "16\u00b040\u203226\u2033N 121\u00b027\u203258\u2033E\ufeff / \ufeff16.6739\u00b0N 121.4662\u00b0E\ufeff / 16.6739; 121.4662\ufeff (Cordon)"
+        ],
+        [
+            "Delfin Albano"
+        ],
+        [
+            "1st"
+        ],
+        [
+            "1.8%"
+        ],
+        [
+            "29,928"
+        ],
+        [
+            "26,614"
+        ],
+        [
+            "2.26%"
+        ],
+        [
+            "189.00"
+        ],
+        [
+            "72.97"
+        ],
+        [
+            "160"
+        ],
+        [
+            "410"
+        ],
+        [
+            "29"
+        ],
+        [
+            "17\u00b018\u203216\u2033N 121\u00b046\u203244\u2033E\ufeff / \ufeff17.3044\u00b0N 121.7788\u00b0E\ufeff / 17.3044; 121.7788\ufeff (Delfin Albano)"
+        ],
+        [
+            "Dinapigue"
+        ],
+        [
+            "4th"
+        ],
+        [
+            "0.3%"
+        ],
+        [
+            "5,821"
+        ],
+        [
+            "5,005"
+        ],
+        [
+            "2.92%"
+        ],
+        [
+            "1,031.93"
+        ],
+        [
+            "398.43"
+        ],
+        [
+            "5.6"
+        ],
+        [
+            "15"
+        ],
+        [
+            "6"
+        ],
+        [
+            "16\u00b031\u203229\u2033N 122\u00b015\u203247\u2033E\ufeff / \ufeff16.5248\u00b0N 122.2631\u00b0E\ufeff / 16.5248; 122.2631\ufeff (Dinapigue)"
+        ],
+        [
+            "Divilacan"
+        ],
+        [
+            "1st"
+        ],
+        [
+            "0.3%"
+        ],
+        [
+            "5,827"
+        ],
+        [
+            "5,687"
+        ],
+        [
+            "0.46%"
+        ],
+        [
+            "889.49"
+        ],
+        [
+            "343.43"
+        ],
+        [
+            "6.6"
+        ],
+        [
+            "17"
+        ],
+        [
+            "12"
+        ],
+        [
+            "17\u00b019\u203247\u2033N 122\u00b017\u203246\u2033E\ufeff / \ufeff17.3297\u00b0N 122.2961\u00b0E\ufeff / 17.3297; 122.2961\ufeff (Divilacan)"
+        ],
+        [
+            "Echague"
+        ],
+        [
+            "6th"
+        ],
+        [
+            "5.2%"
+        ],
+        [
+            "88,410"
+        ],
+        [
+            "79,094"
+        ],
+        [
+            "2.14%"
+        ],
+        [
+            "648.38"
+        ],
+        [
+            "250.34"
+        ],
+        [
+            "140"
+        ],
+        [
+            "360"
+        ],
+        [
+            "64"
+        ],
+        [
+            "16\u00b043\u203200\u2033N 121\u00b041\u203200\u2033E\ufeff / \ufeff16.7168\u00b0N 121.6832\u00b0E\ufeff / 16.7168; 121.6832\ufeff (Echague)"
+        ],
+        [
+            "Gamu"
+        ],
+        [
+            "2nd"
+        ],
+        [
+            "1.8%"
+        ],
+        [
+            "30,655"
+        ],
+        [
+            "29,904"
+        ],
+        [
+            "0.47%"
+        ],
+        [
+            "129.40"
+        ],
+        [
+            "49.96"
+        ],
+        [
+            "240"
+        ],
+        [
+            "620"
+        ],
+        [
+            "16"
+        ],
+        [
+            "17\u00b002\u203250\u2033N 121\u00b050\u203200\u2033E\ufeff / \ufeff17.0472\u00b0N 121.8333\u00b0E\ufeff / 17.0472; 121.8333\ufeff (Gamu)"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "\u2020"
+        ],
+        [
+            "1st"
+        ],
+        [
+            "9.3%"
+        ],
+        [
+            "158,218"
+        ],
+        [
+            "145,568"
+        ],
+        [
+            "1.60%"
+        ],
+        [
+            "1,166.26"
+        ],
+        [
+            "450.30"
+        ],
+        [
+            "140"
+        ],
+        [
+            "360"
+        ],
+        [
+            "91"
+        ],
+        [
+            "17\u00b008\u203239\u2033N 121\u00b053\u203220\u2033E\ufeff / \ufeff17.1442\u00b0N 121.8889\u00b0E\ufeff / 17.1442; 121.8889\ufeff (Ilagan City)"
+        ],
+        [
+            "Jones"
+        ],
+        [
+            "4th"
+        ],
+        [
+            "2.7%"
+        ],
+        [
+            "45,628"
+        ],
+        [
+            "45,666"
+        ],
+        [
+            "\u22120.02%"
+        ],
+        [
+            "670.14"
+        ],
+        [
+            "258.74"
+        ],
+        [
+            "68"
+        ],
+        [
+            "180"
+        ],
+        [
+            "42"
+        ],
+        [
+            "16\u00b033\u203233\u2033N 121\u00b042\u203213\u2033E\ufeff / \ufeff16.5593\u00b0N 121.7036\u00b0E\ufeff / 16.5593; 121.7036\ufeff (Jones)"
+        ],
+        [
+            "Luna"
+        ],
+        [
+            "5th"
+        ],
+        [
+            "1.2%"
+        ],
+        [
+            "20,697"
+        ],
+        [
+            "19,326"
+        ],
+        [
+            "1.31%"
+        ],
+        [
+            "44.94"
+        ],
+        [
+            "17.35"
+        ],
+        [
+            "460"
+        ],
+        [
+            "1,200"
+        ],
+        [
+            "19"
+        ],
+        [
+            "16\u00b058\u203206\u2033N 121\u00b043\u203245\u2033E\ufeff / \ufeff16.9683\u00b0N 121.7293\u00b0E\ufeff / 16.9683; 121.7293\ufeff (Luna)"
+        ],
+        [
+            "Maconacon"
+        ],
+        [
+            "1st"
+        ],
+        [
+            "0.2%"
+        ],
+        [
+            "3,977"
+        ],
+        [
+            "4,253"
+        ],
+        [
+            "\u22121.27%"
+        ],
+        [
+            "538.66"
+        ],
+        [
+            "207.98"
+        ],
+        [
+            "7.4"
+        ],
+        [
+            "19"
+        ],
+        [
+            "10"
+        ],
+        [
+            "17\u00b023\u203221\u2033N 122\u00b014\u203223\u2033E\ufeff / \ufeff17.3893\u00b0N 122.2398\u00b0E\ufeff / 17.3893; 122.2398\ufeff (Maconacon)"
+        ],
+        [
+            "Mallig"
+        ],
+        [
+            "5th"
+        ],
+        [
+            "1.9%"
+        ],
+        [
+            "32,208"
+        ],
+        [
+            "30,459"
+        ],
+        [
+            "1.07%"
+        ],
+        [
+            "158.55"
+        ],
+        [
+            "61.22"
+        ],
+        [
+            "200"
+        ],
+        [
+            "520"
+        ],
+        [
+            "18"
+        ],
+        [
+            "17\u00b012\u203241\u2033N 121\u00b036\u203240\u2033E\ufeff / \ufeff17.2114\u00b0N 121.6112\u00b0E\ufeff / 17.2114; 121.6112\ufeff (Mallig)"
+        ],
+        [
+            "Naguilian"
+        ],
+        [
+            "2nd"
+        ],
+        [
+            "2.0%"
+        ],
+        [
+            "33,788"
+        ],
+        [
+            "31,902"
+        ],
+        [
+            "1.10%"
+        ],
+        [
+            "169.81"
+        ],
+        [
+            "65.56"
+        ],
+        [
+            "200"
+        ],
+        [
+            "520"
+        ],
+        [
+            "25"
+        ],
+        [
+            "17\u00b001\u203223\u2033N 121\u00b050\u203206\u2033E\ufeff / \ufeff17.0231\u00b0N 121.8350\u00b0E\ufeff / 17.0231; 121.8350\ufeff (Naguilian)"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "2nd"
+        ],
+        [
+            "1.0%"
+        ],
+        [
+            "17,684"
+        ],
+        [
+            "17,260"
+        ],
+        [
+            "0.46%"
+        ],
+        [
+            "880.24"
+        ],
+        [
+            "339.86"
+        ],
+        [
+            "20"
+        ],
+        [
+            "52"
+        ],
+        [
+            "17"
+        ],
+        [
+            "17\u00b003\u203246\u2033N 122\u00b025\u203245\u2033E\ufeff / \ufeff17.0628\u00b0N 122.4292\u00b0E\ufeff / 17.0628; 122.4292\ufeff (Palanan)"
+        ],
+        [
+            "Quezon"
+        ],
+        [
+            "5th"
+        ],
+        [
+            "1.6%"
+        ],
+        [
+            "27,037"
+        ],
+        [
+            "25,860"
+        ],
+        [
+            "0.85%"
+        ],
+        [
+            "207.07"
+        ],
+        [
+            "79.95"
+        ],
+        [
+            "130"
+        ],
+        [
+            "340"
+        ],
+        [
+            "15"
+        ],
+        [
+            "17\u00b018\u203241\u2033N 121\u00b036\u203221\u2033E\ufeff / \ufeff17.3114\u00b0N 121.6059\u00b0E\ufeff / 17.3114; 121.6059\ufeff (Quezon)"
+        ],
+        [
+            "Quirino"
+        ],
+        [
+            "5th"
+        ],
+        [
+            "1.5%"
+        ],
+        [
+            "25,023"
+        ],
+        [
+            "24,501"
+        ],
+        [
+            "0.40%"
+        ],
+        [
+            "126.20"
+        ],
+        [
+            "48.73"
+        ],
+        [
+            "200"
+        ],
+        [
+            "520"
+        ],
+        [
+            "21"
+        ],
+        [
+            "17\u00b009\u203210\u2033N 121\u00b045\u203219\u2033E\ufeff / \ufeff17.1529\u00b0N 121.7554\u00b0E\ufeff / 17.1529; 121.7554\ufeff (Quirino)"
+        ],
+        [
+            "Ramon"
+        ],
+        [
+            "3rd"
+        ],
+        [
+            "3.3%"
+        ],
+        [
+            "56,523"
+        ],
+        [
+            "52,707"
+        ],
+        [
+            "1.34%"
+        ],
+        [
+            "135.17"
+        ],
+        [
+            "52.19"
+        ],
+        [
+            "420"
+        ],
+        [
+            "1,100"
+        ],
+        [
+            "19"
+        ],
+        [
+            "16\u00b046\u203253\u2033N 121\u00b032\u203206\u2033E\ufeff / \ufeff16.7815\u00b0N 121.5351\u00b0E\ufeff / 16.7815; 121.5351\ufeff (Ramon)"
+        ],
+        [
+            "Reina Mercedes"
+        ],
+        [
+            "2nd"
+        ],
+        [
+            "1.6%"
+        ],
+        [
+            "27,900"
+        ],
+        [
+            "26,998"
+        ],
+        [
+            "0.63%"
+        ],
+        [
+            "57.14"
+        ],
+        [
+            "22.06"
+        ],
+        [
+            "490"
+        ],
+        [
+            "1,300"
+        ],
+        [
+            "20"
+        ],
+        [
+            "16\u00b059\u203215\u2033N 121\u00b049\u203207\u2033E\ufeff / \ufeff16.9875\u00b0N 121.8186\u00b0E\ufeff / 16.9875; 121.8186\ufeff (Reina Mercedes)"
+        ],
+        [
+            "Roxas"
+        ],
+        [
+            "5th"
+        ],
+        [
+            "3.9%"
+        ],
+        [
+            "65,839"
+        ],
+        [
+            "61,773"
+        ],
+        [
+            "1.22%"
+        ],
+        [
+            "139.95"
+        ],
+        [
+            "54.03"
+        ],
+        [
+            "470"
+        ],
+        [
+            "1,200"
+        ],
+        [
+            "26"
+        ],
+        [
+            "17\u00b007\u203218\u2033N 121\u00b037\u203211\u2033E\ufeff / \ufeff17.1218\u00b0N 121.6198\u00b0E\ufeff / 17.1218; 121.6198\ufeff (Roxas)"
+        ],
+        [
+            "San Agustin"
+        ],
+        [
+            "4th"
+        ],
+        [
+            "1.3%"
+        ],
+        [
+            "22,096"
+        ],
+        [
+            "22,880"
+        ],
+        [
+            "\u22120.66%"
+        ],
+        [
+            "278.40"
+        ],
+        [
+            "107.49"
+        ],
+        [
+            "79"
+        ],
+        [
+            "200"
+        ],
+        [
+            "23"
+        ],
+        [
+            "16\u00b030\u203224\u2033N 121\u00b044\u203251\u2033E\ufeff / \ufeff16.5067\u00b0N 121.7474\u00b0E\ufeff / 16.5067; 121.7474\ufeff (San Agustin)"
+        ],
+        [
+            "San Guillermo"
+        ],
+        [
+            "6th"
+        ],
+        [
+            "1.2%"
+        ],
+        [
+            "20,915"
+        ],
+        [
+            "20,200"
+        ],
+        [
+            "0.66%"
+        ],
+        [
+            "457.35"
+        ],
+        [
+            "176.58"
+        ],
+        [
+            "46"
+        ],
+        [
+            "120"
+        ],
+        [
+            "26"
+        ],
+        [
+            "16\u00b043\u203211\u2033N 121\u00b048\u203231\u2033E\ufeff / \ufeff16.7198\u00b0N 121.8087\u00b0E\ufeff / 16.7198; 121.8087\ufeff (San Guillermo)"
+        ],
+        [
+            "San Isidro"
+        ],
+        [
+            "6th"
+        ],
+        [
+            "1.6%"
+        ],
+        [
+            "27,044"
+        ],
+        [
+            "24,861"
+        ],
+        [
+            "1.62%"
+        ],
+        [
+            "71.90"
+        ],
+        [
+            "27.76"
+        ],
+        [
+            "380"
+        ],
+        [
+            "980"
+        ],
+        [
+            "13"
+        ],
+        [
+            "16\u00b044\u203203\u2033N 121\u00b038\u203201\u2033E\ufeff / \ufeff16.7343\u00b0N 121.6337\u00b0E\ufeff / 16.7343; 121.6337\ufeff (San Isidro)"
+        ],
+        [
+            "San Manuel"
+        ],
+        [
+            "5th"
+        ],
+        [
+            "2.0%"
+        ],
+        [
+            "34,085"
+        ],
+        [
+            "31,896"
+        ],
+        [
+            "1.27%"
+        ],
+        [
+            "112.77"
+        ],
+        [
+            "43.54"
+        ],
+        [
+            "300"
+        ],
+        [
+            "780"
+        ],
+        [
+            "19"
+        ],
+        [
+            "17\u00b001\u203220\u2033N 121\u00b037\u203254\u2033E\ufeff / \ufeff17.0223\u00b0N 121.6318\u00b0E\ufeff / 17.0223; 121.6318\ufeff (San Manuel)"
+        ],
+        [
+            "San Mariano"
+        ],
+        [
+            "2nd"
+        ],
+        [
+            "3.5%"
+        ],
+        [
+            "60,124"
+        ],
+        [
+            "55,370"
+        ],
+        [
+            "1.58%"
+        ],
+        [
+            "1,459.16"
+        ],
+        [
+            "563.38"
+        ],
+        [
+            "41"
+        ],
+        [
+            "110"
+        ],
+        [
+            "36"
+        ],
+        [
+            "16\u00b059\u203201\u2033N 122\u00b000\u203246\u2033E\ufeff / \ufeff16.9835\u00b0N 122.0127\u00b0E\ufeff / 16.9835; 122.0127\ufeff (San Mariano)"
+        ],
+        [
+            "San Mateo"
+        ],
+        [
+            "3rd"
+        ],
+        [
+            "3.9%"
+        ],
+        [
+            "66,663"
+        ],
+        [
+            "64,505"
+        ],
+        [
+            "0.63%"
+        ],
+        [
+            "120.60"
+        ],
+        [
+            "46.56"
+        ],
+        [
+            "550"
+        ],
+        [
+            "1,400"
+        ],
+        [
+            "33"
+        ],
+        [
+            "16\u00b052\u203252\u2033N 121\u00b035\u203216\u2033E\ufeff / \ufeff16.8812\u00b0N 121.5878\u00b0E\ufeff / 16.8812; 121.5878\ufeff (San Mateo)"
+        ],
+        [
+            "San Pablo"
+        ],
+        [
+            "1st"
+        ],
+        [
+            "1.6%"
+        ],
+        [
+            "26,320"
+        ],
+        [
+            "25,384"
+        ],
+        [
+            "0.69%"
+        ],
+        [
+            "637.90"
+        ],
+        [
+            "246.29"
+        ],
+        [
+            "41"
+        ],
+        [
+            "110"
+        ],
+        [
+            "17"
+        ],
+        [
+            "17\u00b026\u203254\u2033N 121\u00b047\u203243\u2033E\ufeff / \ufeff17.4483\u00b0N 121.7952\u00b0E\ufeff / 17.4483; 121.7952\ufeff (San Pablo)"
+        ],
+        [
+            "Santa Maria"
+        ],
+        [
+            "1st"
+        ],
+        [
+            "1.5%"
+        ],
+        [
+            "25,758"
+        ],
+        [
+            "25,382"
+        ],
+        [
+            "0.28%"
+        ],
+        [
+            "124.90"
+        ],
+        [
+            "48.22"
+        ],
+        [
+            "210"
+        ],
+        [
+            "540"
+        ],
+        [
+            "20"
+        ],
+        [
+            "17\u00b028\u203217\u2033N 121\u00b045\u203209\u2033E\ufeff / \ufeff17.4713\u00b0N 121.7524\u00b0E\ufeff / 17.4713; 121.7524\ufeff (Santa Maria)"
+        ],
+        [
+            "Santiago City"
+        ],
+        [
+            "^"
+        ],
+        [
+            "4th"
+        ],
+        [
+            "8.8%"
+        ],
+        [
+            "148,580"
+        ],
+        [
+            "134,830"
+        ],
+        [
+            "1.87%"
+        ],
+        [
+            "255.50"
+        ],
+        [
+            "98.65"
+        ],
+        [
+            "580"
+        ],
+        [
+            "1,500"
+        ],
+        [
+            "37"
+        ],
+        [
+            "16\u00b041\u203215\u2033N 121\u00b032\u203241\u2033E\ufeff / \ufeff16.6875\u00b0N 121.5446\u00b0E\ufeff / 16.6875; 121.5446\ufeff (Santiago)"
+        ],
+        [
+            "Santo Tomas"
+        ],
+        [
+            "1st"
+        ],
+        [
+            "1.4%"
+        ],
+        [
+            "24,528"
+        ],
+        [
+            "23,005"
+        ],
+        [
+            "1.23%"
+        ],
+        [
+            "80.58"
+        ],
+        [
+            "31.11"
+        ],
+        [
+            "300"
+        ],
+        [
+            "780"
+        ],
+        [
+            "27"
+        ],
+        [
+            "17\u00b023\u203259\u2033N 121\u00b045\u203257\u2033E\ufeff / \ufeff17.3998\u00b0N 121.7658\u00b0E\ufeff / 17.3998; 121.7658\ufeff (Santo Tomas)"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "1st"
+        ],
+        [
+            "4.2%"
+        ],
+        [
+            "70,743"
+        ],
+        [
+            "67,650"
+        ],
+        [
+            "0.85%"
+        ],
+        [
+            "471.68"
+        ],
+        [
+            "182.12"
+        ],
+        [
+            "150"
+        ],
+        [
+            "390"
+        ],
+        [
+            "46"
+        ],
+        [
+            "17\u00b016\u203226\u2033N 121\u00b048\u203235\u2033E\ufeff / \ufeff17.2739\u00b0N 121.8098\u00b0E\ufeff / 17.2739; 121.8098\ufeff (Tumauini)"
+        ],
+        [
+            "Total"
+        ],
+        [
+            "1,697,050"
+        ],
+        [
+            "1,593,566"
+        ],
+        [
+            "1.21%"
+        ],
+        [
+            "13,102.05"
+        ],
+        [
+            "5,058.73"
+        ],
+        [
+            "130"
+        ],
+        [
+            "340"
+        ],
+        [
+            "1,055"
+        ],
+        [
+            "(see GeoGroup box)"
+        ],
+        [
+            "^ Coordinates mark the city/town center, and are sortable by latitude.^ Total figures include the independent component city of Santiago."
+        ],
+        [
+            "1  Became a component city on March 30, 2001, under Republic Act 9017.2  Became a component city on August 11, 2012, under Republic Act 10169.3  Became an independent component city on July 6, 1994, under Republic Act 7720."
+        ],
+        [
+            "Barangays"
+        ],
+        [
+            "The 34 municipalities and 3 cities of the province comprise 1,055 barangays, with Rizal in Santiago City as the most populous in 2010, and Catalina in Cauayan as the least.",
+            "If cities are excluded, Bugallon Proper (Poblacion) in Ramon has the highest population, and Uauang-Tuliao in Santo Tomas has the lowest."
+        ],
+        [
+            "Further information: List of barangays in Isabela"
+        ],
+        [
+            "Government"
+        ],
+        [
+            "Isabela Provincial Capitol"
+        ],
+        [
+            "Governors"
+        ],
+        [
+            "Main article: List of governors of Isabela"
+        ],
+        [
+            "After Isabela was re-organized as a province under the American regime in 1901, its first provincial governor was Rafael Maramag, a former Municipal President and also the first Municipal President of the capital town Ilagan.",
+            "He was succeeded by his brother, Gabriel.",
+            "Since 1969, the position has been occupied mostly by members of the Dy family, a political dynasty based in Cauayan that has expanded to neighboring municipalities.",
+            "The current governor is Rodolfo \"Rodito\" Albano III, a member of the Albano dynasty that dominates Isabela's 1st congressional district and is an ally of the Dys."
+        ],
+        [
+            "Members of the Isabela Provincial Council (2022-2025)"
+        ],
+        [
+            "Position"
+        ],
+        [
+            "Provincial Official"
+        ],
+        [
+            "Provincial Governor"
+        ],
+        [
+            "Rodolfo T. Albano III"
+        ],
+        [
+            "Provincial Vice Governor"
+        ],
+        [
+            "Faustino G. Dy III"
+        ],
+        [
+            "District Representatives"
+        ],
+        [
+            "Rep. Antonio T. Albano (1st District)"
+        ],
+        [
+            "Rep. Ed Christopher S. Go (2nd District)"
+        ],
+        [
+            "Rep. Ian Paul L. Dy (3rd District)"
+        ],
+        [
+            "Rep. Joseph S. Tan (4th District and Santiago City)"
+        ],
+        [
+            "Rep. Faustino Michael Carlos T. Dy III (5th District)"
+        ],
+        [
+            "Rep. Faustino A. Dy V (6th District)"
+        ],
+        [
+            "Provincial Board Members"
+        ],
+        [
+            "Delfinito Emmanuel L. Albano (1st District)"
+        ],
+        [
+            "Emmanuel Joselito B. A\u00f1es (1st District)"
+        ],
+        [
+            "Ed Christian S. Go (2nd District)"
+        ],
+        [
+            "Edgar R. Capuchino (2nd District)"
+        ],
+        [
+            "Mary Grace A. Arreola (3rd District)"
+        ],
+        [
+            "Ramon Juan N. Reyes (3rd District)"
+        ],
+        [
+            "Clifford R. Raspado (4th District)"
+        ],
+        [
+            "Victor G. Dy (4th District)"
+        ],
+        [
+            "Manuel Faustino Dy (5th District)"
+        ],
+        [
+            "Edward S. Isidro (5th District)"
+        ],
+        [
+            "Marco Paolo A. Meris (6th District)"
+        ],
+        [
+            "Amador A. Gaffud Jr. (6th District)"
+        ],
+        [
+            "Legislative districts"
+        ],
+        [
+            "On September 27, 2018, Republic Act No.",
+            "11080, an act reapportioning the province of Isabela into six legislative districts from four, was signed into law and the reapportioned districts elected its representatives starting in the 2019 midterm elections.",
+            "are as follows:"
+        ],
+        [
+            "First District: Cabagan, Delfin Albano, Divilacan, Ilagan City, Maconacon, San Pablo, Santa Maria, Santo Tomas and Tumauini."
+        ],
+        [
+            "Second District: Benito Soliven, Gamu, Naguilian, Palanan, Reina Mercedes and San Mariano."
+        ],
+        [
+            "Third District: Alicia, Angadanan, Cabatuan, Ramon and San Mateo."
+        ],
+        [
+            "Fourth District: Cordon, Dinapigue, Jones, Santiago City and San Agustin."
+        ],
+        [
+            "Fifth District: Aurora, Burgos, Luna, Mallig, Quezon, Quirino, Roxas and San Manuel."
+        ],
+        [
+            "Sixth District: Cauayan, Echague, San Guillermo and San Isidro."
+        ],
+        [
+            "Demographics"
+        ],
+        [
+            "Population census of IsabelaYearPop.\u00b1% p.a.1903 76,431\u2014\u00a0\u00a0\u00a0\u00a01918 112,960+2.64%1939 219,864+3.22%1948 264,495+2.07%1960 442,062+4.37%1970 648,123+3.90%1975 730,386+2.43%1980 870,604+3.57%1990 1,080,341+2.18%1995 1,160,721+1.35%2000 1,287,575+2.25%2007 1,401,495+1.18%2010 1,489,645+2.24%2015 1,593,566+1.29%2020 1,697,050+1.24%Source: Philippine Statistics Authority"
+        ],
+        [
+            "The population of Isabela in the 2020 census was 1,697,050 people, making it the most populated province among the five provinces in Cagayan Valley (Region II).",
+            "It had a density of 140 inhabitants per square kilometre or 360 inhabitants per square mile."
+        ],
+        [
+            "In 2010, Isabela had a population of 1,489,645 people: 46 percent of the 3.2 million people in the region at that time.",
+            "At the national level, the province contributed 1.58 percent to the total population of 88.57 million.",
+            "There were 254,928 households in the province in 2007."
+        ],
+        [
+            "For all ages, the sex ratio in Isabela was about 105 with 660,627 males and 626,948 females in the 2000 Census of Population and Housing (Census 2000).",
+            "There are more males than females below 50 years old."
+        ],
+        [
+            "Ilocanos are the most prominent group in the province.",
+            "Of the total household population, 68.71 percent classified themselves as Ilocanos, followed by the Ibanags (14.05 percent), and Tagalogs (10.02 percent).",
+            "The majority ethnic group were the Ibanags, who were first seen by the Spanish explorers and converted to Christianity by missionaries, the reason why the Ibanag language had spread throughout the valley region prior to the arrival of the migrating Ilocanos.",
+            "The remaining 7.22 percent are either Gaddang, Paranan, Yogad, or from other ethnic groups who have assimilated into the Ibanag-Ilocano culture.",
+            "More recently, a new group from the south, the Muslim Filipinos, have migrated to this province and have made a community for themselves.",
+            "In addition to this, Tagalog-speaking peoples from Central Luzon (mostly from Nueva Ecija and Aurora) and Southern Luzon have also settled in the area, as well as a few Pangasinans and Kapampangans from the Central Luzon; the majority of the population of Palanan are Tagalogs, with ancestors being settlers from Baler, Aurora during Spanish territorial rule."
+        ],
+        [
+            "Major languages spoken are Ilocano followed by Ibanag, Yogad, and Gaddang.",
+            "Ilocanos and Ibanags speak Ilocano with an Ibanag accent, as descendants of Ilocanos from first generation in Isabela who lived within Ibanag population learned Ibanag; same situation with Ilocano tinged by Gaddang, Paranan, Yogad, and Itawis accents when descendants of Ilocanos from first generation in Isabela who lived within Gaddang, Paranan, Yogad, and Itawis populations learned their languages.",
+            "People especially in the capital and commercial centers speak and understand English and Tagalog.",
+            "Tagalogs, Ilocanos, and Ibanags speak Tagalog with an Ibanag accent, as descendants of Tagalogs from first generation in Isabela who lived within Ibanag population learned Ibanag."
+        ],
+        [
+            "Religion"
+        ],
+        [
+            "Main article: Religion in the Philippines"
+        ],
+        [
+            "Catholicism"
+        ],
+        [
+            "Roman Catholicism is the predominant faith followed by about 80% of the people."
+        ],
+        [
+            "Others"
+        ],
+        [
+            "Iglesio ni Cristo is the second most popular religion, with 4% of the population."
+        ],
+        [
+            "Other religions include Members Church of God International (MCGI), Aglipayan, United Methodist Church, the Church of Jesus Christ of Latter-day Saints, Baptists, Seventh-day Adventists, Jehovah's Witnesses, and other Charismatic Christians.",
+            "There are also a small number of Muslims."
+        ],
+        [
+            "Economy"
+        ],
+        [
+            "Poverty incidence of Isabela"
+        ],
+        [
+            "5"
+        ],
+        [
+            "10"
+        ],
+        [
+            "15"
+        ],
+        [
+            "20"
+        ],
+        [
+            "25"
+        ],
+        [
+            "30"
+        ],
+        [
+            "2006  29.64"
+        ],
+        [
+            "2009  28.90"
+        ],
+        [
+            "2012  24.37"
+        ],
+        [
+            "2015  17.87"
+        ],
+        [
+            "2018  17.08"
+        ],
+        [
+            "2021  15.90"
+        ],
+        [
+            "Source: Philippine Statistics Authority"
+        ],
+        [
+            "In terms of income classification, Isabela is rated as first-class province and considered among the richest and most progressive province in the Philippines and the most progressive in Region 02 courtesy of the three key cities strategically located in the province."
+        ],
+        [
+            "Trade and industry"
+        ],
+        [
+            "This section focuses too much on specific examples without explaining their importance to its main subject.",
+            "Please help improve this article by citing reliable, secondary sources that evaluate and synthesize these or similar examples within a broader context.",
+            "(June 2016)"
+        ],
+        [
+            "This section may contain information not important or relevant to the article's subject.",
+            "Please help improve this section.",
+            "(June 2016) (Learn how and when to remove this message)"
+        ],
+        [
+            "Strategically located at the center of Cagayan Valley region, Isabela is acknowledged to have demonstrated strengths in business and industry.",
+            "Thus, it has come to be known as the Regional Trade and Industrial Center of north-eastern Luzon."
+        ],
+        [
+            "The province of Isabela is the richest in Cagayan Valley.",
+            "It is also the 9th Richest Province in the Philippines last 2021."
+        ],
+        [
+            "The cities of Cauayan, Ilagan, Santiago and the town of Roxas are the principal commercial centers of the province.",
+            "Metro Manila-based malls and fast food chains have recently opened in these key trading hubs.",
+            "To date, 192 banking branches operate in the province, with most of the universal and commercial banks providing automated teller machines for the convenience of their clients."
+        ],
+        [
+            "Since the start of the 21st century, a growing number of foreign and local investors have selected Isabela as site of their business ventures.",
+            "Heading the list are Isabela's top investors, namely: Mindanao Grains Processing Company, Inc., SN Aboitiz Power- Magat Inc., Universal Leaf Philippines, Coca-Cola Beverages Philippines, Inc., San Miguel Corporation, RC Cola and Pepsi Cola."
+        ],
+        [
+            "In the rice industry, substantial investments have been made by Valiant Rice Mills Corporation, Family Choice Grains Processing Center, Golden Season Grains Center, Herco Agro Industries, JDT Silver Grains Center, New Cauayan Goldyluck Grains and the La Suerte Rice Mill Corporation."
+        ],
+        [
+            "Retail giants like SM Prime, Robinsons and Puregold Price Club, Inc. have set up shops like Savemore, Robinsons Supermarket and Puregold, respectively.",
+            "In 2014, these retail companies opened its pioneer malls in the region, the SM City Cauayan and Robinsons Place Santiago."
+        ],
+        [
+            "Land transportation operators Victory Liner, Five Star Bus Company, Dalin Liner, GV Florida Transport, EMC Transportation, Inc., Solid North Transit Inc., Partas"
+        ],
+        [
+            "Leading car, motorcycle and truck manufacturers such as Honda, Toyota, Mitsubishi Motors, Isuzu Motors, Kia Motors, Nissan, Ford, Chevrolet, Suzuki, Hyundai, Mazda, Geely Philippines, Foton, Peugeot, MAN SE, Yamaha and many other companies entered the province over the past years."
+        ],
+        [
+            "Telecom firms Globe, PLDT/Smart and Dito Telecommunity operate cellular sites and fixed telephony facilities throughout Isabela."
+        ],
+        [
+            "Big real estate developers like Vista Land and Lifescapes, Inc. entered the province with the opening of Camella Isabela, Camella Santiago, Camella Santiago Trails and Lessandra Santiago in Santiago City, and Camella Cauayan and Lumina Isabela in Cauayan.",
+            "Vista Malls is set to launch its first high end mall in Santiago City."
+        ],
+        [
+            "Agriculture"
+        ],
+        [
+            "This section may need to be rewritten to comply with Wikipedia's quality standards.",
+            "You can help.",
+            "The talk page may contain suggestions.",
+            "(June 2016)"
+        ],
+        [
+            "Agriculture is the biggest industry in Isabela.",
+            "As the country's top corn producing province, it contributes 13.02% of the annual national yellow corn production.",
+            "Asia's largest post-harvest corn processing facility, the Mindanao Grains, is located in the town of Reina Mercedes."
+        ],
+        [
+            "As second highest rice-growing province nationwide, Isabela produces 15% of the aggregate national rice production on an annual basis.",
+            "Being a surplus producer of the Filipinos\u2019 staple crop, the province's rice sufficiency rate is at 224%, which means that Isabelinos produce more than they consume and are in fact responsible for supplying the rice requirements of Metro Manila and many other provinces.",
+            "The unprecedented increase in palay production of Isabela made the province the Hybrid Rice Champion of the Philippines."
+        ],
+        [
+            "High-value agricultural crops grown in Isabela include monggo, tobacco, coffee, banana, and mango.",
+            "Its livestock and poultry industries are also on the rise, especially dairy processing, hog production, cattle breeding, and commercial poultry raising."
+        ],
+        [
+            "Farming is highly mechanized as most of the agricultural lands are irrigated.",
+            "It is also the hub of trade and commerce and other economic activities due to its central location in the region.",
+            "The wood industry used to be a top earner for the province but due to the logging ban imposed in the Cagayan Valley Region, activities in this industry considerably declined.",
+            "However, furniture making using narra wood and other indigenous forest materials continue to exist."
+        ],
+        [
+            "Isabela is one of the most progressive provinces of the Philippines having been adjudged as the most outstanding province on food security in the Gawad Sapat Ani Awards 2000.",
+            "For corn production, Isabela ranks first among the top ten corn producing provinces for cy 2004, contributing 15.70% to national production.",
+            "In 2013, the Department of Agriculture declared Isabela as the Best Corn-Quality Awardee."
+        ],
+        [
+            "Forestland"
+        ],
+        [
+            "Forests in Palanan"
+        ],
+        [
+            "Forestland covers 54.37% or 579,819 hectares (1,432,760 acres) of Isabela's total land area of which 62% is protected forest and 38% is production forest.",
+            "The best quality of timber resources in the Philippines are found in Isabela's forests.",
+            "Isabela's vast forest resources are now being ecologically managed to effect sustainable forest-based resource not only for the wood working industry but to secure a balanced ecosystem.",
+            "The woodwork industry continues to operate under a regulated system, particularly the making of furniture using indigenous materials."
+        ],
+        [
+            "Fisheries"
+        ],
+        [
+            "Isabela's coast in Divilacan"
+        ],
+        [
+            "Isabela has a fertile fishing ground on the Pacific Coast.",
+            "The Magat Dam reservoir is utilized for fish cage operations for tilapia production for domestic markets."
+        ],
+        [
+            "Mineral and energy"
+        ],
+        [
+            "Large deposits of copper, gold, zinc and chromite, manganese and nickel have been found in Isabela.",
+            "It also has extensive deposits of non-metallic minerals such as limestone, clay, marbles, guano, sand and gravel, and boulders.",
+            "Indigenous energy sources such as natural gas and hydroelectric capabilities have been found to be abundant in the valley.",
+            "Many of its mineral reserves have yet to be fully tapped."
+        ],
+        [
+            "Power"
+        ],
+        [
+            "This section reads like a press release or a news article and may be largely based on routine coverage.",
+            "Please help improve this article and add independent sources.",
+            "(June 2016)"
+        ],
+        [
+            "Magat Dam in Ramon"
+        ],
+        [
+            "Solar and biomass power plants in the city of Cauayan and in the town of Alicia have started operating in 2015 to supplement the region's high energy demand.",
+            "The online solar power plant in Cauayan is capable of supplying at least 20 megawatts while the biomass power plant in Alicia can produce another 20 megawatts.",
+            "Both systems provide clean and renewable energy.",
+            "The P2 billion power facility established by the Isabela Biomass Energy Corporation (IBEC) was built to augment power supply in the Cagayan Valley region."
+        ],
+        [
+            "On 27 May 2015, the service contract of the largest solar PV power plant in the country has been approved by the Department of Energy (DOE).",
+            "The P7-billion worth 100 MW Solar PV project in the city of Ilagan is designed to reduce the current shortage of electricity that causes regular blackouts that results to industry closures as well as inconvenience to the consumers.",
+            "The solar power facility will be constructed at a 100-hectare land at Barangay Cabannungan, several kilometers away from the city proper."
+        ],
+        [
+            "In December 2022, the Department of Energy (DOE) has given the go signal to a Filipino-French joint venture to develop one of the biggest renewable energy projects in the Philippines - an P18-billion solar farm in Ilagan City.",
+            "The project will be undertaken by San Ignacio Energy Resources Development Corporation, which is part of the Nextnorth Energy Group developing over 450 megawatts of solar and hydro projects in Northern Luzon, and French firm Total Eren S.A.",
+            "The project will involve the development of a 440 MWp/336 MWac solar PV project to be built on around 400 hectares of available land located along the Northern Luzon high voltage transmission network of the National Grid Corporation of the Philippines (NGCP).",
+            "The project is scheduled to start construction in 2024 and start feeding electricity into the grid in 2025."
+        ],
+        [
+            "Transportation"
+        ],
+        [
+            "A road in Ramon"
+        ],
+        [
+            "Isabela is accessible by all means of transportation.",
+            "Almost 180-kilometers of the Pan-Philippine Highway pass through the different towns and cities of the province.",
+            "Several bus companies offer daily trips to different routes like Manila, Dagupan, Baguio, Ilocos, and vice versa.",
+            "Public utility vans and small-time bus operators ply daily trips from Tuguegarao in Cagayan to Santiago City vice versa, while jeepneys and tricycles are commonly used as the basic mode of transportation within the province's jurisdiction."
+        ],
+        [
+            "Ilagan-Divilacan Road"
+        ],
+        [
+            "The construction of an 82-kilometer route across the Sierra Madre National Park is intended to improve access to the province's three coastal communities.",
+            "The project's authorized budget contract, worth P1.5 billion, will traverse across the foothills of the Northern Sierra Madre mountain ranges, which cover 359,486 hectares.",
+            "The idea is to rehabilitate an ancient logging route that was utilized until the 1990s by a defunct logging firm.",
+            "It will begin in Barangay Sindon Bayabo in Ilagan City and end at Barangay Dicatian in Divilacan's seaside town.",
+            "The project is scheduled to conclude in 2021."
+        ],
+        [
+            "The secluded coastal settlements of Divilacan, Palanan, and Maconacon are frequently accessible only by boat or plane, making them difficult to reach at times of emergencies and calamities.",
+            "There are no highways connecting Ilagan's capital city to the coastal districts, denying locals access to basic commodities and social services such as health care.",
+            "Once completed, the route is projected to bolster coastal economies, citing Divilacan's 119-hectare beach and freshwater areas that have attracted tourists.",
+            "Resolution No.",
+            "11 of the Protected Area Management Board (PAMB) reclassifies areas of the Sierra Madre as a special-use zone.",
+            "Additionally, the Agta and Dumagat communities in the vicinity have signed a memorandum of understanding with the provincial administration expressing their support for the road project.",
+            "At least 1,800 Agta and Dumagat have made their homes in park areas.",
+            "However, the road's impact on the protected forest has upset neighbors, who believe the project will harm the region's woods and ecosystems.",
+            "The project has been delayed in recent years due to worries about the road's possible environmental impact.",
+            "The Cagayan Valley Regional Development Council required that the road's proponents conduct a comprehensive analysis of the road's impact on the area's biodiversity."
+        ],
+        [
+            "Airports and sea ports"
+        ],
+        [
+            "See also: Cauayan Airport"
+        ],
+        [
+            "There are three airports in the province.",
+            "The Cauayan Airport The province has two minor seaports, the Divilacan Port and Palanan Port in the coastal towns of Divilacan and Palanan.",
+            "The trade going to the ports comes primarily from major seaports in Cagayan such as Port of Aparri in Aparri, Cagayan, and Port of San Vicente and Port Irene, both in Santa Ana, Cagayan.",
+            "The other two airstrips are found in Divilacan, and in Magat River Management Project Site."
+        ],
+        [
+            "Education"
+        ],
+        [
+            "Isabela is one of the primary centers of education in the Cagayan Valley Region.",
+            "There are several public and private educational institutions, the most notable being the Isabela State University, a government-owned and controlled public university.",
+            "Its main campus is located in Echague and satellite campuses in Cauayan, Ilagan City, Angadanan, Cabagan, Jones, Palanan (extension), Roxas, San Mariano, San Mateo and Santiago City (extension)."
+        ],
+        [
+            "Colleges and universities"
+        ],
+        [
+            "This section reads like a directory.",
+            "Wikipedia policy generally considers directories in articles to be unencyclopedic and potential spam.",
+            "Please improve this article to conform to a higher standard of quality, and to make it neutral in tone.",
+            "If it cannot be properly modified, the article is likely to be merged, redirected, or deleted.",
+            "(September 2018) (Learn how and when to remove this message)"
+        ],
+        [
+            "Among the most notable higher educational institutions found in the province of Isabela are the following:"
+        ],
+        [
+            "AMA Computer College (City of Santiago Campus)"
+        ],
+        [
+            "Cagayan Valley Computer and Information Technology College, Inc. (City of Santiago Campus)"
+        ],
+        [
+            "East Asia International System College (City of Cauayan Campus)"
+        ],
+        [
+            "HGBaquiran College (HGBaquiran College; Tumauini Campus)"
+        ],
+        [
+            "International Technological Institute of Arts and Tourism (City of Ilagan Campus)"
+        ],
+        [
+            "Isabela State University (Angadanan Campus)"
+        ],
+        [
+            "Isabela State University (Echague; Main Campus)"
+        ],
+        [
+            "Isabela State University (Cabagan Campus)"
+        ],
+        [
+            "Isabela State University (City of Cauayan Campus)"
+        ],
+        [
+            "Isabela State University (Jones Campus)"
+        ],
+        [
+            "Isabela State University (City of Ilagan Campus)"
+        ],
+        [
+            "Isabela State University (Roxas Campus)"
+        ],
+        [
+            "Isabela State University (San Mariano Campus)"
+        ],
+        [
+            "Isabela State University (San Mateo Campus)"
+        ],
+        [
+            "Isabela State University (Palanan Extension Campus)"
+        ],
+        [
+            "Isabela State University (City of Santiago Extension Campus)"
+        ],
+        [
+            "Isabela College of Arts and Technology (City of Cauayan Campus)"
+        ],
+        [
+            "Mallig Plains Colleges (Mallig Campus)"
+        ],
+        [
+            "National Police College Regional Training School (City of Cauayan Campus)"
+        ],
+        [
+            "Northeastern College (City of Santiago Campus)"
+        ],
+        [
+            "Northeast Luzon Adventist College (Alicia Campus)"
+        ],
+        [
+            "Our Lady of the Pillar College (City of Cauayan Campus)"
+        ],
+        [
+            "Our Lady of the Pillar College (San Manuel Campus)"
+        ],
+        [
+            "La Patria College (City of Santiago Campus)"
+        ],
+        [
+            "Philippine Normal University (Alicia, Isabela Campus)"
+        ],
+        [
+            "Saint Clare College of Region 2 (City of Cauayan Campus)"
+        ],
+        [
+            "Saint Ferdinand College (Cabagan Satellite Campus)"
+        ],
+        [
+            "Saint Ferdinand College (City of Ilagan; Main Campus)"
+        ],
+        [
+            "Santiago City Colleges"
+        ],
+        [
+            "Santiago City Polytechnic College"
+        ],
+        [
+            "STI College (City of Cauayan Campus)"
+        ],
+        [
+            "Technical Education and Skills Development Authority (City of Ilagan; TESDA Accredited Competency Assessment Center)"
+        ],
+        [
+            "University of La Salette (City of Santiago Campus)"
+        ],
+        [
+            "University of Perpetual Help System (City of Cauayan, Isabela Campus)"
+        ],
+        [
+            "Tourism"
+        ],
+        [
+            "Since the early 2000s, tourism has become an income-generating industry for Isabela.",
+            "New hotels and resorts have opened, mostly in the cities of Ilagan, Cauayan and Santiago, and the towns of Tumauini, Gamu, Roxas, Alicia, Burgos, Ramon, San Mariano and Cordon.",
+            "Top tourist attractions are the centuries-old churches; Magat Dam Tourism Complex, which houses Southeast Asia's biggest dam; Santa Victoria Caves, Pinzal Falls and Ilagan Sanctuary at Fuyot National Park; the white sand beaches in the coastal municipalities of Maconacon, Divilacan, Palanan, Dinapigue and islands of coastal Isabela; the world's biggest wooden lounge chair or butaka in Ilagan City; and various festivals and fiestas, including the Bambanti Festival annually celebrated every February, and the commemoration of the birth of the province during Isabela Day every May."
+        ],
+        [
+            "Places of interest"
+        ],
+        [
+            "Tourist attraction"
+        ],
+        [
+            "Location"
+        ],
+        [
+            "Abuan River"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Aguinaldo Shrine \u2014 Historic capture and heroism of General Emilio Aguinaldo"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Ancient Burial Site (Archaeological Site)"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Antagan Caves"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "Balai na Ilagan"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Balay Segundo Museum"
+        ],
+        [
+            "Ramon"
+        ],
+        [
+            "Balay na Santiago"
+        ],
+        [
+            "Santiago City"
+        ],
+        [
+            "Bonifacio Park"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Bonsai No Sato Park"
+        ],
+        [
+            "Cauayan City"
+        ],
+        [
+            "Bonsai Park"
+        ],
+        [
+            "Dinapigue"
+        ],
+        [
+            "Borubor Falls"
+        ],
+        [
+            "Roxas"
+        ],
+        [
+            "Bountiful Flower Garden"
+        ],
+        [
+            "Alicia"
+        ],
+        [
+            "Burmurbur Falls"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Cabagan-Santa Maria Landmark Bridge"
+        ],
+        [
+            "Santa Maria"
+        ],
+        [
+            "Cabagan Square Park"
+        ],
+        [
+            "Cabagan"
+        ],
+        [
+            "Camp Samal Eco-Park and Training Center"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "Camp Vizcarra"
+        ],
+        [
+            "Ramon"
+        ],
+        [
+            "Crocodile Sanctuary"
+        ],
+        [
+            "San Mariano"
+        ],
+        [
+            "Department of Agriculture - Cagayan Valley Research Center Agro Eco-Tourism Farm"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Desert Island"
+        ],
+        [
+            "Divilacan"
+        ],
+        [
+            "Dibulo Falls"
+        ],
+        [
+            "Dinapigue"
+        ],
+        [
+            "Diminalno Lake"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Dicangrayan Falls"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Dicotcotan Beach"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Digoyo Cave"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Digoyo Point"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Dilaknadanum \u2014 is the home Agta people, a minority group on the coast of Isabela.",
+            "Features forests, beaches, rivers and small farmsteads uprivers."
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Dimanek Falls"
+        ],
+        [
+            "Palanan\u2014San Mariano boundary ridge"
+        ],
+        [
+            "Dinapigue Sea Wall"
+        ],
+        [
+            "Dinapigue"
+        ],
+        [
+            "Disadsad Falls"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Hacienda De San Luis"
+        ],
+        [
+            "Cauayan"
+        ],
+        [
+            "Hagdan na Bato"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Hanging Bridge"
+        ],
+        [
+            "Maconacon"
+        ],
+        [
+            "Honeymoon Island"
+        ],
+        [
+            "Divilacan"
+        ],
+        [
+            "Ilagan Sanctuary"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Ilagan Japanese Tunnel"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Isabela Museum and Library"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Isabela Provincial Capitol Grounds"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "\u201cIsabela Thy Will Be Done\u201d Marker"
+        ],
+        [
+            "Cordon"
+        ],
+        [
+            "Kagumatan Falls"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "Kuweba Danum"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "La Rizalina Orchard Garden and Farm"
+        ],
+        [
+            "Reina Mercedes"
+        ],
+        [
+            "La Salette Shrine \u2014 located in Balintocatoc Hills, contains life-sized statues of religious icons."
+        ],
+        [
+            "Santiago City"
+        ],
+        [
+            "Maconacon Falls"
+        ],
+        [
+            "Maconacon"
+        ],
+        [
+            "Magat High Rise Dam \u2014 Asia\u2019s biggest dam project at the time of its construction.",
+            "It serves the primary function of power generation and irrigation.",
+            "Its reservoir area of 4,450 hectares has a great potential for water-based recreation like fishing, boating and water skiing, among others."
+        ],
+        [
+            "Ramon"
+        ],
+        [
+            "Magoli Eco-Park and Natural Resort"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "Mammangi Park"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Meraki Garden"
+        ],
+        [
+            "Reina Mercedes"
+        ],
+        [
+            "Mororan"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "Museo de Pattaraday"
+        ],
+        [
+            "Santiago City"
+        ],
+        [
+            "Mushroom Center"
+        ],
+        [
+            "Cauayan City"
+        ],
+        [
+            "Obelisk"
+        ],
+        [
+            "Jones"
+        ],
+        [
+            "Pasa Dam"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Paseo De Paraiso Leisure Park"
+        ],
+        [
+            "Burgos"
+        ],
+        [
+            "Payong na Bato"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Pinzal Falls"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Punta Amelita Resort"
+        ],
+        [
+            "Cordon"
+        ],
+        [
+            "Queen Isabela II Monument and Park"
+        ],
+        [
+            "Ilagan City (in front of the Isabela Provincial Capitol)"
+        ],
+        [
+            "Rizal Park"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Sierra Madre Natural Forest Park"
+        ],
+        [
+            "Isabela's eastern coast"
+        ],
+        [
+            "Sinavulluan Caves"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "Spring Garden Resort"
+        ],
+        [
+            "Santiago City"
+        ],
+        [
+            "Santa Maria Triangular Park"
+        ],
+        [
+            "Santa Maria"
+        ],
+        [
+            "Santa Victoria Caves"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Sisangkilan Falls"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Sitio Binongbong"
+        ],
+        [
+            "San Agustin"
+        ],
+        [
+            "Torre de Hardin"
+        ],
+        [
+            "Naguilian"
+        ],
+        [
+            "Tumauini Watershed and Natural Park"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "Villa Diana Resort"
+        ],
+        [
+            "Cordon"
+        ],
+        [
+            "Water Impounding Dam"
+        ],
+        [
+            "Roxas"
+        ],
+        [
+            "Waterworld Grand Resort"
+        ],
+        [
+            "Ramon"
+        ],
+        [
+            "White Sand Beaches \u2014 Typical of coastal areas along the Sierra Madre mountains of Cagayan Valley."
+        ],
+        [
+            "Dinapigue, Palanan, and Divilacan coastal towns"
+        ],
+        [
+            "World's Largest Butaka \u2014 It is 11 feet 4\u00a0inches high, 20 feet 8\u00a0inches long, and 9 feet 7\u00a0inches wide.",
+            "It weighs 2,368 kilos and was constructed by 25 workers in 29 days."
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Churches"
+        ],
+        [
+            "Churches in IsabelaSan Pablo de Cabigan Church Ruins in San Pablo that was started in 1735The Church of Saint Rose of Lima in GamuThe St. Mathias Parish Church in Tumauini with its wedding cake-style bell towerOur Lady of Atocha Church in AliciaOur Lady of the Pillar Church in Cauayan"
+        ],
+        [
+            "San Pablo Church in San Pablo, the oldest town of Isabela founded by Padre de Santo Tomas on November 30, 1646 (about 210 years before Isabela was made a province).",
+            "Its six-level bell tower including the circular apex is made of adobe.",
+            "It is said to be the oldest in Isabela and the tallest in Cagayan Valley."
+        ],
+        [
+            "Saint Rose of Lima Church in Gamu is known for its Spanish architectural design.",
+            "Built in 1726 during the Spanish time, the church fa\u00e7ade was made of layered bricks and stones dating back during the 17th century and considered a pilgrimage church because of its antiquity."
+        ],
+        [
+            "Parish Church of St. Mathias in Tumauini was first built of light materials by Fray Francisco Mu\u0144ez, O.P., and dedicated to Patron Saint Matthias, 1707.",
+            "Separated from Cabagan and became regular parish, 1751.",
+            "The church of stone with a unique cylindrical bell tower.",
+            "The only of its kind in the Philippines was constructed by Father Domingo Forto in 1783 and completed, 1805.",
+            "The town became the capital of Isabela for a short time in the 1890s.",
+            "It is an ultra-baroque church unique for its extensive use of baked clay both for wall finishing and ornamentation and bears Chinese ancestry.",
+            "Partly damage during World War II and repaired into its original form by the faithful of Tumauini.",
+            "This church was declared as a National Cultural Treasure on February 24, 1989."
+        ],
+        [
+            "Our Lady of Atocha in Alicia was originally built by the Spaniards in the 18th century.",
+            "Passing by Angadanan on February 12, 1805, Fr.",
+            "Manuel Mora, OP wrote that \"Angadanan has a convent of bricks, though not totally finished.",
+            "Its church is timber, wood, and bamboo.",
+            "The number of inhabitants is 791.\"",
+            "The church and convent as seen today in the town of Alicia, was built by Fr.",
+            "Tomas Calderon, OP and inaugurated in 1849, with Fr.",
+            "Francisco Gainza, OP, then vicar of Carig (now Santiago City).",
+            "The church was dedicated to the Nuestra Se\u00f1ora de Atocha, more popularly known today as Our Lady of Atocha.",
+            "The church is known for its antique Castilian architectural design and can be found along the Maharlika Highway and is accessible by land transport."
+        ],
+        [
+            "Our Lady of the Pillar Parish Church in Cauayan was constructed by Fray Juan Prieto with the first class materials with galvanized roofing and a ceiling of bricks, dedicated to Nuestra Se\u00f1ora del Pilar.",
+            "It had a tower which was later destroyed by a violent earthquake.",
+            "Now, only the fa\u00e7ade of the Cauayan Church remains in its original form.",
+            "The original belfry is in ruins while a new nave and belfry was constructed and like the St. Mathias Church in the town of Tumauini, the facade has much interesting bas relief and portions of the bricks have numbers and symbols etched on it."
+        ],
+        [
+            "Saint Ferdinand Parish Proto-Cathedral"
+        ],
+        [
+            "National Shrine of Our Lady of the Visitation of Guibang is located in town of Gamu, frequented by travelers passing by the Maharlika Highway.",
+            "It comes alive every year on the month July when religious pilgrims visit to offer prayers during its feast day.",
+            "The image of the Our Lady of the Visitation was canonically crowned by the Most Rev.",
+            "Carmine Pocco, Papal Nuncio to the Philippines on May 26, 1973, at the former St. Ferdinand Cathedral (now St. Ferdinand Parish Proto-Cathedral) in Ilagan City.",
+            "The Catholic Bishops Conference of the Philippines at its 52nd Annual Bishop's Meeting held in Tagaytay on January 24\u201326, 1986 have approved the petition of Miguel Purugganan, former Bishop of the Diocese of Ilagan for the Church of Our Lady of the Visitation of Guibang to be called a National Shrine."
+        ],
+        [
+            "Saint James the Apostle Parish Church (Santiago City)"
+        ],
+        [
+            "Poor Saint Clare Monastery (Gamu)"
+        ],
+        [
+            "Cathedral of Saint Michael the Archangel (Gamu)"
+        ],
+        [
+            "Our Lady of La Salette Parish Church (Roxas)"
+        ],
+        [
+            "Saint Joseph the Worker Parish Church (Echague)"
+        ],
+        [
+            "San Isidro Labrador Parish Church (San Isidro)"
+        ],
+        [
+            "San Roque Parish Church (The only Parish Church in the province that entrusted in the Missionaries of Our Lady of La Salette) (Ramon)"
+        ],
+        [
+            "Festivals"
+        ],
+        [
+            "Festival"
+        ],
+        [
+            "City/town"
+        ],
+        [
+            "Notes"
+        ],
+        [
+            "Baka Festival"
+        ],
+        [
+            "San Pablo"
+        ],
+        [
+            "A survey revealing quite number of ranches in San Pablo led to the establishment of the Baka Festival.",
+            "Held every 15 January, it aims to promote the local cattle industry.",
+            "The festival also showcases cowboys of San Pablo displaying skills reminiscent of the American Wild West."
+        ],
+        [
+            "Balatong Festival"
+        ],
+        [
+            "San Mateo"
+        ],
+        [
+            "In San Mateo, mungo beans are packed with economic potential that it is referred to as \"black gold\".",
+            "In previous years, the annual town fiesta promoted duck-related products during the Pato Festival."
+        ],
+        [
+            "Bambanti Festival"
+        ],
+        [
+            "Province of Isabela"
+        ],
+        [
+            "Celebrated annually by the entire province to honor the province's bountiful harvest and its emerging agro-industrial prowess."
+        ],
+        [
+            "Binallay Festival"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Ilague\u00f1os have made the binallay a symbol of the noble characteristics they aspire to have.",
+            "These include being masipag (hardworking), matiyaga (patient), matalino (intelligent), and makadiyos (God fearing).",
+            "According to them, they are patient because the process of preparing binallay"
+        ],
+        [
+            "Binnadangan Festival"
+        ],
+        [
+            "Roxas"
+        ],
+        [
+            "A yearly celebration of Pagay Festival (Palay Festival) held every July 4.",
+            "The Festival was popularly known as the Araw ng Roxas Celebration but it was declared formally as Pagay Festival during the reign of Mayor Benedict Calderon.",
+            "It is celebrated because of the rich agricultural bounty of Roxas, being one of the towns that produce large stocks of rice.",
+            "The festival features a parade mostly of politicians and participating schools from different parts of Roxas, kuliglig contest and cooking of the biggest rice cake that was also featured in the national television.",
+            "Major events include a Street Dance Competition from different schools and Palarong Bayan.",
+            "Due to a conflict in the name of the festival, by which the town of Alicia celebrates the same.",
+            "It was changed to Binnadangan Festival by then Mayor Harry Soller.",
+            "The Binnadangan comes from an Ilocano word meaning bayanihan and was also derived from the former name of the town during the 1600s.",
+            "The festival ends with a long Pyromusical."
+        ],
+        [
+            "Dikit Festival"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Known for being an agricultural municipality, Aurora annually celebrates its Dikit Festival every April 28 to 30.",
+            "Dikit is an Ilocano term for \"glutinous rice\".",
+            "The festival is celebrated to showcase this delicacy and its by-products which are bibingka, muriecos, inangit, tupig, kalamay and tinudok, among others.",
+            "Farmers in Aurora plant this glutinous rice served to guests during special occasions."
+        ],
+        [
+            "Gakit Festival"
+        ],
+        [
+            "Angadanan"
+        ],
+        [
+            "An annual festival held at the Cagayan River.",
+            "Participants of the festival offer fruits, vegetables, poultry, and livestock as thanksgiving for their abundant bounty.",
+            "The practice also reminds Angadanians of their tradition of planting crops and raising poultry in their own backyards for their own consumption.",
+            "The Gakit Festival also aims to show Angadanians that progress can only be achieved if they are united as one.",
+            "A key detail of the festival is the hand-made bamboo rafts which are used by the participants.",
+            "Each bamboo pole, if alone, has no value.",
+            "It cannot float reliably on a river nor can it be used to transport anything.",
+            "But if many bamboo poles are tied together as one, it can be made into a raft which can float and sail on calm or rough waters while transporting people and products."
+        ],
+        [
+            "Gawagaway-yan Festival"
+        ],
+        [
+            "Cauayan"
+        ],
+        [
+            "The City Fiesta and the Feast of Our lady of the Pillar are celebrated annually on April 10\u201313 and October 10\u201312 respectively.",
+            "Since its conversion into a component city on March 30, 2001, the City Government started to celebrate its founding anniversary with the conduct of \"Gawagaway-yan Festival\" aimed to preserve the rich cultural heritage of the city.",
+            "It is highlighted by street dancing, beauty contest, trade fair, cultural parade, parlor games, free concert, band exhibition and other variety shows performed by local and Manila-based talents as well."
+        ],
+        [
+            "Isabela Day"
+        ],
+        [
+            "Province of Isabela"
+        ],
+        [
+            "Anniversary of the establishment of the civil government of Isabela in honor of Queen Isabella II of Spain.",
+            "Activities like agro-industrial trade and tourism fairs, parades, sports events are conducted to entertain visitors.",
+            "Also, one of the highlights of the celebration is the Miss Isabela, an extravagant colorful pageant featuring the candidates from each town/city of the province who exemplify Isabela's youth and vibrancy.",
+            "A grand fusion of fashion, music and dance with particular focus on Isabela's tourism attractions and its leader."
+        ],
+        [
+            "Kankanen Festival"
+        ],
+        [
+            "Cabatuan"
+        ],
+        [
+            "Celebrated in Cabatuan, showcasing native delicacies made of glutinous rice.",
+            "Mayor Alma Dayrit and the Rural Improvement Club started this annual tradition in 2003 and done on the Foundation Day rites of every year."
+        ],
+        [
+            "Mammangui Festival"
+        ],
+        [
+            "Ilagan City"
+        ],
+        [
+            "Celebrated by Ilague\u00f1o farmers as a thanksgiving activity for a bountiful harvest, Mammangui is an Ybanag word which means to harvest corn, the primary crop in the city."
+        ],
+        [
+            "Mangi Festival"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "Corn (Zea mays) was one of the plants that came aboard the Spanish galleons to become one of the primary crops of the Philippines.",
+            "The late National Artist for Dance, Ramon Obusan traced the origins of a traditional dance inspired by the crop to Tumauini.",
+            "Thus, a corn-inspired festival seemed especially appropriate for Tumauini."
+        ],
+        [
+            "Nateng Festival"
+        ],
+        [
+            "Mallig"
+        ],
+        [
+            "Cariada Festival"
+        ],
+        [
+            "San Manuel"
+        ],
+        [
+            "Nuang Festival"
+        ],
+        [
+            "San Agustin"
+        ],
+        [
+            "The carabao (Bubalus Bubalis Carabanesis), which remains a farmer's indispensable helpmate in the fields, is honoured in the Nuang Festival of San Agustin as are the products the carabao enables farmers to produce.",
+            "The town boasts of over 300 heads and farmers bring them over to the poblacion (town center) for the festival.",
+            "To get the cattle there, they either guide the animals onto the ferry and keep them quiet for the short river crossing or find the shallowest point of the river, take off their clothes then lead them across.",
+            "San Agustin supplies carabao milk to other towns where carabao milk candy is produced.",
+            "The festival also serves as a venue for promoting other major products such as maize (Zea mays) and bananas (Musa paradisiaca L.)."
+        ],
+        [
+            "Pagay Festival"
+        ],
+        [
+            "Alicia"
+        ],
+        [
+            "Held annually every September 28 in conjunction with the founding anniversary of the town of Alicia.",
+            "It used to be called Alicia Town Festival, but was redefined and renamed to Pagay Festival in 2010 by Mayor Cecilia Claire N. Reyes.",
+            "The festival aims to uphold the town's cultural identity and heritage and to promote the municipality's primary agricultural product called, pagay (Ilocano word for rice) - the municipality's major livelihood economy and trade mark.",
+            "The festival is widely participated by the community which features various competitions (e.g., rice planting, harvesting, and cooking among others), street dance showdown, beauty pageant (Mutya ng Alicia), battle of the bands, and exhibits.",
+            "However, the Pagay Parade is the main highlight of the festival that features decorated carabaos, various rice crop floats, and people marching with colorful costumes."
+        ],
+        [
+            "Pansi Festival"
+        ],
+        [
+            "Cabagan"
+        ],
+        [
+            "Pansi Festival is the official festivity of Cabagan.Pansi is an Ybanag word for pansit, a noodle dish topped with chopped karajay or lechon kawali in Tagalog.",
+            "The town became noted for its well-known local product, the \"Pansit Cabagan\"."
+        ],
+        [
+            "Pattaraday Festival"
+        ],
+        [
+            "Santiago City"
+        ],
+        [
+            "From pattaraday, an Ybanag word for \"unity\", the festival is celebrated in the city of Santiago to honor its founding anniversary, and the unity of the ethnolinguistic groups that have merged in the city to make it the melting pot of culture of Region II and contributed to the city's progress and development-unity in action.",
+            "Highlighted with the presentation of the Comedia \u2013 a moro-moro dance made famous by the Spaniards to stress the power of Christian Religion over the Moorish non-believers; other activities include beauty pageant, grand batalla presentations and a grand street dancing parade and exhibition with performers from other cities, provinces and regions."
+        ],
+        [
+            "Pinilisa Festival"
+        ],
+        [
+            "Jones"
+        ],
+        [
+            "Sabutan Festival"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Held every March in Palanan, the festival is named after the local name for pandan (Pandanus tectorius) which is plentiful in the town.",
+            "The people of Palanan are fine craftsmen who weave dyed and natural colored strips into a variety of bags, hats, and placemats, among other items that have both traditional and contemporary designs.",
+            "For the festival, the sabutan products are not only sold, these are also used as a theme and are fashioned into costumes and d\u00e9cor."
+        ],
+        [
+            "Sinag-Banga Festival"
+        ],
+        [
+            "San Isidro"
+        ],
+        [
+            "Balamban Dance Festival"
+        ],
+        [
+            "Santiago City"
+        ],
+        [
+            "On the year 2014, a new festival was conceptualized by the city government to celebrate Santiago's cityhood anniversary.",
+            "Balamban which means butterfly is a cultural dance of lowland Christians that originated in Santiago City.",
+            "The dance depicts the graceful movement and fluttering of butterflies that throng Dariuk Hills' scented gardens.",
+            "It is usually danced during wedding celebrations in Santiago."
+        ],
+        [
+            "Notable personalities"
+        ],
+        [
+            "This section does not cite any sources.",
+            "Please help improve this section by adding citations to reliable sources.",
+            "Unsourced material may be challenged and removed.",
+            "(December 2013) (Learn how and when to remove this message)"
+        ],
+        [
+            "General Mateo Noriel Luga \u2014 (Tumauini)"
+        ],
+        [
+            "Florence Finch \u2014 (Santiago) \u2014 Filipino-American member of the World War II resistance against the Japanese occupation of the Philippines."
+        ],
+        [
+            "Heherson Alvarez \u2014 (Santiago) \u2014 former Senator and Secretary of Agrarian Reform"
+        ],
+        [
+            "Grace Padaca \u2014 former Governor of Isabela and former Commissioner of the Commission on Elections, recipient of the Ramon Magsaysay Award for Public Service in 2008."
+        ],
+        [
+            "Bishop Miguel Purugganan \u2014 (Ilagan) \u2014 Bishop of the Roman Catholic Diocese of Ilagan who protested the Human rights abuses of the Marcos dictatorship, and is honored at the Bantayog ng mga Bayani"
+        ],
+        [
+            "Freddie Aguilar \u2014 (Santo Tomas) \u2014 Singer/Composer"
+        ],
+        [
+            "Jejomar Binay \u2014 (Cabagan) \u2014 13th Vice President of the Philippines"
+        ],
+        [
+            "Ruthlane Uy Asmundson \u2014 (Gamu) \u2014 Mayor of Davis, California, USA"
+        ],
+        [
+            "Silvestre Bello III \u2014 (Ilagan) \u2014 former Secretary of the Department of Labor and Employment"
+        ],
+        [
+            "Gilbert Teodoro \u2014 Secretary of the Department of National Defense"
+        ],
+        [
+            "Mutya Johanna Datul \u2014 (Santa Maria) \u2014 Miss Supranational 2013 and Binibining Pilipinas Supranational 2013"
+        ],
+        [
+            "Rogemar Menor \u2014 (Roxas) \u2014 PBA Player"
+        ],
+        [
+            "Ricky Calimag \u2014 (Echague) \u2014 PBA player"
+        ],
+        [
+            "Mark Telan \u2014 PBA Player"
+        ],
+        [
+            "Coco Martin \u2014 Actor/Singer"
+        ],
+        [
+            "Ebe Dancel \u2014 (Ilagan) \u2014 Singer/Composer"
+        ],
+        [
+            "Peter Mus\u00f1gi \u2014 (Santiago) \u2014 ABS-CBN Voice Artist"
+        ],
+        [
+            "Bong Galanza \u2014 (Reina Mercedes) \u2014 Filipino Basketball player"
+        ],
+        [
+            "Notes"
+        ],
+        [
+            "^ (Ilocano: Probinsia ti Isabela; Ibanag: Provinsia na Isabela; Gaddang: Probinsia na Isabela; Tagalog: Lalawigan ng Isabela)"
+        ],
+        [
+            "^ \"HISTORY OF ISABELA\".",
+            "The Golden Isabela.",
+            "goldenisabela.weebly.com.",
+            "Retrieved February 27, 2023."
+        ],
+        [
+            "^ \"Isabela, Sentro ng AGRIkultura\".",
+            "Facebook.com.",
+            "Isabela PIO.",
+            "Retrieved May 31, 2018."
+        ],
+        [
+            "^ \"List of Provinces\".",
+            "PSGC Interactive.",
+            "Makati City, Philippines: National Statistical Coordination Board.",
+            "Archived from the original on January 11, 2013.",
+            "Retrieved January 8, 2014."
+        ],
+        [
+            "^ U.S.",
+            "Corps of Engineers (1953).",
+            "\"Ilagan (topography map)\".",
+            "University of Texas in Austin Library.",
+            "Retrieved on September 28, 2014."
+        ],
+        [
+            "^ a b c Census of Population (2020).",
+            "\"Region II (Cagayan Valley)\".",
+            "Total Population by Province, City, Municipality and Barangay.",
+            "Philippine Statistics Authority.",
+            "Retrieved July 8, 2021."
+        ],
+        [
+            "^ \"POPULATION PROJECTIONS BY REGION, PROVINCE, CITIES AND MUNICIPALITIES, 2020-2025\".",
+            "www.doh.gov.ph.",
+            "Department of Health.",
+            "August 27, 2020.",
+            "Archived from the original on May 14, 2021.",
+            "Retrieved October 16, 2020."
+        ],
+        [
+            "^ \"Isabela, top producer of corn\".",
+            "Bureau of Agricultural Statistics.",
+            "Department of Agriculture (Philippines).",
+            "Retrieved February 27, 2013."
+        ],
+        [
+            "^ \"A Review of the Agriculture Sector in Cagayan Valley\".",
+            "Philippine Statistical Authority | Government Website.",
+            "Retrieved April 1, 2021."
+        ],
+        [
+            "^ \"Cagayan Valley remains number 1 corn producer, 2nd in rice | RDC2\".",
+            "Retrieved April 1, 2021."
+        ],
+        [
+            "^ \"| Official Website of the Province of Isabela - The Province of Isabela Reigns... by chance or by choice?\".",
+            "provinceofisabela.ph.",
+            "Retrieved April 1, 2021."
+        ],
+        [
+            "^ \"Davao de Oro still richest province in Mindanao, 4th in PH\".",
+            "PIA.",
+            "October 19, 2022.",
+            "Retrieved August 29, 2023."
+        ],
+        [
+            "^ \"Isabela,10th richest province in the Philippines in 2011\".",
+            "Inquirer PH.",
+            "Inquirer.",
+            "October 19, 2014.",
+            "Retrieved October 19, 2014."
+        ],
+        [
+            "^ \"Fastest Growing Cities in Cagayan Valley\" (PDF).",
+            "NEDA.GOV.PH.",
+            "Retrieved April 1, 2021."
+        ],
+        [
+            "^ \"The Province of Isabela Reigns... by chance or by choice?\".",
+            "Official Website of the Province of Isabela.",
+            "provinceofisabela.phh.",
+            "Retrieved December 31, 2016."
+        ],
+        [
+            "^ \"Tantingco: The Kapampangan in Us\".",
+            "SunStar.",
+            "May 2, 2013.",
+            "Archived from the original on January 23, 2024.",
+            "Retrieved January 23, 2024.",
+            "\"At one point, Pampanga\u2019s borders extended all the way to Palanan, Isabela in the north and to Infanta, Quezon in the south, with the Pacific Ocean on its east side and the China Sea on its west side.\"",
+            "(Baler which was the origin of Spanish forces and Tagalog settlers who settled Palanan was part of Pampanga along with Casiguran.)"
+        ],
+        [
+            "^ Salgado, Pedro.",
+            "\"Other Missions in Isabela\".",
+            "Cagayan Valley and Easter Cordillera: 1581-1898, Volume I. Rex Publishing.",
+            "pp.",
+            "496\u2013499."
+        ],
+        [
+            "^ \"History of Palanan\".",
+            "Municipality of Palanan - palanan.gov.ph.",
+            "Retrieved June 25, 2024."
+        ],
+        [
+            "^ a b Province of Isabela website"
+        ],
+        [
+            "^ a b \"Brief History of Isabela\".",
+            "Fly Philippines.",
+            "Retrieved June 18, 2011."
+        ],
+        [
+            "^ Act No.",
+            "210, passed August 24, 1901."
+        ],
+        [
+            "^ Quimpo, Susan F.; Quimpo, Nathan Gilbert; Rafael, Vicente L. (2016).",
+            "Subversive lives: a family memoir of the Marcos years.",
+            "Ohio University research in international studies Southeast Asia series (First Ohio University Press\u00a0ed.).",
+            "Athens: Ohio University Press.",
+            "ISBN\u00a0978-0-89680-305-3."
+        ],
+        [
+            "^ Francisco Nemenzo, \"Rectification Process in the Philippine Communist Movement\", in Lim Joo Jock and S. Vani, eds., Armed Communist Movements in Southeast Asia (Hampshire, England: Gower, 1984) p. 90"
+        ],
+        [
+            "^ a b Kessler, Richard John (1989).",
+            "Rebellion and repression in the Philippines.",
+            "New Haven: Yale University Press.",
+            "ISBN\u00a0978-0300044065.",
+            "OCLC\u00a019266663."
+        ],
+        [
+            "^ Robles, Raissa (2016).",
+            "Marcos Martial Law: Never Again.",
+            "Filipinos for A Better Philippines, Inc."
+        ],
+        [
+            "^ Magno, Alexander R., ed.",
+            "(1998).",
+            "\"Democracy at the Crossroads\".",
+            "Kasaysayan, The Story of the Filipino People Volume 9:A Nation Reborn.",
+            "Hong Kong: Asia Publishing Company Limited."
+        ],
+        [
+            "^ \"Alfred McCoy, Dark Legacy: Human rights under the Marcos regime\".",
+            "Ateneo de Manila University.",
+            "September 20, 1999."
+        ],
+        [
+            "^ Abinales, P.N.",
+            "; Amoroso, Donna J.",
+            "(2005).",
+            "State and society in the Philippines.",
+            "Lanham, MD: Rowman & Littlefield Publishers.",
+            "ISBN\u00a0978-0742510234.",
+            "OCLC\u00a057452454."
+        ],
+        [
+            "^ \"Gone too soon: 7 youth leaders killed under Martial Law\".",
+            "Rappler.",
+            "Retrieved June 15, 2018."
+        ],
+        [
+            "^ a b Panaglagip: The North Remembers \u2013 Martial Law Stories of Struggle and Survival Edited by Joanna K. Cari\u00f1o and Luchie B. Maranan."
+        ],
+        [
+            "^ \"History | Isabela Police Provincial Office\"."
+        ],
+        [
+            "^ a b c \"PADILLA, Sabino \"Abe\" Garcia Jr\".",
+            "November 29, 2017.",
+            "Retrieved September 9, 2020."
+        ],
+        [
+            "^ a b \"PURUGGANAN, Miguel Gatan\".",
+            "Bantayog ng mga Bayani.",
+            "October 9, 2015.",
+            "Retrieved September 4, 2020."
+        ],
+        [
+            "^ Ropero, Gillan (November 15, 2020).",
+            "\"Cagayan, Isabela residents warned of Magat Dam water release: NIA\".",
+            "ABS-CBN News.",
+            "Retrieved November 16, 2020."
+        ],
+        [
+            "^ Delina, Laurence L. (July 1, 2020).",
+            "\"Indigenous environmental defenders and the legacy of Macli-ing Dulag: Anti-dam dissent, assassinations, and protests in the making of Philippine energyscape\".",
+            "Energy Research & Social Science.",
+            "65: 101463.",
+            "Bibcode:2020ERSS...6501463D.",
+            "doi:10.1016/j.erss.2020.101463.",
+            "ISSN\u00a02214-6296."
+        ],
+        [
+            "^ \"Magat River Multipurpose Project (02)\".",
+            "World Bank.",
+            "Retrieved November 16, 2020."
+        ],
+        [
+            "^ Villegas, Bernardo M. (February 1, 1987).",
+            "\"The Philippines in 1986: Democratic Reconstruction in the Post-Marcos Era\".",
+            "Asian Survey.",
+            "27 (2): 194\u2013205.",
+            "doi:10.2307/2644614.",
+            "ISSN\u00a00004-4687.",
+            "JSTOR\u00a02644614."
+        ],
+        [
+            "^ Curaming, Rommel and Claudio, Lisandro, A Historicised (Re)Assessment of EDSA 'People Power' (1986) (February 1, 2010).",
+            "Asia Research Institute Working Paper No.",
+            "134. https://ssrn.com/abstract=1716572 or http://dx.doi.org/10.2139/ssrn.1716572"
+        ],
+        [
+            "^ Marchadesch, Barbara (November 24, 2017).",
+            "\"TIMELINE: The peace talks between the government and the CPP-NPA-NDF, 1986 \u2013 present\".",
+            "GMA News Online.",
+            "Archived from the original on November 24, 2017.",
+            "Retrieved April 15, 2020."
+        ],
+        [
+            "^ Perante, Caesar M. (June 30, 2018).",
+            "\"Transforming Santiago City into an independent component city up north\".",
+            "BusinessMirror.",
+            "Archived from the original on September 24, 2019.",
+            "Retrieved July 11, 2021."
+        ],
+        [
+            "^ Republic of the Philippines, Commission on Elections (May 26, 1995).",
+            "\"Resolution No.",
+            "2796 \".",
+            "Manila Standard Today.",
+            "Retrieved June 19, 2011."
+        ],
+        [
+            "^ Robles, Chan.",
+            "\"Republic Act No.",
+            "7891 - An Act Dividing the Province of Isabela Into Two Provinces Namely: Isabela del Norte and Isabela del Sur\".",
+            "Philippine Laws, Statutes & Codes, and Republic Acts.",
+            "Chan Robles Virtual Law Library.",
+            "Retrieved June 19, 2011."
+        ],
+        [
+            "^ Catindig, Raymund (February 28, 2011).",
+            "\"Marcos Mania still alive in Isabela 25 years after EDSA\".",
+            "Valley Journal News Online.",
+            "Archived from the original on May 14, 2011.",
+            "Retrieved June 19, 2011."
+        ],
+        [
+            "^ Isabela's Ilagan now a component city Archived September 25, 2015, at the Wayback Machine Philippine Star.",
+            "Retrieved August 15, 2012"
+        ],
+        [
+            "^ Ilagan now 4th city in Cagayan Valley Philippine Daily Inquirer.",
+            "Retrieved August 15, 2012"
+        ],
+        [
+            "^ \"Ilagan Kicks Off Cityhood Bid\".",
+            "Manila Bulletin.",
+            "Archived from the original on April 4, 2023.",
+            "Retrieved August 11, 2012."
+        ],
+        [
+            "^ \"Republic Act No.",
+            "9017 - An Act Converting The Municipality of Cauayan, Province of Isabela Into a Component City To Be Known as The City of Cauayan\".",
+            "Official Gazette of the Republic of the Philippines.",
+            "Republic of the Philippines.",
+            "February 28, 2001.",
+            "Archived from the original on July 6, 2022.",
+            "Retrieved June 22, 2020."
+        ],
+        [
+            "^ Esguerra, Darryl John (September 27, 2018).",
+            "\"Duterte creates two new legislative districts in Isabela\".",
+            "newsinfo.inquirer.net."
+        ],
+        [
+            "^ Macalalad, Rhonalyn & Delfino, Rafaela & Badilla, Roy & Paat, Socrates & Bagtasa, Gerry.",
+            "(2023).",
+            "Role of Historical Warming on the Extreme Flooding Event Due to Typhoon Vamco (Ulysses) 2020 in the Philippines.",
+            "The Philippine Journal of Fisheries.",
+            "152.",
+            "197-212."
+        ],
+        [
+            "^ \"Climate Change and Disasters in the Philippines\".",
+            "th.boell.org.",
+            "Archived from the original on September 27, 2023.",
+            "Retrieved May 9, 2024."
+        ],
+        [
+            "^ \"Ulysses aftermath: State of calamity declared in Isabela as floods turn streets into rivers\".",
+            "Inquirer News.",
+            "Retrieved May 9, 2024."
+        ],
+        [
+            "^ \"Robredo assures Cagayan Valley: We heard you, gov't finding ways to reach you\".",
+            "November 13, 2020."
+        ],
+        [
+            "^ \"Cagayan province turned into 'Pacific Ocean': Disaster management official\".",
+            "November 13, 2020."
+        ],
+        [
+            "^ \"Netizens blame lack of mass info dissemination in far-flung areas after Typhoon Ulysses\".",
+            "Archived from the original on June 18, 2021.",
+            "Retrieved May 9, 2024."
+        ],
+        [
+            "^ \"CagayanNeedsHelp: Netizens' appeal for help goes viral on social media\".",
+            "Manila Bulletin."
+        ],
+        [
+            "^ \"NIA to review protocols on Magat Dam water release after Cagayan, Isabela floods\".",
+            "November 17, 2020."
+        ],
+        [
+            "^ a b c \"Province: Isabela (province)\".",
+            "PSGC Interactive.",
+            "Quezon City, Philippines: Philippine Statistics Authority.",
+            "Retrieved January 8, 2016."
+        ],
+        [
+            "^ \"23 provinces high risk for disaster - World Bank\".",
+            "ABS CBN News.",
+            "news.abs-cbn.com.",
+            "Retrieved June 27, 2013."
+        ],
+        [
+            "^ \"Philippine provinces among areas at most risk from climate damage\".",
+            "Gaea Katreena Cabico(Philstar.com).",
+            "philstar.com.",
+            "March 2023.",
+            "Retrieved March 1, 2023."
+        ],
+        [
+            "^ \"The Northern Sierra Madre Natural Park\".",
+            "Department of Environment and Natural Resources PH / USAID.",
+            "forestry.denr.gov.ph.",
+            "Retrieved December 31, 2022."
+        ],
+        [
+            "^ \"Northern Sierra Madre Natural Park and outlying areas inclusive of the buffer zone\".",
+            "UNESCO World Heritage Convention.",
+            "whc.unesco.org.",
+            "Retrieved January 14, 2021."
+        ],
+        [
+            "^ gmanews.tv/story, Isabela gov sees big job ahead vs illegal logging"
+        ],
+        [
+            "^ iWitness: Si GOB at ang mga BUGADOR, 08/25/2008"
+        ],
+        [
+            "^ \"Mount Cresta, Divilacan, Cagayan Valley, Philippines\".",
+            "Google Maps.",
+            "Retrieved on September 28, 2014."
+        ],
+        [
+            "^ \"House Bill No.",
+            "4692 - An act reapportioning the current four legislative district of the province of Isabela to six legislative districts\" (PDF).",
+            "www.congress.gov.ph.",
+            "House of Representatives, Republic of the Philippines.",
+            "December 14, 2016.",
+            "Retrieved February 27, 2017."
+        ],
+        [
+            "^ a b Census of Population (2015).",
+            "\"Region II (Cagayan Valley)\".",
+            "Total Population by Province, City, Municipality and Barangay.",
+            "Philippine Statistics Authority.",
+            "Retrieved June 20, 2016."
+        ],
+        [
+            "^ \"Republic Act No.",
+            "10169; An Act Converting the Municipality of Ilagan in the Province of Isabela into a Component City to be Known as the City of Ilagan\" (PDF).",
+            "Senate of the Philippines.",
+            "June 21, 2012.",
+            "Retrieved January 16, 2016."
+        ],
+        [
+            "^ Ilagan cityhood gets Senate nod Archived June 5, 2016, at the Wayback Machine Philippine Star.",
+            "Retrieved April 11, 2012."
+        ],
+        [
+            "^ a b Census of Population and Housing (2010).",
+            "\"Region II (Cagayan Valley)\" (PDF).",
+            "Total Population by Province, City, Municipality and Barangay.",
+            "National Statistics Office.",
+            "Retrieved June 29, 2016."
+        ],
+        [
+            "^ \"Isabela, Election Results 2022\".",
+            "COMELEC.",
+            "Rappler.com.",
+            "Retrieved February 25, 2023."
+        ],
+        [
+            "^ \"Republic Act No.",
+            "11080 - An act reapportioning the second largest province of the Philippines into six legislative districts\".",
+            "Inquirer PH.",
+            "Inquirer.Net.",
+            "September 27, 2018.",
+            "Retrieved September 29, 2018."
+        ],
+        [
+            "^ \"Republic Act No.",
+            "11080\".",
+            "Inquirer PH.",
+            "Inquirer.Net.",
+            "September 27, 2018.",
+            "Retrieved September 29, 2018."
+        ],
+        [
+            "^ \"AN ACT REAPPORTIONING THE PROVINCE OF ISABELA INTO SIX (6) LEGISLATIVE DISTRICTS\" (PDF).",
+            "Official Gazette of the Republic of the Philippines.",
+            "July 23, 2018.",
+            "Retrieved October 8, 2021."
+        ],
+        [
+            "^ Censuses of Population (1903\u20132007).",
+            "\"Region II (Cagayan Valley)\".",
+            "Table 1.",
+            "Population Enumerated in Various Censuses by Province/Highly Urbanized City: 1903 to 2007.",
+            "National Statistics Office.",
+            "{{cite encyclopedia}}:  CS1 maint: numeric names: authors list (link)"
+        ],
+        [
+            "^ \"Philippines Census Of Population of all LGUs 1903-2007\".",
+            "archive.org.",
+            "Philippine Statistics Authority.",
+            "Retrieved February 14, 2017."
+        ],
+        [
+            "^ \"Majority were Roman Catholics\".",
+            "Philippine Statistics Authority.",
+            "psa.gov.ph.",
+            "Retrieved February 27, 2023."
+        ],
+        [
+            "^ \"Agta community sa Isabela, narating ng lingap ng MCGI\".",
+            "UNTV News and Rescue.",
+            "February 12, 2022.",
+            "Retrieved May 8, 2024."
+        ],
+        [
+            "^ \"Poverty incidence (PI):\".",
+            "Philippine Statistics Authority.",
+            "Retrieved December 28, 2020."
+        ],
+        [
+            "^ \"Estimation of Local Poverty in the Philippines\" (PDF).",
+            "Philippine Statistics Authority.",
+            "November 29, 2005."
+        ],
+        [
+            "^ \"2009 Official Poverty Statistics of the Philippines\" (PDF).",
+            "Philippine Statistics Authority.",
+            "February 8, 2011."
+        ],
+        [
+            "^ \"Annual Per Capita Poverty Threshold, Poverty Incidence and Magnitude of Poor Population, by Region and Province: 1991, 2006, 2009, 2012 and 2015\".",
+            "Philippine Statistics Authority.",
+            "August 27, 2016."
+        ],
+        [
+            "^ \"Annual Per Capita Poverty Threshold, Poverty Incidence and Magnitude of Poor Population, by Region and Province: 1991, 2006, 2009, 2012 and 2015\".",
+            "Philippine Statistics Authority.",
+            "August 27, 2016."
+        ],
+        [
+            "^ \"Annual Per Capita Poverty Threshold, Poverty Incidence and Magnitude of Poor Population, by Region and Province: 1991, 2006, 2009, 2012 and 2015\".",
+            "Philippine Statistics Authority.",
+            "August 27, 2016."
+        ],
+        [
+            "^ \"Updated Annual Per Capita Poverty Threshold, Poverty Incidence and Magnitude of Poor Population with Measures of Precision, by Region and Province: 2015 and 2018\".",
+            "Philippine Statistics Authority.",
+            "June 4, 2020."
+        ],
+        [
+            "^ \"2021 Full Year Official Poverty Statistics of the Philippines\" (PDF).",
+            "Philippine Statistics Authority.",
+            "August 15, 2022.",
+            "Retrieved April 28, 2024."
+        ],
+        [
+            "^ \"Isabela, Top 10 richest province in the Philippines in 2011\".",
+            "Inquirer PH.",
+            "Inquirer.",
+            "October 19, 2014.",
+            "Retrieved October 19, 2014."
+        ],
+        [
+            "^ \"Isabela, the Regional Trade and Industrial Center of north-eastern Luzon\".",
+            "Inquirer PH.",
+            "Inquirer.",
+            "October 19, 2014.",
+            "Retrieved October 19, 2014."
+        ],
+        [
+            "^ Top 10 Highest earning Philippine province Nobert Bermosa website.",
+            "Retrieved June 17, 2012."
+        ],
+        [
+            "^ \"Richest Cities and Provinces in PH 2021\".",
+            "CNN PH.",
+            "cnnphilippines.com.",
+            "Archived from the original on October 17, 2022.",
+            "Retrieved October 18, 2022."
+        ],
+        [
+            "^ \"Isabela \u2014 banks catalog\".",
+            "statex.",
+            "ph.statex.info.",
+            "Retrieved February 27, 2023."
+        ],
+        [
+            "^ \"Aquino opens P750-million corn processing plant in Isabela\".",
+            "Charlie Lagasca(Philstar.com).",
+            "philstar.com.",
+            "October 9, 2010.",
+            "Retrieved October 9, 2010."
+        ],
+        [
+            "^ \"Reina Mercedes Corn Processing Center\".",
+            "wikimapia.",
+            "wilimapia.org.",
+            "Retrieved February 27, 2023."
+        ],
+        [
+            "^ \"SN Aboitiz Power secures EPC contract for Magat energy storage project\".",
+            "Aboitiz Power.",
+            "aboitizpower.com.",
+            "Retrieved April 5, 2022."
+        ],
+        [
+            "^ \"Cagayan Valley now prime source of quality Tobacco\".",
+            "Inquirer.net.",
+            "newsinfo.inquirer.net.",
+            "Retrieved May 14, 2011."
+        ],
+        [
+            "^ \"Soft-drink firm opens plant in Isabela\".",
+            "Inquirer.net.",
+            "business.inquirer.net.",
+            "Retrieved September 1, 2011."
+        ],
+        [
+            "^ \"Isabela Economic Profile\".",
+            "Official Website of the Provincial Government of Isabela.",
+            "province of Isabela.ph.",
+            "Retrieved February 27, 2023."
+        ],
+        [
+            "^ \"Rice Mill Companies in Isabela\".",
+            "infobepro.",
+            "use.infobel.pro.",
+            "Retrieved February 27, 2023."
+        ],
+        [
+            "^ \"Manufacturing Companies In Isabela, Philippines\".",
+            "DNB.",
+            "dnb.com.",
+            "Retrieved February 27, 2023."
+        ],
+        [
+            "^ \"Robinsons Place Santiago Grand Opening Invitation\".",
+            "Flickr.",
+            "Retrieved January 18, 2014."
+        ],
+        [
+            "^ \"SM City Cauayan now open\".",
+            "inquirer.net.",
+            "lifestyle.inquirer.net.",
+            "October 18, 2014.",
+            "Retrieved October 19, 2014."
+        ],
+        [
+            "^ \"Robinsons opening malls in Roxas and Santiago cities\".",
+            "inquirer.net.",
+            "business.inquirer.net.",
+            "Retrieved February 3, 2014."
+        ],
+        [
+            "^ \"More buses to ply Cagayan-Manila routes\".",
+            "Villamor Visaya, Jr. of the Philippine News Agency.",
+            "pna.gov.ph.",
+            "Retrieved February 20, 2020."
+        ],
+        [
+            "^ \"2021 Isabela Bus Routes and Schedule\".",
+            "escapemanila.",
+            "escapemanila.com.",
+            "February 15, 2019.",
+            "Retrieved February 28, 2022."
+        ],
+        [
+            "^ \"Suzuki Breaks Ground On Isabela Dealership\".",
+            "Car Guide PH.",
+            "carguide.ph.",
+            "Retrieved November 18, 2022."
+        ],
+        [
+            "^ \"Geely PH Opens its 22nd Dealership at Santiago, Isabela\".",
+            "Geely PH.",
+            "geelyph.com.",
+            "November 28, 2021.",
+            "Retrieved November 29, 2021."
+        ],
+        [
+            "^ \"Honda Cars opens 37th dealership in Isabela\".",
+            "Autofun.",
+            "autofun.ph.",
+            "Retrieved October 3, 2022."
+        ],
+        [
+            "^ \"Toyota Motor Philippines Now at 43 Dealerships Strong\".",
+            "Car Guide PH.",
+            "carguide.ph.",
+            "Retrieved June 22, 2014."
+        ],
+        [
+            "^ \"Mitsubishi Motors Philippines Corporation Expands its Dealer Network in Cordon, Isabela\".",
+            "Mitsubishi Motors PH.",
+            "mitsubishi-motors.com.ph.",
+            "Retrieved September 28, 2021."
+        ],
+        [
+            "^ \"IPC CELEBRATES THE REOPENING OF ISUZU ISABELA WITH NEW IOS DESIGN\".",
+            "Isuzu PH.",
+            "isuzuphil.com.",
+            "Retrieved August 19, 2021."
+        ],
+        [
+            "^ \"FORD ISABELA OPENING\".",
+            "Laus Ford Group.",
+            "lausfordgroup.com.ph.",
+            "Retrieved April 17, 2019."
+        ],
+        [
+            "^ \"Vista Land Plans to Adds 7 New Malls to its Portfolio by 2020\".",
+            "Orissa International.",
+            "orissa-international.com.",
+            "Retrieved January 1, 2019."
+        ],
+        [
+            "^ \"Vista Land to build seven new malls in next 2 years\".",
+            "Manila Standard Business.",
+            "manilastandard.net.",
+            "January 6, 2019.",
+            "Retrieved January 6, 2019."
+        ],
+        [
+            "^ \"Avida Land held the groundbreaking ceremony for Greenlane Settings, the first Avida Land development in Isabela\".",
+            "Official Facebook Page of Avida Land.",
+            "facebook.com/avidaland.com.",
+            "Retrieved March 5, 2024."
+        ],
+        [
+            "^ \"Avida Land officially opened its first Info Center in Isabela during its ribbon-cutting ceremony last January 18, 2024\".",
+            "Official Facebook Page of Avida Land.",
+            "facebook.com/avidaland.com.",
+            "Retrieved January 22, 2024."
+        ],
+        [
+            "^ \"Revenge spending: Ayala Land amasses P2.16B land in last 12 months\".",
+            "Official Website of Bilyonaryo.com.",
+            "bilyonaryo.com.",
+            "February 2022.",
+            "Retrieved February 1, 2022."
+        ],
+        [
+            "^ \"Avida Land Corporation will soon rise in the City of Ilagan\".",
+            "Official Website of the City Government of Ilagan.",
+            "business.cityofilagan.com.",
+            "February 18, 2023.",
+            "Retrieved February 18, 2023."
+        ],
+        [
+            "^ \"Linking Corn Production Climate Information and Farm Level Decision Making A Case Study in Isabela Philippines\".",
+            "Climate Policy Watcher.",
+            "climate-policy-watcher.org.",
+            "Retrieved December 17, 2022."
+        ],
+        [
+            "^ \"CORN VOLUME OF PRODUCTION DROPPED BY 3.13 PERCENT IN 2021\" (PDF).",
+            "Philippine Statistics Authority.",
+            "rsso02.psa.gov.ph.",
+            "Retrieved February 11, 2022."
+        ],
+        [
+            "^ \"Region 2 posts high rice, corn yield\".",
+            "Department of Agriculture.",
+            "da.gov.ph.",
+            "February 3, 2022.",
+            "Retrieved February 3, 2022."
+        ],
+        [
+            "^ \"NIA-2 eyes to irrigate 91,558 hectares in Isabela\".",
+            "Philippine Information Agency.",
+            "pia.gov.ph.",
+            "Retrieved October 7, 2022."
+        ],
+        [
+            "^ \"MORE FARMERS TO PLANT RICE IN ISABELA, THANKS TO NEW IRRIGATION STRUCTURE\".",
+            "National Irrigation Administration PH.",
+            "nia.gov.ph.",
+            "Retrieved September 16, 2014."
+        ],
+        [
+            "^ \"Magat Dialogues with NIA, DOST leads partnership with ISU\".",
+            "Isabela State University.",
+            "isu.edu.ph.",
+            "May 7, 2019.",
+            "Retrieved May 7, 2019."
+        ],
+        [
+            "^ \"Solar-power irrigation system installed in Isabela\".",
+            "Department of Agrarian Reform PH.",
+            "dar.gov.ph.",
+            "Retrieved September 13, 2021."
+        ],
+        [
+            "^ \"More partnerships drawn for ISU's Smart Water Center\".",
+            "Isabela State University.",
+            "isu.edu.ph.",
+            "March 17, 2022.",
+            "Retrieved March 17, 2022."
+        ],
+        [
+            "^ \"P3-M premyo ng Isabela bilang Best Corn Quality Awardee\".",
+            "Bombo Radyo.",
+            "Archived from the original on October 19, 2013.",
+            "Retrieved October 19, 2013."
+        ],
+        [
+            "^ \"The Corn Capital of the Philippines\".",
+            "ILAGAN CITY AGRICULTURIST OFFICIAL WEBSITE.",
+            "agriculture.cityofilagan.com.",
+            "Retrieved August 11, 2015."
+        ],
+        [
+            "^ \"FOREST COVER OF CAGAYAN VALLEY\".",
+            "DENR Forest Management Bureau.",
+            "forestry.denr.gov.ph.",
+            "Retrieved December 31, 2010."
+        ],
+        [
+            "^ \"Major Industries in Isabela\".",
+            "Official Website of the Province of Isabela.",
+            "rdc2.gov.ph.",
+            "Retrieved February 27, 2023."
+        ],
+        [
+            "^ \"Fish caging flourishes anew in Magat Dam\".",
+            "Max Prudencio / Philippine News Agency.",
+            "pna.gov.ph.",
+            "Retrieved September 12, 2018."
+        ],
+        [
+            "^ \"Multi-species hatchery opens in Isabela\".",
+            "LIEZLE BASA I\u00d1IGO /Manila Bulletin.",
+            "mb.com.ph.",
+            "Retrieved September 16, 2022."
+        ],
+        [
+            "^ \"Tilapia farmers cope with climate change in Isabela\".",
+            "Agriculture Magazine.",
+            "agriculture.com.ph.",
+            "Retrieved January 22, 2021."
+        ],
+        [
+            "^ \"Isabela fish farm reels in success with LANDBANK support\".",
+            "Landbank of the Philippines.",
+            "landbank.com.",
+            "Retrieved July 7, 2022."
+        ],
+        [
+            "^ \"Isabela has enough fish to feed Cagayan Valley, study says\".",
+            "Bureau of Fisheries and Aquatic Resources.",
+            "newsinfo.inquirer.net.",
+            "Retrieved February 27, 2018."
+        ],
+        [
+            "^ \"Isabela waters can augment fish supply in Cagayan Valley\".",
+            "Leander C. Domingo of The Manila Times.",
+            "manilatimes.net.",
+            "February 22, 2018.",
+            "Retrieved February 22, 2018."
+        ],
+        [
+            "^ \"Isabela Nickel Project\" (PDF).",
+            "Good Earth Mining and Development Inc. eia.emb.gov.ph.",
+            "Retrieved January 6, 2018."
+        ],
+        [
+            "^ \"Isabela Natural Resources\".",
+            "Official Website of the Province of Isabela.",
+            "rdc2.gov.ph.",
+            "Retrieved February 27, 2023."
+        ],
+        [
+            "^ \"Renewable energy plant to rise in Isabela\".",
+            "The Manila Times.",
+            "manilatimes.net.",
+            "March 30, 2015.",
+            "Retrieved March 30, 2015."
+        ],
+        [
+            "^ \"Biomass Industry in the Philippines\".",
+            "Asean Briefing.",
+            "aseanbriefing.com.",
+            "May 19, 2017.",
+            "Retrieved May 19, 2017."
+        ],
+        [
+            "^ \"BoI okays P410-m Isabela biomass power plant\".",
+            "Manila Standard.",
+            "manilastandard.net.",
+            "May 5, 2017.",
+            "Retrieved May 5, 2017."
+        ],
+        [
+            "^ \"440 MW solar energy project to rise in Isabela\".",
+            "The Manila Times.",
+            "manilatimes.com.",
+            "December 18, 2022.",
+            "Retrieved December 18, 2022."
+        ],
+        [
+            "^ \"Philippines' Largest Solar Power Plant to Rise in Ilagan City, Isabela\".",
+            "Greenergy Solutions, Inc. energy-xprt.com.",
+            "Retrieved June 1, 2015."
+        ],
+        [
+            "^ \"DOE clears P18 billion solar power project in Isabela province\".",
+            "Philstar Global.",
+            "philstar.net.",
+            "December 18, 2022.",
+            "Retrieved December 18, 2022."
+        ],
+        [
+            "^ \"P1.6-B Isabela road to open soon\".",
+            "The Manila Times.",
+            "October 2, 2019.",
+            "Retrieved September 4, 2021."
+        ],
+        [
+            "^ \"REGION II - CAGAYAN VALLEY\u00a0: Upgrading of Ilagan-Divilacan Road | SubayBayan\".",
+            "subaybay-dev.dilg.gov.ph.",
+            "Archived from the original on September 4, 2021.",
+            "Retrieved September 4, 2021."
+        ],
+        [
+            "^ Martin, Victor.",
+            "\"P2-billion highway near Benham Rise to open before end of 2018\".",
+            "Philstar.com.",
+            "Retrieved September 4, 2021."
+        ],
+        [
+            "^ \"DoTr awards contracts for 4 regional airport projects\".",
+            "Business World.",
+            "bworldonline.com.",
+            "January 11, 2023.",
+            "Retrieved January 12, 2023."
+        ],
+        [
+            "^ \"Isabela's Cauayan Airport to reopen November 2 - CAAP\".",
+            "Inquirer.net.",
+            "newsinfo.inquirer.net.",
+            "Retrieved November 1, 2018."
+        ],
+        [
+            "^ \"Maconacon Airstrip\".",
+            "metar-taf.",
+            "metar-taf.com.",
+            "Retrieved March 1, 2023."
+        ],
+        [
+            "^ \"Coastal Isabela\".",
+            "SPCICDO and Isabela Provincial Tourism Office.",
+            "spcicd.wixsite.com.",
+            "Retrieved December 31, 2016."
+        ],
+        [
+            "^ \"Palanan Community Airport\".",
+            "metar-taf.",
+            "metar-taf.com.",
+            "Retrieved March 1, 2023."
+        ],
+        [
+            "^ \"About Isabela Province\".",
+            "Cagayan Valley & Northern Philippine Islands.",
+            "region2fun.ph.",
+            "Retrieved February 17, 2023."
+        ],
+        [
+            "^ \"Eco Tourism in Isabela Province\".",
+            "SPCICDO & Isabela Provincial Tourism Office.",
+            "spcicd.wixsite.com.",
+            "Retrieved February 17, 2016."
+        ],
+        [
+            "^ \"Isabela is Region 2's favorite tourism destination for the last 3 years\".",
+            "Mark Djeron Tumabao of Philippine Information Agency.",
+            "pia.gov.ph.",
+            "Retrieved June 23, 2022."
+        ],
+        [
+            "^ \"Puyat eyes Isabela as top agro-ecotourism destination\".",
+            "Department of Tourism PH.",
+            "beta.tourism.gov.ph.",
+            "Retrieved January 31, 2020."
+        ],
+        [
+            "^ \"Have you ever been to Isabela?",
+            "If not, this is the time\".",
+            "Carol RH Malasig of Manila Bulletin.",
+            "mb.com.ph.",
+            "Retrieved March 29, 2023."
+        ],
+        [
+            "^ \"San Pablo Church: Weathering the test of time at 300\".",
+            "The Northern Forum.",
+            "northernforum.net.",
+            "November 5, 2016.",
+            "Retrieved November 5, 2016."
+        ],
+        [
+            "^ \"Sta.",
+            "Rosa de Lima in Gamu, Isabela, needs help\".",
+            "inquirer.net.",
+            "lifestyle.inquirer.net.",
+            "May 12, 2012.",
+            "Retrieved May 13, 2012."
+        ],
+        [
+            "^ \"St. Rose of Lima\".",
+            "Catholic News Agency.",
+            "Catholic News Agency.",
+            "Retrieved August 23, 2012."
+        ],
+        [
+            "^ \"Unveiling of Historical Marker of the Saint Rose of Lima Church Complex issued by the National Museum of the Philippines\".",
+            "Official Facebook Page of Dr. Alexander Troy Miano / DOT RO2 PH.",
+            "facebook.com.",
+            "Retrieved May 12, 2023."
+        ],
+        [
+            "^ \"Tumauini Church of Isabela stands proud amid fragile heritage scene\".",
+            "Constantino Tejero of Inquirer.net.",
+            "lifestyle.inquirer.net.",
+            "May 17, 2015.",
+            "Retrieved May 18, 2015."
+        ],
+        [
+            "^ \"List of National Cultural Treasures and Important Cultural Properties of the Philippines\".",
+            "Official Gazette PH.",
+            "officialgazette.gov.ph.",
+            "Retrieved December 31, 2022."
+        ],
+        [
+            "^ \"Alicia, Isabela - Our Lady of Atocha Church\".",
+            "Beautiful Churches in the Philippines.",
+            "beautifulchurchesinthephilippines.wordpress.com.",
+            "Retrieved March 21, 2014."
+        ],
+        [
+            "^ \"Discover the beauty of Isabela - Our Lady of Atocha Church\".",
+            "Isabela Philippines Tumblr.",
+            "isabelaphilippines.tumblr.com.",
+            "Retrieved March 21, 2014."
+        ],
+        [
+            "^ \"The Story of Our Lady of Pillar Church and Cauayan City\".",
+            "Jane Dacumos of Vigattin Tourism.",
+            "vigattintourism.com.",
+            "Retrieved August 23, 2012."
+        ],
+        [
+            "^ \"Our Lady of Pillar Church - Cauayan City, Isabela\".",
+            "boyplakwatsa.",
+            "boyplakwatsa.com.",
+            "Retrieved July 7, 2017."
+        ],
+        [
+            "^ \"Saint Ferdinand Parish Church (Proto-Cathedral of Ilagan): Ilagan City, Isabela\".",
+            "Official Facebook Page of Cagayan Heritage Conservation Society Community / Prince Wilson A. Macarubbo.",
+            "facebook.com/CHCSC.",
+            "Retrieved May 21, 2020."
+        ],
+        [
+            "^ \"List of 'Jubilee Churches' and Decree of Papal Blessing with Attached Plenary Indulgence\".",
+            "500yoc.",
+            "500yoc.com.",
+            "Retrieved December 31, 2022."
+        ],
+        [
+            "^ \"CHURCHES IN ISABELA: Ilagan, Tumauini, Cabagan and San Pablo\".",
+            "beachanatic blogspot.",
+            "beachanatic.blogspot.com.",
+            "December 22, 2014.",
+            "Retrieved December 22, 2014."
+        ],
+        [
+            "^ \"Ilagan, Isabela, celebrates feast day of St. Ferdinand of Castille on May 30\".",
+            "Josephine Darang of inquirer.net.",
+            "lifestyle.inquirer.net.",
+            "May 26, 2012.",
+            "Retrieved May 27, 2012."
+        ],
+        [
+            "^ \"St. Ferdinand Parish Church (Ilagan City, Isabela)\".",
+            "Philippine Faith and Heritage Tours.",
+            "Retrieved July 29, 2023."
+        ],
+        [
+            "^ \"Holy Rosary Festival 2023; Solemn Episcopal Coronation of Pilgrim Image of St. Ferdinand Parish - Our Lady of the Most Holy Rosary\".",
+            "Official Facebook Page of St. Ferdinand Parish Ilagan.",
+            "facebook.com/OfficialSFPO.",
+            "Retrieved October 29, 2023."
+        ],
+        [
+            "^ \"Holy Rosary Festival of the Parish & Proto-Cathedral of Saint Ferdinand in Ilagan, Isabela\".",
+            "Official Facebook Page of Buen Viaje PH.",
+            "facebook.com/BuenViajePH.",
+            "Retrieved September 11, 2023."
+        ],
+        [
+            "^ I\u00f1igo, Liezle Basa (April 22, 2024).",
+            "\"Fire hits church in Isabela\".",
+            "Manila Bulletin.",
+            "Retrieved April 22, 2024."
+        ],
+        [
+            "^ \"Fire engulfs 17th-century Isabela church during renovation\".",
+            "Paterno R. Ismael II of Rappler Philippines.",
+            "rappler.com.",
+            "April 22, 2024.",
+            "Retrieved April 22, 2024."
+        ],
+        [
+            "^ \"AFTER A FIERY BLAZE\".",
+            "Official Facebook Page of the 50th Anniversary of the Diocese of Ilagan (Isabela, Philippines).",
+            "facebook.com/ilagan50th.weebly.com.",
+            "Retrieved April 22, 2024."
+        ],
+        [
+            "^ \"Fire guts Ilagan diocese's original cathedral\".",
+            "Official Website of the Catholic Bishops\u2019 Conference of the Philippines (CBCP News).",
+            "cbcpnews.net.",
+            "April 22, 2024.",
+            "Retrieved April 22, 2024."
+        ],
+        [
+            "^ \"Shrine of Our Lady of the Visitation of Guibang\".",
+            "Kheem Caparas of Vigattin Tourism.",
+            "vigattintourism.com.ph.",
+            "Retrieved June 22, 2012."
+        ],
+        [
+            "^ \"Papal nuncio dedicates newly rebuilt national shrine in Isabela\".",
+            "CBCP News.",
+            "interaksyon.philstar.com.",
+            "February 17, 2023.",
+            "Retrieved February 17, 2023."
+        ],
+        [
+            "^ \"TOWN FIESTA/ FESTIVAL OF VARIOUS CITIES/MUNICIPALITIES IN ISABELA PROVINCE\".",
+            "Official Website of Isabela Province.",
+            "rdc2.gov.ph.",
+            "Retrieved February 17, 2023."
+        ],
+        [
+            "^ \"List of Festivals in Isabela Province\".",
+            "SPCICDO and Isabela Provincial Tourism Office.",
+            "spcicd.wixsite.com.",
+            "Retrieved December 31, 2016."
+        ],
+        [
+            "^ \"Festivals in Isabela Province\".",
+            "Official Website of the Province of Isabela.",
+            "provinceofisabela.ph.",
+            "Retrieved January 31, 2022."
+        ],
+        [
+            "^ \"BAKA FESTIVAL OF SAN PABLO\".",
+            "The Queen Province of the Philippines.",
+            "luzonisabela.wordpress.com.",
+            "January 30, 2016.",
+            "Retrieved January 31, 2022."
+        ],
+        [
+            "^ \"Discover mung bean desserts in Isabela's Balatong Festival\".",
+            "ABS-CBN News.",
+            "news.abs-cbn.com.",
+            "Retrieved May 20, 2016."
+        ],
+        [
+            "^ \"Utilizing Cagayan Valley's Black Gold as the Ultimate cash Crop\" (PDF).",
+            "Bureau Agricultural Research PH.",
+            "bar.gov.ph.",
+            "Retrieved January 31, 2022."
+        ],
+        [
+            "^ \"San Mateo starts reaping \"black gold\"\".",
+            "Julio P. Yap Jr. of Agriculture Magazine.",
+            "agriculture.com.ph.",
+            "Retrieved June 8, 2019."
+        ],
+        [
+            "^ \"Bambanti Festival 2019:From Aliw Awards to a Guinness World Record\".",
+            "Business World.",
+            "bworldonline.com.",
+            "February 10, 2019.",
+            "Retrieved February 11, 2019."
+        ],
+        [
+            "^ \"Bambanti Festival to reveal 'hidden magic' in Isabela province\".",
+            "GMA News Online.",
+            "gmanetwork.com.",
+            "December 13, 2012.",
+            "Retrieved December 13, 2012."
+        ],
+        [
+            "^ \"Isabela's Bambanti festival is not just about scarecrows\".",
+            "Alex Villano of Rappler.",
+            "rappler.com.",
+            "February 5, 2018.",
+            "Retrieved February 5, 2018."
+        ],
+        [
+            "^ \"Isabela celebrates 2023 Bambanti Festival\".",
+            "Jessica M. Bacud of ManilaStandard.net.",
+            "manilastandard.net.",
+            "January 27, 2023.",
+            "Retrieved January 27, 2023."
+        ],
+        [
+            "^ \"Isabela to celebrate Bambanti Festival in January next year\".",
+            "Liezle Basa I\u00f1igo of Manila Bulletin.",
+            "mb.com.ph.",
+            "Retrieved November 23, 2022."
+        ],
+        [
+            "^ \"WATCH: Isabela beauty pageant highlights agricultural issues\".",
+            "Halee Andrea Alcaraz of Philstar Global.",
+            "philstar.com.",
+            "February 2, 2023.",
+            "Retrieved February 2, 2023."
+        ],
+        [
+            "^ \"Isabela's Bambanti Festival returns\".",
+            "Business World Online.",
+            "bworldonline.com.",
+            "February 2, 2023.",
+            "Retrieved February 3, 2023."
+        ],
+        [
+            "^ \"Bambanti Festival under way in Isabela\".",
+            "Liezle Basa I\u00f1igo of Manila Bulletin.",
+            "mb.com.ph.",
+            "Retrieved January 24, 2023."
+        ],
+        [
+            "^ \"Binallay\".",
+            "Chaynieee Blogspot.",
+            "chaynieee.home.blog.",
+            "April 10, 2019.",
+            "Retrieved April 10, 2019."
+        ],
+        [
+            "^ \"More than a rice cake: How Itawits embrace spirituality through 'Sinipian'\".",
+            "Jap Tobias(Philstar.com).",
+            "philstar.com.",
+            "March 31, 2021.",
+            "Retrieved March 31, 2021."
+        ],
+        [
+            "^ \"Cagayan Valley Rice Cakes and Delicacies\".",
+            "Jan Karl Coballes of the Philippine Information Agency.",
+            "pia.gov.ph.",
+            "Retrieved June 7, 2022."
+        ],
+        [
+            "^ \"'Binallay': Lesser-known 'suman' is much loved in Isabela\".",
+            "Nino Angelo Comsti of Inquirer.net.",
+            "lifestyle.inquirer.net.",
+            "February 19, 2020.",
+            "Retrieved February 20, 2020."
+        ],
+        [
+            "^ \"Gakit Festival is a Thanksgiving Celebration for Bountiful Harvest\".",
+            "Travel to the Philippines blogspot.",
+            "traveltothephilippines.info.",
+            "Retrieved September 23, 2018."
+        ],
+        [
+            "^ Mapa, Susan (April 7, 2018).",
+            "\"Dalawang Araw na Gakit Festival ng Angadanan, Sinimulan Na!\".",
+            "Susan Mapa of RMN Network.",
+            "rmn.ph.",
+            "Retrieved April 7, 2018."
+        ],
+        [
+            "^ \"PH city breaks record for longest parade of motorcycles with sidecars\".",
+            "ABSCBN News.",
+            "news.abs-cbn.com.",
+            "Retrieved April 9, 2015."
+        ],
+        [
+            "^ \"Cauayan City celebrates 12th cityhood anniversary, Gawagaway-yan festival\".",
+            "Regional Development Council.",
+            "rdc.rdc2.gov.ph.",
+            "Retrieved March 30, 2022."
+        ],
+        [
+            "^ \"Gawagaway-yan Festival sa Cauayan City, Isabela\".",
+            "Balita.net.",
+            "balita.net.ph.",
+            "April 23, 2017.",
+            "Retrieved April 24, 2017."
+        ],
+        [
+            "^ \"Proclamation No.",
+            "108, s. 1999\".",
+            "Official Gazette PH.",
+            "officialgazette.gov.ph.",
+            "Retrieved May 10, 2003."
+        ],
+        [
+            "^ \"Pagdiriwang ng Kankanen Festival 2019 ng Cabatuan, Isabela, star-studded at tampok ang maraming aktibidad\".",
+            "Bombo Gina Marquez.",
+            "bomboradyo.com.",
+            "Retrieved November 5, 2019."
+        ],
+        [
+            "^ \"Isabelinos praise 'Mammangi' advocacy film\".",
+            "Villamor Visaya, Jr. of the Philippine News Agency.",
+            "pna.gov.ph.",
+            "Retrieved August 19, 2019."
+        ],
+        [
+            "^ \"Mammangui\".",
+            "IsabelaExpress Wordpress.",
+            "isabelaexpress.wordpress.com.",
+            "February 5, 2018.",
+            "Retrieved February 5, 2018."
+        ],
+        [
+            "^ \"Mammangi Festival ng Ilagan na May 4 hanggang May 8, Isang Ordinansa Na!\".",
+            "Susan Mapa of RMN Network.",
+            "rmn.ph.",
+            "Retrieved March 8, 2018."
+        ],
+        [
+            "^ \"Mangi Festival 2019\".",
+            "Official Facebook Page of Ernie Garcia Photography.",
+            "facebook.com.",
+            "Retrieved December 31, 2019."
+        ],
+        [
+            "^ \"School proms shelved in Isabela; Mangi fest postponed\".",
+            "Villamor Visaya, Jr. of the Philippine News Agency.",
+            "pna.gov.ph.",
+            "Retrieved February 21, 2020."
+        ],
+        [
+            "^ \"San Agustin, Isabela showcases upgraded carabaos in 'Nuang Festival'\".",
+            "Rowena G. Bumanlag of the Philippine Carabao Center.",
+            "pcc.gov.ph.",
+            "October 4, 2012.",
+            "Retrieved October 4, 2012."
+        ],
+        [
+            "^ \"440 carabaos paraded during annual 'Nuang Festival' in San Agustin, Isabela\".",
+            "Ma.",
+            "Cecilia C. Irang of the Philippine Carabao Center.",
+            "pcc.gov.ph.",
+            "October 2018.",
+            "Retrieved October 1, 2018."
+        ],
+        [
+            "^ \"Carabaos in spotlight as Nuang Festival marks 70th Araw ng San Agustin\".",
+            "ManilaStandard.net.",
+            "September 29, 2019.",
+            "Retrieved September 29, 2019."
+        ],
+        [
+            "^ \"Isabela residents feast on giant Pancit Cabagan\".",
+            "Vince Jacob Visaya of the Manila Times.",
+            "manilatimes.net.",
+            "January 23, 2023.",
+            "Retrieved January 23, 2023."
+        ],
+        [
+            "^ \"Without giant noodles, annual Pansi Festival goes virtual in Isabela town\".",
+            "Villamor Visaya Jr. of Inquirer.net.",
+            "newsinfo.inquirer.net.",
+            "Retrieved January 23, 2021."
+        ],
+        [
+            "^ \"Isabela town cooks up giant 'pancit' at festival in honor of noodles\".",
+            "Villamor Visaya Jr. of Inquirer.net.",
+            "newsinfo.inquirer.net.",
+            "Retrieved January 23, 2020."
+        ],
+        [
+            "^ \"2K villagers share noodle dish in Isabela town's 'Pansi Festival'\".",
+            "Villamor Visaya Jr. of Philippine News Agency.",
+            "pna.gov.ph.",
+            "Retrieved January 23, 2020."
+        ],
+        [
+            "^ \"Santiago City's Pattaraday Festival\".",
+            "Michaed Dax G. Barlaan(Philstar.com).",
+            "philstar.com.",
+            "June 2, 2012.",
+            "Retrieved June 2, 2012."
+        ],
+        [
+            "^ \"Pattaradday Festival Theme is \"Unity in Diversity\"\".",
+            "Travel to the Philippines Blogspot.",
+            "traveltothephilippines.info.",
+            "September 24, 2018.",
+            "Retrieved December 31, 2022."
+        ],
+        [
+            "^ Lirio, Gerry (April 20, 2020).",
+            "\"Heherson 'Sonny' Alvarez: Keeper of the flame\".",
+            "ABS-CBN Corporation.",
+            "Archived from the original on June 24, 2021."
+        ],
+        [
+            "^ \"PURUGGANAN, Miguel Gatan\".",
+            "Bantayog ng mga Bayani.",
+            "October 9, 2015.",
+            "Retrieved September 4, 2020."
+        ],
+        [
+            "Further reading"
+        ],
+        [
+            "http://provinceofisabela.ph Official Website of the Province of Isabela.",
+            "Retrieved October 3, 2014"
+        ],
+        [
+            "http://www.tourism.gov.ph/sitepages/FestivitiesList.aspx?festivityCode=292&monthCode=05 Archived March 17, 2018, at the Wayback Machine.",
+            "Retrieved October 8, 2014"
+        ],
+        [
+            "http://www.philstar.com/nation/2014/02/01/1285254/isabelas-bambanti-festival-lures-thousands Bambanti Festival.",
+            "Retrieved October 8, 2014"
+        ],
+        [
+            "http://provinceofisabela.ph/index.php?option=com_content&view=article&id=168&catid=95.",
+            "Retrieved October 8, 2014"
+        ],
+        [
+            "http://provinceofisabela.ph/index.php/tourism/festivals?showall=&limitstart=.",
+            "Retrieved October 8, 2014"
+        ],
+        [
+            "https://web.archive.org/web/20141014040136/http://www.rogerswebpoint.com/historyofcabatuan.htm Retrieved October 8, 2014"
+        ],
+        [
+            "http://www.spcicdtourism.com/#!festival/ccp2 Archived November 28, 2020, at the Wayback Machine Retrieved October 10, 2014"
+        ],
+        [
+            "http://www.manilatimes.net/renewable-energy-plant-to-rise-in-isabela/172957/ Renewable energy plant to rise in Isabela.",
+            "Retrieved June 15, 2015"
+        ],
+        [
+            "https://web.archive.org/web/20150630234413/http://news.pia.gov.ph/article/view/481433287402/p7-b-solar-power-plant-to-rise-in-isabela P7-B solar power plant to rise in Isabela.",
+            "Retrieved June 15, 2015"
+        ],
+        [
+            "http://newsinfo.inquirer.net/742119/construction-of-p2-28-b-road-thru-sierra-madre-starts-amid-protests#ixzz3xK3EqC2O P2.28B road project for Ilagan-Divilacan Road Retrieved January 18, 2016"
+        ],
+        [
+            "External links"
+        ],
+        [
+            "Map all coordinates using OpenStreetMap"
+        ],
+        [
+            "Download coordinates as:"
+        ],
+        [
+            "KML"
+        ],
+        [
+            "GPX (all coordinates)"
+        ],
+        [
+            "GPX (primary coordinates)"
+        ],
+        [
+            "GPX (secondary coordinates)"
+        ],
+        [
+            " Media related to Isabela (province) at Wikimedia Commons"
+        ],
+        [
+            " Geographic data related to Isabela (province) at OpenStreetMap"
+        ],
+        [
+            "Philippine Standard Geographic Code"
+        ],
+        [
+            "Places adjacent to Isabela (province)"
+        ],
+        [
+            "Kalinga"
+        ],
+        [
+            "Cagayan"
+        ],
+        [
+            "Mountain ProvinceIfugao"
+        ],
+        [
+            "Isabela"
+        ],
+        [
+            "Philippine Sea"
+        ],
+        [
+            "Nueva Vizcaya"
+        ],
+        [
+            "Quirino, Aurora"
+        ],
+        [
+            "vte Province of IsabelaIlagan (capital and largest city)Municipalities"
+        ],
+        [
+            "Alicia"
+        ],
+        [
+            "Angadanan"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Benito Soliven"
+        ],
+        [
+            "Burgos"
+        ],
+        [
+            "Cabagan"
+        ],
+        [
+            "Cabatuan"
+        ],
+        [
+            "Cordon"
+        ],
+        [
+            "Delfin Albano"
+        ],
+        [
+            "Dinapigue"
+        ],
+        [
+            "Divilacan"
+        ],
+        [
+            "Echague"
+        ],
+        [
+            "Gamu"
+        ],
+        [
+            "Jones"
+        ],
+        [
+            "Luna"
+        ],
+        [
+            "Maconacon"
+        ],
+        [
+            "Mallig"
+        ],
+        [
+            "Naguilian"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Quezon"
+        ],
+        [
+            "Quirino"
+        ],
+        [
+            "Ramon"
+        ],
+        [
+            "Reina Mercedes"
+        ],
+        [
+            "Roxas"
+        ],
+        [
+            "San Agustin"
+        ],
+        [
+            "San Guillermo"
+        ],
+        [
+            "San Isidro"
+        ],
+        [
+            "San Manuel"
+        ],
+        [
+            "San Mariano"
+        ],
+        [
+            "San Mateo"
+        ],
+        [
+            "San Pablo"
+        ],
+        [
+            "Santa Maria"
+        ],
+        [
+            "Santo Tomas"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "Component Cities"
+        ],
+        [
+            "Cauayan"
+        ],
+        [
+            "Ilagan"
+        ],
+        [
+            "Independent Component City"
+        ],
+        [
+            "Santiago (Administratively independent from the province but grouped under Isabela by the Philippine Statistics Authority.)"
+        ],
+        [
+            "BarangaysSee: List of barangays in Isabela"
+        ],
+        [
+            "Articles related to Isabela"
+        ],
+        [
+            "vteCagayan Valley (Region II)Regional center"
+        ],
+        [
+            "Tuguegarao"
+        ],
+        [
+            "Provinces"
+        ],
+        [
+            "Batanes"
+        ],
+        [
+            "Cagayan"
+        ],
+        [
+            "Isabela"
+        ],
+        [
+            "Nueva Vizcaya"
+        ],
+        [
+            "Quirino"
+        ],
+        [
+            "Independent component city"
+        ],
+        [
+            "Santiago"
+        ],
+        [
+            "Component cities"
+        ],
+        [
+            "Cauayan"
+        ],
+        [
+            "Ilagan"
+        ],
+        [
+            "Tuguegarao"
+        ],
+        [
+            "Provincial capitals"
+        ],
+        [
+            "Basco"
+        ],
+        [
+            "Bayombong"
+        ],
+        [
+            "Cabarroguis"
+        ],
+        [
+            "Ilagan"
+        ],
+        [
+            "Tuguegarao"
+        ],
+        [
+            "Municipalities"
+        ],
+        [
+            "Abulug"
+        ],
+        [
+            "Aglipay"
+        ],
+        [
+            "Alcala"
+        ],
+        [
+            "Alfonso Casta\u00f1eda"
+        ],
+        [
+            "Alicia"
+        ],
+        [
+            "Allacapan"
+        ],
+        [
+            "Ambaguio"
+        ],
+        [
+            "Amulung"
+        ],
+        [
+            "Angadanan"
+        ],
+        [
+            "Aparri"
+        ],
+        [
+            "Aritao"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Bagabag"
+        ],
+        [
+            "Baggao"
+        ],
+        [
+            "Ballesteros"
+        ],
+        [
+            "Bambang"
+        ],
+        [
+            "Basco"
+        ],
+        [
+            "Bayombong"
+        ],
+        [
+            "Benito Soliven"
+        ],
+        [
+            "Buguey"
+        ],
+        [
+            "Burgos"
+        ],
+        [
+            "Cabagan"
+        ],
+        [
+            "Cabarroguis"
+        ],
+        [
+            "Cabatuan"
+        ],
+        [
+            "Calayan"
+        ],
+        [
+            "Camalaniugan"
+        ],
+        [
+            "Claveria"
+        ],
+        [
+            "Cordon"
+        ],
+        [
+            "Delfin Albano"
+        ],
+        [
+            "Diadi"
+        ],
+        [
+            "Diffun"
+        ],
+        [
+            "Dinapigue"
+        ],
+        [
+            "Divilacan"
+        ],
+        [
+            "Dupax del Norte"
+        ],
+        [
+            "Dupax del Sur"
+        ],
+        [
+            "Echague"
+        ],
+        [
+            "Enrile"
+        ],
+        [
+            "Gamu"
+        ],
+        [
+            "Gattaran"
+        ],
+        [
+            "Gonzaga"
+        ],
+        [
+            "Iguig"
+        ],
+        [
+            "Itbayat"
+        ],
+        [
+            "Ivana"
+        ],
+        [
+            "Jones"
+        ],
+        [
+            "Kasibu"
+        ],
+        [
+            "Kayapa"
+        ],
+        [
+            "Lal-lo"
+        ],
+        [
+            "Lasam"
+        ],
+        [
+            "Luna"
+        ],
+        [
+            "Maconacon"
+        ],
+        [
+            "Maddela"
+        ],
+        [
+            "Mahatao"
+        ],
+        [
+            "Mallig"
+        ],
+        [
+            "Nagtipunan"
+        ],
+        [
+            "Naguilian"
+        ],
+        [
+            "Palanan"
+        ],
+        [
+            "Pamplona"
+        ],
+        [
+            "Pe\u00f1ablanca"
+        ],
+        [
+            "Piat"
+        ],
+        [
+            "Quezon (Isabela)"
+        ],
+        [
+            "Quezon (Nueva Vizcaya)"
+        ],
+        [
+            "Quirino"
+        ],
+        [
+            "Ramon"
+        ],
+        [
+            "Reina Mercedes"
+        ],
+        [
+            "Rizal"
+        ],
+        [
+            "Roxas"
+        ],
+        [
+            "Sabtang"
+        ],
+        [
+            "Saguday"
+        ],
+        [
+            "San Agustin"
+        ],
+        [
+            "San Guillermo"
+        ],
+        [
+            "San Isidro"
+        ],
+        [
+            "San Manuel"
+        ],
+        [
+            "San Mariano"
+        ],
+        [
+            "San Mateo"
+        ],
+        [
+            "San Pablo"
+        ],
+        [
+            "Sanchez-Mira"
+        ],
+        [
+            "Santa Ana"
+        ],
+        [
+            "Santa Fe"
+        ],
+        [
+            "Santa Maria"
+        ],
+        [
+            "Santa Praxedes"
+        ],
+        [
+            "Santa Teresita"
+        ],
+        [
+            "Santo Ni\u00f1o"
+        ],
+        [
+            "Santo Tomas"
+        ],
+        [
+            "Solana"
+        ],
+        [
+            "Solano"
+        ],
+        [
+            "Tuao"
+        ],
+        [
+            "Tumauini"
+        ],
+        [
+            "Uyugan"
+        ],
+        [
+            "Villaverde"
+        ],
+        [
+            "Luzon, Philippines"
+        ],
+        [
+            "vte Provinces of the Philippines"
+        ],
+        [
+            "Abra"
+        ],
+        [
+            "Agusan del Norte"
+        ],
+        [
+            "Agusan del Sur"
+        ],
+        [
+            "Aklan"
+        ],
+        [
+            "Albay"
+        ],
+        [
+            "Antique"
+        ],
+        [
+            "Apayao"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Basilan"
+        ],
+        [
+            "Bataan"
+        ],
+        [
+            "Batanes"
+        ],
+        [
+            "Batangas"
+        ],
+        [
+            "Benguet"
+        ],
+        [
+            "Biliran"
+        ],
+        [
+            "Bohol"
+        ],
+        [
+            "Bukidnon"
+        ],
+        [
+            "Bulacan"
+        ],
+        [
+            "Cagayan"
+        ],
+        [
+            "Camarines Norte"
+        ],
+        [
+            "Camarines Sur"
+        ],
+        [
+            "Camiguin"
+        ],
+        [
+            "Capiz"
+        ],
+        [
+            "Catanduanes"
+        ],
+        [
+            "Cavite"
+        ],
+        [
+            "Cebu"
+        ],
+        [
+            "Cotabato"
+        ],
+        [
+            "Davao de Oro"
+        ],
+        [
+            "Davao del Norte"
+        ],
+        [
+            "Davao del Sur"
+        ],
+        [
+            "Davao Occidental"
+        ],
+        [
+            "Davao Oriental"
+        ],
+        [
+            "Dinagat Islands"
+        ],
+        [
+            "Eastern Samar"
+        ],
+        [
+            "Guimaras"
+        ],
+        [
+            "Ifugao"
+        ],
+        [
+            "Ilocos Norte"
+        ],
+        [
+            "Ilocos Sur"
+        ],
+        [
+            "Iloilo"
+        ],
+        [
+            "Isabela"
+        ],
+        [
+            "Kalinga"
+        ],
+        [
+            "La Union"
+        ],
+        [
+            "Laguna"
+        ],
+        [
+            "Lanao del Norte"
+        ],
+        [
+            "Lanao del Sur"
+        ],
+        [
+            "Leyte"
+        ],
+        [
+            "Maguindanao del Norte"
+        ],
+        [
+            "Maguindanao del Sur"
+        ],
+        [
+            "Marinduque"
+        ],
+        [
+            "Masbate"
+        ],
+        [
+            "Misamis Occidental"
+        ],
+        [
+            "Misamis Oriental"
+        ],
+        [
+            "Mountain Province"
+        ],
+        [
+            "Negros Occidental"
+        ],
+        [
+            "Negros Oriental"
+        ],
+        [
+            "Northern Samar"
+        ],
+        [
+            "Nueva Ecija"
+        ],
+        [
+            "Nueva Vizcaya"
+        ],
+        [
+            "Occidental Mindoro"
+        ],
+        [
+            "Oriental Mindoro"
+        ],
+        [
+            "Palawan"
+        ],
+        [
+            "Pampanga"
+        ],
+        [
+            "Pangasinan"
+        ],
+        [
+            "Quezon"
+        ],
+        [
+            "Quirino"
+        ],
+        [
+            "Rizal"
+        ],
+        [
+            "Romblon"
+        ],
+        [
+            "Samar"
+        ],
+        [
+            "Sarangani"
+        ],
+        [
+            "Siquijor"
+        ],
+        [
+            "Sorsogon"
+        ],
+        [
+            "South Cotabato"
+        ],
+        [
+            "Southern Leyte"
+        ],
+        [
+            "Sultan Kudarat"
+        ],
+        [
+            "Sulu"
+        ],
+        [
+            "Surigao del Norte"
+        ],
+        [
+            "Surigao del Sur"
+        ],
+        [
+            "Tarlac"
+        ],
+        [
+            "Tawi-Tawi"
+        ],
+        [
+            "Zambales"
+        ],
+        [
+            "Zamboanga del Norte"
+        ],
+        [
+            "Zamboanga del Sur"
+        ],
+        [
+            "Zamboanga Sibugay"
+        ],
+        [
+            "vtePhilippines\u00a0articlesHistoryOverviews"
+        ],
+        [
+            "Archaeology"
+        ],
+        [
+            "Economy"
+        ],
+        [
+            "Military"
+        ],
+        [
+            "Political"
+        ],
+        [
+            "Chronology"
+        ],
+        [
+            "Prehistory"
+        ],
+        [
+            "Pre-colonial era"
+        ],
+        [
+            "Colonial era"
+        ],
+        [
+            "Spanish period"
+        ],
+        [
+            "American period"
+        ],
+        [
+            "Japanese occupation"
+        ],
+        [
+            "Postcolonial era"
+        ],
+        [
+            "Third Republic"
+        ],
+        [
+            "Marcos presidency"
+        ],
+        [
+            "Fifth Republic"
+        ],
+        [
+            "Geography"
+        ],
+        [
+            "Bays"
+        ],
+        [
+            "Biosphere reserves"
+        ],
+        [
+            "Borders"
+        ],
+        [
+            "Climate"
+        ],
+        [
+            "Climate change"
+        ],
+        [
+            "Typhoons"
+        ],
+        [
+            "Earthquakes"
+        ],
+        [
+            "Ecoregions"
+        ],
+        [
+            "Extreme points"
+        ],
+        [
+            "Island groups"
+        ],
+        [
+            "islands"
+        ],
+        [
+            "Lakes"
+        ],
+        [
+            "Mountains"
+        ],
+        [
+            "Protected areas"
+        ],
+        [
+            "National parks"
+        ],
+        [
+            "Ramsar sites"
+        ],
+        [
+            "Rivers"
+        ],
+        [
+            "Volcanoes"
+        ],
+        [
+            "Wildlife"
+        ],
+        [
+            "World Heritage Sites"
+        ],
+        [
+            "Politics"
+        ],
+        [
+            "Administrative divisions"
+        ],
+        [
+            "Constitution"
+        ],
+        [
+            "Elections"
+        ],
+        [
+            "Foreign relations"
+        ],
+        [
+            "Human rights"
+        ],
+        [
+            "LGBT"
+        ],
+        [
+            "Legal codes"
+        ],
+        [
+            "Political families"
+        ],
+        [
+            "Political parties"
+        ],
+        [
+            "Government"
+        ],
+        [
+            "Executive"
+        ],
+        [
+            "Cabinet"
+        ],
+        [
+            "lists"
+        ],
+        [
+            "Executive departments"
+        ],
+        [
+            "Executive office"
+        ],
+        [
+            "Law enforcement"
+        ],
+        [
+            "President"
+        ],
+        [
+            "Legislative"
+        ],
+        [
+            "Senate"
+        ],
+        [
+            "House of Representatives"
+        ],
+        [
+            "Judicial"
+        ],
+        [
+            "Supreme Court"
+        ],
+        [
+            "Court of Appeals"
+        ],
+        [
+            "Regional Trial Court"
+        ],
+        [
+            "Armed Forces"
+        ],
+        [
+            "Air Force"
+        ],
+        [
+            "Army"
+        ],
+        [
+            "Navy"
+        ],
+        [
+            "Marine Corps"
+        ],
+        [
+            "Coast Guard"
+        ],
+        [
+            "Economy"
+        ],
+        [
+            "Agriculture"
+        ],
+        [
+            "Automotive"
+        ],
+        [
+            "Business process outsourcing"
+        ],
+        [
+            "Census"
+        ],
+        [
+            "Central bank"
+        ],
+        [
+            "Energy"
+        ],
+        [
+            "Fiscal policy"
+        ],
+        [
+            "National debt"
+        ],
+        [
+            "Labor"
+        ],
+        [
+            "Peso"
+        ],
+        [
+            "Science and technology"
+        ],
+        [
+            "Stock exchange"
+        ],
+        [
+            "Taxation"
+        ],
+        [
+            "Telecommunications"
+        ],
+        [
+            "Telephone numbers"
+        ],
+        [
+            "Tourism"
+        ],
+        [
+            "Tourist attractions"
+        ],
+        [
+            "Transportation"
+        ],
+        [
+            "Water and sanitation"
+        ],
+        [
+            "ZIP codes"
+        ],
+        [
+            "Society"
+        ],
+        [
+            "Abortion"
+        ],
+        [
+            "Censorship"
+        ],
+        [
+            "Corruption"
+        ],
+        [
+            "Crime"
+        ],
+        [
+            "Demographics"
+        ],
+        [
+            "Divorce"
+        ],
+        [
+            "Education"
+        ],
+        [
+            "Higher education"
+        ],
+        [
+            "Environmental issues"
+        ],
+        [
+            "Climate change"
+        ],
+        [
+            "Deforestation"
+        ],
+        [
+            "Ethnic groups"
+        ],
+        [
+            "Indigenous peoples"
+        ],
+        [
+            "Genetics"
+        ],
+        [
+            "Health"
+        ],
+        [
+            "Human trafficking"
+        ],
+        [
+            "Sex trafficking"
+        ],
+        [
+            "Immigration"
+        ],
+        [
+            "Income inequality"
+        ],
+        [
+            "Kinship"
+        ],
+        [
+            "Languages"
+        ],
+        [
+            "Overseas workers"
+        ],
+        [
+            "Poverty"
+        ],
+        [
+            "Prostitution"
+        ],
+        [
+            "Refugees"
+        ],
+        [
+            "Religion"
+        ],
+        [
+            "Sexuality"
+        ],
+        [
+            "Squatting"
+        ],
+        [
+            "Women"
+        ],
+        [
+            "Pinoy"
+        ],
+        [
+            "Culture"
+        ],
+        [
+            "Architecture"
+        ],
+        [
+            "Arts"
+        ],
+        [
+            "Cinema"
+        ],
+        [
+            "Cuisine"
+        ],
+        [
+            "Cultural properties"
+        ],
+        [
+            "Dance"
+        ],
+        [
+            "Fashion and clothing"
+        ],
+        [
+            "Historical markers"
+        ],
+        [
+            "Inventions"
+        ],
+        [
+            "Literature"
+        ],
+        [
+            "Media"
+        ],
+        [
+            "Music"
+        ],
+        [
+            "Mythology"
+        ],
+        [
+            "Name"
+        ],
+        [
+            "Public holidays"
+        ],
+        [
+            "Festivals"
+        ],
+        [
+            "Psychology"
+        ],
+        [
+            "Sports"
+        ],
+        [
+            "Traditional games"
+        ],
+        [
+            "Value system"
+        ],
+        [
+            "Symbols"
+        ],
+        [
+            "Anthem"
+        ],
+        [
+            "Bird"
+        ],
+        [
+            "Coat of arms"
+        ],
+        [
+            "Flag"
+        ],
+        [
+            "Flower"
+        ],
+        [
+            "Gem"
+        ],
+        [
+            "Great Seal"
+        ],
+        [
+            "Language"
+        ],
+        [
+            "Motto"
+        ],
+        [
+            "Sign language"
+        ],
+        [
+            "Sport and martial art"
+        ],
+        [
+            "Tree"
+        ],
+        [
+            "Outline"
+        ],
+        [
+            "Bibliography"
+        ],
+        [
+            " Philippines portal"
+        ],
+        [
+            " Category"
+        ],
+        [
+            "Authority control databases International"
+        ],
+        [
+            "VIAF"
+        ],
+        [
+            "WorldCat"
+        ],
+        [
+            "National"
+        ],
+        [
+            "Israel"
+        ],
+        [
+            "United States"
+        ],
+        [
+            "Geographic"
+        ],
+        [
+            "MusicBrainz area"
+        ],
+        [
+            "Retrieved from \"https://en.wikipedia.org/w/index.php?title=Isabela_(province)&oldid=1233481109\""
+        ],
+        [
+            "Categories: Isabela (province)Provinces of the PhilippinesProvinces of Cagayan ValleyStates and territories established in 18561856 establishments in the PhilippinesHidden categories: Pages using gadget WikiMiniAtlasArticles containing Ilocano-language textArticles containing Ibanag-language textArticles containing Gaddang-language textArticles containing Tagalog-language textWebarchive template wayback linksCS1 maint: numeric names: authors listArticles with short descriptionShort description is different from WikidataUse Philippine English from February 2023All Wikipedia articles written in Philippine EnglishUse mdy dates from February 2023Coordinates on WikidataWikipedia articles needing clarification from June 2016Articles to be expanded from May 2024All articles to be expandedArticles using small message boxesAll articles with vague or ambiguous timeVague or ambiguous time from June 2016Wikipedia articles needing context from June 2016Wikipedia articles needing rewrite from June 2016All articles needing rewriteWikipedia articles with style issues from September 2018All articles with style issuesAll articles with unsourced statementsArticles with unsourced statements from June 2016Articles needing additional references from December 2013All articles needing additional referencesLists of coordinatesGeographic coordinate listsArticles with GeoCommons category link from WikidataArticles with VIAF identifiersArticles with WorldCat Entities identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with MusicBrainz area identifiersPages using the Kartographer extension"
+        ]
+    ]
+}

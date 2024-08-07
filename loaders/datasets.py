@@ -29,7 +29,7 @@ from core.helpers.project_imports import *
 
 def load_agnc_dataset(
     label = "Class Index", 
-    holdout = 0.3,
+    holdout = 0.85,
     task_type = "classification",
     features = ["Title", "Description"]
 ):
@@ -38,7 +38,10 @@ def load_agnc_dataset(
         subcontext = "amananandrai",
         name = "AG News Classification Dataset",
         file = "all.csv",
-        manual_types = {}
+        manual_types = {
+            "Title" : "text", 
+            "Description" : "text"
+        }
     )
 
 
@@ -67,7 +70,11 @@ def load_nac_b_dataset(
         subcontext = "banuprakashv",
         name = "News Article Classification Dataset",
         file = "all.csv",
-        manual_types = {}
+        manual_types = {
+            "headlines" : "text",
+            "description" : "text", 
+            "content" : "text"
+        }
     )
 
 
@@ -96,9 +103,13 @@ def load_nt_dataset(
         subcontext = "dabayondharchowdhury",
         name = "News Text",
         file = "all.csv",
-        manual_types = {}
+        manual_types = {
+            "text" : "text"
+        }
     )
 
+    dataset.state["df"] = dataset.state["df"].sample(20000, random_state=1234567890)
+    dataset.refresh()
 
     labeled = LabeledDataset(
         dataset      = dataset,
@@ -126,9 +137,13 @@ def load_wnc_dataset(
         subcontext = "khoshbayani",
         name = "World News Category",
         file = "all.csv",
-        manual_types = {}
+        manual_types = {
+            "text" : "text"
+        }
     )
 
+    dataset.state["df"] = dataset.state["df"].sample(20000, random_state=1234567890)
+    dataset.refresh()
 
     labeled = LabeledDataset(
         dataset      = dataset,
@@ -144,7 +159,7 @@ def load_wnc_dataset(
 
 # ============================================================================ #
 
-def load_ncd_r_dataset(
+def load_ncd_dataset(
     label = "category", 
     holdout = 0.3,
     task_type = "classification",
@@ -155,9 +170,14 @@ def load_ncd_r_dataset(
         subcontext = "rmisra",
         name = "News Category Dataset",
         file = "all.csv",
-        manual_types = {}
+        manual_types = {
+            "headline" : "text", 
+            "short_description" : "text"
+        }
     )
 
+    dataset.state["df"] = dataset.state["df"].sample(20000, random_state=1234567890)
+    dataset.refresh()
 
     labeled = LabeledDataset(
         dataset      = dataset,
@@ -184,7 +204,10 @@ def load_nac_t_dataset(
         subcontext = "timilsinabimal",
         name = "News Article Category",
         file = "all.csv",
-        manual_types = {}
+        manual_types = {
+            "title" : "text",
+            "body" : "text"
+        }
     )
 
 
@@ -202,7 +225,7 @@ def load_nac_t_dataset(
 
 # ============================================================================ #
 
-def load_pfncd_dataset(
+def load_pfnc_dataset(
     label = "Label", 
     holdout = 0.3,
     task_type = "classification",
@@ -213,9 +236,11 @@ def load_pfncd_dataset(
         subcontext = "aaroncarlfernandex",
         name = "Philippine Fake News Corpus",
         file = "all.csv",
-        manual_types = {}
+        manual_types = {
+            "Headline" : "text",
+            "Content" : "text"
+        }
     )
-
 
     labeled = LabeledDataset(
         dataset      = dataset,

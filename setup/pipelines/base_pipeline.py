@@ -29,6 +29,11 @@ from core.helpers.project_imports import *
 from .extra_transforms import *
 # =========================================================================== #
 
+def inspect(X):
+    print(X)
+    quit()
+    return X
+
 class BasePipeline:
     def __init__(self): 
         self.pipeline = None 
@@ -101,12 +106,7 @@ class BasePipeline:
         # create column dropper 
         drop_cols = DropNonNumericTransformer()
         
-        # create inspector
-        def inspect(X):
-            # print(X.shape)
-            # for column in X.columns:
-            #     print(column, len(set(X[column])))
-            return X
+       
 
         # create unsparser
         def unsparse(X):
@@ -115,10 +115,10 @@ class BasePipeline:
             else:
                 return X
         
-        # create input no. detector:
-        def input_size_detector(X):
-            self.input_size = X.shape[1]
-            return X
+        # # create input no. detector:
+        # def input_size_detector(X):
+        #     self.input_size = X.shape[1]
+        #     return X
 
 
         # create column steps 
@@ -147,12 +147,12 @@ class BasePipeline:
             steps = steps + extra_transforms
 
         # detect shape of inputs 
-        steps += [
-            (
-                "input_size_detector", 
-                FunctionTransformer(input_size_detector)
-            )
-        ]
+        # steps += [
+        #     (
+        #         "input_size_detector", 
+        #         FunctionTransformer(input_size_detector)
+        #     )
+        # ]
 
         # add task estimator
         task_estimator = self.define_task_estimator()
@@ -255,7 +255,7 @@ class BasePipeline:
             if text_column not in features: 
                 continue
             else:
-                transformers = self.define_text_features()
+                transformers = self.define_text_features(text_column)
 
                 steps.append(
                     (   
@@ -305,7 +305,8 @@ class BasePipeline:
 
     # ----- DEFINE EXTRA TRANSFORMS ----- #
     def define_extra_transforms(self): 
-        return None
+        # return [("pca", PCA(n_components=6)), ("ss", StandardScaler())]
+        return None 
 
     # ----- DEFINE IMPUTATIONS ----- # 
     def define_categorical_imputations(self): 
@@ -346,17 +347,26 @@ class BasePipeline:
     def define_numeric_with_null_features(self): 
         return [StandardScaler()] 
 
-    def define_text_features(self): 
-        agmv = AGMV(
-            model_name = "glove-twitter-50",
-            dims = 50, 
-            verbose = True
-        )
-
-        kdae = KDAE(
-            model = self,
-            dims = 50,
-            agmv = agmv
-        )
+    def define_text_features(self, column): 
         
-        return [agmv, kdae]
+        # # --- define AGMV
+        # agmv = AGMV(
+        #     model_name = "glove-wiki-gigaword-50",
+        #     dims = 50, 
+        #     verbose = True,
+        #     use_cache = False,
+        #     pipeline = self,
+        #     column = column,
+        #     cache_dict = self.cache_dict,
+        #     averaging = "word"
+        # )
+
+        # return [ agmv ]
+
+        return [ 
+            Lemmatizer(), 
+            ApplyVectorizer(
+                vectorizer=TfidfVectorizer(stop_words="english"), 
+                field="text"
+            ) 
+        ]

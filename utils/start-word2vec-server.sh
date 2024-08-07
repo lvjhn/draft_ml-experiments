@@ -1,0 +1,1 @@
+python3 -m tools.agmv_server word2vec-google-news-300

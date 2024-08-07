@@ -51,4 +51,8 @@ from sklearn.decomposition import PCA
 
 from sklearn.compose import TransformedTargetRegressor
 
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import f_classif
+from sklearn.preprocessing import MaxAbsScaler
+
 # set_config(transform_output="pandas")

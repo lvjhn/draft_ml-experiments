@@ -112,9 +112,28 @@ class ApplyVectorizer(BaseEstimator, TransformerMixin):
         self.field = field
 
     def fit(self, X, y = None): 
-        X = pd.Series(X[self.field])
+        if type(X) is pd.DataFrame:
+            X = pd.Series(X[self.field])
         return self.vectorizer.fit(X)
 
     def transform(self, X, y = None):
-        X = self.vectorizer.transform(pd.Series(X[self.field]))
+        if type(X) is pd.DataFrame:
+            X = pd.Series(X[self.field])
+        X = self.vectorizer.transform(X)
         return X
+
+class ApplyLabels(BaseEstimator, TransformerMixin): 
+    def __init__(
+        self,
+        builder = None, 
+        model = None
+    ):
+        self.builder = builder
+        self.model = model
+
+    def fit(self, X, y = None): 
+        self._builder = self.builder() 
+        self._builder.fit_transform(X, self.model.y_train)
+
+    def transform(self, X, y = None):
+        return self._builder.transform(X)

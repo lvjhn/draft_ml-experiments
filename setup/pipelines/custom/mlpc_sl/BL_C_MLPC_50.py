@@ -29,7 +29,12 @@ from core.helpers.project_imports import *
 
 class BL_C_MLPC_50(BasePipeline):
     def define_task_estimator(self): 
-        return MLPClassifier(hidden_layer_sizes=(50,), random_state=RANDOM_STATE) 
+        return MLPClassifier(
+            hidden_layer_sizes=(50,), 
+            verbose=True, 
+            random_state=RANDOM_STATE, 
+            early_stopping=True
+        ) 
 
     def define_normal_features(self): 
         return [StandardScaler()]

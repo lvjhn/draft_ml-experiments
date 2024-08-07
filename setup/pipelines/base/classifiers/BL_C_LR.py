@@ -29,7 +29,7 @@ from core.helpers.project_imports import *
 
 class BL_C_LR(BasePipeline):
     def define_task_estimator(self): 
-        return LogisticRegression(random_state=RANDOM_STATE) 
+        return LogisticRegression(verbose=True, random_state=RANDOM_STATE) 
 
     def define_numeric_normal_features(self): 
         return [StandardScaler()]

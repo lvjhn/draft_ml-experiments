@@ -49,5 +49,5 @@ class BL_C_MNB(BasePipeline):
 
     def define_extra_transforms(self): 
         return [
-            ("mms", MinMaxScaler())
+            ("mms", MaxAbsScaler())
         ]

@@ -29,7 +29,7 @@ from core.helpers.project_imports import *
 
 class BL_C_LSVC(BasePipeline):
     def define_task_estimator(self): 
-        return LinearSVC() 
+        return LinearSVC(verbose=True) 
         
     def define_numeric_non_normal_features(self): 
         return [StandardScaler()]

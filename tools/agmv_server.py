@@ -45,20 +45,23 @@ def get_model_name(name):
 model_name = sys.argv[1]
 
 print(f"@ Loading model {model_name}.")
-model = AGMV(model_name=model_name, dims=int(model_name.split("-")[-1]))
+model = AGMV(
+    model_name=model_name, 
+    dims=int(model_name.split("-")[-1]),
+    column = "text"
+)
 print(f"@ Loaded model.")
 
 # --------------------------------------------------------------------------- #
-def get_vector(sentence):
-    return model.fit_transform(pd.DataFrame([sentence]))[0]
-
+def get_vector(text):
+    return model.fit_transform(pd.DataFrame({ "text" : [text] }))[0]
 # ------------------------------------------------------------------------ #
 
 print("=====================================================================")
 
-@route('/transform/<sentence>')
-def transform(sentence):
-    vector = get_vector(sentence)
+@route('/transform/<text>')
+def transform(text):
+    vector = get_vector(text)
     print(vector)
     return json.dumps(vector, default=Common.format_json, indent=4)
 
@@ -88,7 +91,7 @@ def transform(context, subcontext, name, columns):
         for i in range(len(columns)): 
             column = columns[i]
             print(f"\t> Processing {column} ({i + 1}/{len(columns)})")
-            for averaging in ["word", "sentence"]:
+            for averaging in ["word", "text"]:
                 out_folder = f"{folder}{averaging}/{column}"
 
                 os.makedirs(out_folder, exist_ok=True)

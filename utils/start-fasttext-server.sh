@@ -1,0 +1,1 @@
+python3 -m tools.agmv_server fasttext-wiki-news-subwords-300

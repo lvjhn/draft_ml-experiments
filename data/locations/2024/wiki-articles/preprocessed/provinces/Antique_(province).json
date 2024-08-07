@@ -1,0 +1,3331 @@
+{
+    "name": "Antique",
+    "data": [
+        [
+            "Toggle the table of contents"
+        ],
+        [
+            "Antique (province)"
+        ],
+        [
+            "42 languages"
+        ],
+        [
+            "Ac\u00e8h\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u95a9\u5357\u8a9e / B\u00e2n-l\u00e2m-g\u00faBikol CentralCebuanoChavacano de ZamboangaDeutschEspa\u00f1olEsperanto\u0641\u0627\u0631\u0633\u06ccFran\u00e7ais\ud55c\uad6d\uc5b4\u0939\u093f\u0928\u094d\u0926\u0940IlokanoBahasa IndonesiaItalianoKapampangan\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8LatinaLatvie\u0161u\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438Bahasa MelayuNederlands\u65e5\u672c\u8a9eNorsk bokm\u00e5lPangasinanPolskiPortugu\u00eas\u0420\u0443\u0441\u0441\u043a\u0438\u0439Simple EnglishSuomiSvenskaTagalog\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0e44\u0e17\u0e22T\u00fcrk\u00e7e\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0627\u0631\u062f\u0648V\u00e8netoTi\u1ebfng Vi\u1ec7tWinaray\u4e2d\u6587"
+        ],
+        [
+            "Edit links"
+        ],
+        [
+            "ArticleTalk"
+        ],
+        [
+            "English"
+        ],
+        [
+            "ReadEditView history"
+        ],
+        [
+            "Tools"
+        ],
+        [
+            "Tools"
+        ],
+        [
+            "move to sidebar"
+        ],
+        [
+            "hide"
+        ],
+        [
+            "\t\tActions"
+        ],
+        [
+            "ReadEditView history"
+        ],
+        [
+            "\t\tGeneral"
+        ],
+        [
+            "What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item"
+        ],
+        [
+            "\t\tPrint/export"
+        ],
+        [
+            "Download as PDFPrintable version"
+        ],
+        [
+            "\t\tIn other projects"
+        ],
+        [
+            "Wikimedia CommonsWikivoyage"
+        ],
+        [
+            "Appearance"
+        ],
+        [
+            "move to sidebar"
+        ],
+        [
+            "hide"
+        ],
+        [
+            "Coordinates: 11\u00b010\u203200\u2033N 122\u00b005\u203200\u2033E\ufeff / \ufeff11.16667\u00b0N 122.08333\u00b0E\ufeff / 11.16667; 122.08333"
+        ],
+        [
+            "From Wikipedia, the free encyclopedia"
+        ],
+        [
+            "Province in Western Visayas, PhilippinesAntiqueProvinceProvince of Antique"
+        ],
+        [
+            "(from top: left to right) Tibiao Rice Terraces,  Mount Madja-as, Mararison Island, old cemetery chapel in Hamtic, and Anini-y Church."
+        ],
+        [
+            "FlagSealNickname:\u00a0The Land Where The Mountains Meet The SeaLocation in the PhilippinesOpenStreetMapCoordinates: 11\u00b010\u203200\u2033N 122\u00b005\u203200\u2033E\ufeff / \ufeff11.16667\u00b0N 122.08333\u00b0E\ufeff / 11.16667; 122.08333CountryPhilippinesRegionWestern VisayasMalayan Settlement13th Century (as Hamtik)Spanish Settlement1569 (Hant\u00edque, later on became Ant\u00edque) Politico-Military Province1790FoundedMarch 10, 1917"
+        ],
+        [
+            "\u00a0\u2022\u00a0Total612,974\u00a0\u2022\u00a0Rank52nd out of 81\u00a0\u2022\u00a0Density220/km2 (580/sq\u00a0mi)\u00a0\u00a0\u2022\u00a0Rank44th out of 81DemonymAntique\u00f1oDivisions\u00a0\u2022\u00a0Independent\u00a0cities0\u00a0\u2022\u00a0Component cities0\u00a0\u2022\u00a0Municipalities"
+        ],
+        [
+            "18"
+        ],
+        [
+            " Anini-y"
+        ],
+        [
+            " Barbaza"
+        ],
+        [
+            " Belison"
+        ],
+        [
+            " Bugasong"
+        ],
+        [
+            " Caluya"
+        ],
+        [
+            " Culasi"
+        ],
+        [
+            " Hamtic"
+        ],
+        [
+            " Laua-an"
+        ],
+        [
+            " Libertad"
+        ],
+        [
+            " Pandan"
+        ],
+        [
+            " Patnongon"
+        ],
+        [
+            " San Jose de Buenavista"
+        ],
+        [
+            " San Remigio"
+        ],
+        [
+            " Sebaste"
+        ],
+        [
+            " Sibalom"
+        ],
+        [
+            " Tibiao"
+        ],
+        [
+            " Tobias Fornier"
+        ],
+        [
+            " Valderrama"
+        ],
+        [
+            "\u00a0\u2022\u00a0Barangays590\u00a0\u2022\u00a0DistrictsLegislative district of AntiqueTime zoneUTC+8 (PHT)ZIP code5700\u20135717IDD\u2009:\u2009area\u00a0code\u2009+63\u2009(0)36ISO 3166 codePH-ANTHDI 0.640 (Medium)HDI rank35th in Philippines (2019)Spoken languagesKinaray-aCaluyanonHiligaynonCuyononAtiTagalogEnglishGDP (2022)\u20b170.69 billion $1.205 billion Growth rate 8.7%Websiteantique.gov.ph"
+        ],
+        [
+            "Antique, officially the Province of Antique (; Kinaray-a: Kapuoran kang Antique; Hiligaynon: Kapuoran sang Antique; Tagalog: Lalawigan ng Antique), is a province in the Philippines located in the Western Visayas region.",
+            "Its capital is San Jose de Buenavista, the most populous town in Antique.",
+            "The province is situated in the western section of Panay Island and borders Aklan, Capiz and Iloilo to the east, while facing the Sulu Sea to the west."
+        ],
+        [
+            "The province is home to the indigenous Iraynun-Bukidnon, speakers of a dialect of the Kinaray-a language, who have crafted the only rice terrace clusters in the Visayas through indigenous knowledge and sheer vernacular capabilities.",
+            "The rice terraces of the Iraynun-Bukidnon are divided into four terraced fields, namely, General Fullon rice terraces, Lublub rice terraces, Bakiang rice terraces, and San Agustin rice terraces.",
+            "All of the rice terrace clusters have been researched by the National Commission for Culture and the Arts and various scholars from the University of the Philippines.",
+            "There have been campaigns to nominate the Iraynun-Bukidnon Rice Terraces, along with the Central Panay Mountain Range, into the UNESCO World Heritage List."
+        ],
+        [
+            "Etymology"
+        ],
+        [
+            "Antique was one of the three sakups (districts) of Panay before Spanish colonizers arrived on the islands.",
+            "The province was known at that time as Hant\u00edk, the local name for the large black ants found on the island.",
+            "The Spanish chroniclers, influenced by the French, recorded the region's name as Hantique (with the silent 'h'), but this was only adopted in areas near Malandog River in present Hamtic town which then became the provincial capital (shortly before Bugason and San Jose).",
+            "The province bearing its former capital's name is spelled and pronounced as \"Antique\" (\u00e4n-ti-k\u00e9), without 'h' and pronounced in (Kinaray-a) dialectic way."
+        ],
+        [
+            "History"
+        ],
+        [
+            "Early history"
+        ],
+        [
+            "See also: Kedatuan of Madja-as"
+        ],
+        [
+            "Historians believe that the earliest people who settled on the island of Panay were tribal Negritos or Atis.",
+            "Oral history, relayed as the \"Maragtas\", states that ten \"datus\" or minor tribal Malay chieftains escaped persecution from a city called Odtohan from Borneo due to a tyrant ruler called Makatunaw.",
+            "There are claims that the narrative of the Maragtas is dated to 1212 to fit with the transition of the Srivijayan Empire to Majapahit but there are no written evidence about this, nor there are any existing claims that links the datus to Borneo.",
+            "Nevertheless, the Maragtas narrative is to be considered as part of the local history of the people."
+        ],
+        [
+            "According to the Maragtas, the Bornean datus upon arrival met with the Ati chieftain Datu Marikudo and his wife Maniwantiwan.",
+            "They offered the chieftain a salakot (wide-brimmed hat)"
+        ],
+        [
+            "The island of Panay was then divided into three sakups: Hantik, Akean and Irong-Irong.",
+            "Irong-Irong became Iloilo, Akean became the present-day Aklan and Capiz, and Hantik (also called Hamtik or Hamtic) became Antique.",
+            "Hantik was named for the large black ants found on the island called \"hantik-hantik\"."
+        ],
+        [
+            "Spanish colonial era"
+        ],
+        [
+            "During the Spanish colonial period, the coastal province was vulnerable to attacks by Moro raiders.",
+            "Under the direction of the Spanish friars, a series of watchtowers, like the 'Old Watchtower' in Libertad and Estaca Hill in Bugasong, were built to guard Antique."
+        ],
+        [
+            "In 1790, Antique was converted into a politico-military province with the town of Antique (now Hamtic) as its first capital.",
+            "The provincial seat of government was later transferred to Bugas\u00f3n (old name of Bugasong), and finally to San Jose de Buenavista.",
+            ":\u200a31,\u200a54,\u200a113"
+        ],
+        [
+            "Japanese occupation era"
+        ],
+        [
+            "In 1942, the Imperial Japanese Army landed in Antique and occupied the province during the Second World War."
+        ],
+        [
+            "During the Japanese Insurgencies and Occupation (1942-1944), the military general headquarters and camp bases of the 6th and 62nd Infantry Division of the Philippine Commonwealth Army was active from January 3, 1942, to June 30, 1946, and the military general headquarters and camp bases of the 6th Constabulary Regiment of the Philippine Constabulary was re-activated between October 28, 1944, and June 30, 1946."
+        ],
+        [
+            "Between 1944 and 1945, Philippine Commonwealth forces of the 6th Constabulary Regiment of the Philippine Constabulary and the 6th and 62nd Infantry Division of the Philippine Commonwealth Army defeated the Japanese troops and liberated the province.",
+            "The liberation was achieved with the active support of recognized local guerrillas."
+        ],
+        [
+            "Philippine independence"
+        ],
+        [
+            "During the Marcos dictatorship"
+        ],
+        [
+            "Main article: Bacong Bridge massacre"
+        ],
+        [
+            "One of the significant events of the Philippines's Martial Law era was the Bacong Bridge Massacre, which took place in the town of Culasi, Antique on December 19, 1981."
+        ],
+        [
+            "Contemporary"
+        ],
+        [
+            "In 2014, the first ever Philippine rice terraces found outside the Cordilleras was discovered in Antique through satellite and a team of scientists and locals.",
+            "The heritage site, known as the Antique Rice Terraces of the Panay-Bukidnon people, is believed to be at least 200 years old.",
+            "In 2017, the province hosted the Palarong Pambansa for the very first time."
+        ],
+        [
+            "Geography"
+        ],
+        [
+            "Landscape in San Remigio"
+        ],
+        [
+            "Antique is one of the six provinces comprising Western Visayas or Region VI, and one of the four provinces on the island of Panay."
+        ],
+        [
+            "The province, with a total land area of 2,729.17 square kilometres (1,053.74\u00a0sq\u00a0mi), is an elongated stretch of land occupying the entire western side of the island.",
+            "It is bounded by the rugged central mountains of Panay, bordering on the provinces of Aklan in the northeast, Capiz on the east, Iloilo in the southeast and the Sulu Sea on the west.",
+            "Its westernmost and northernmost point is Semirara Island at 12\u00b007\u203210\u2033N 121\u00b021\u203210\u2033E\ufeff / \ufeff12.11944\u00b0N 121.35278\u00b0E\ufeff / 12.11944; 121.35278, while its eastern tip is approximately 11\u00b001\u2032N 122\u00b019.5\u2032E\ufeff / \ufeff11.017\u00b0N 122.3250\u00b0E\ufeff / 11.017; 122.3250.",
+            "Anini-y is the province's most southerly point at 10\u00b024\u203224\u2033N 121\u00b057\u203238\u2033E\ufeff / \ufeff10.40667\u00b0N 121.96056\u00b0E\ufeff / 10.40667; 121.96056.",
+            "Resembling a seahorse in shape, it is 155 kilometres (96\u00a0mi) long and 35 kilometres (22\u00a0mi) at its widest point."
+        ],
+        [
+            "Physical Features"
+        ],
+        [
+            "Antique has rugged and varied land.",
+            "Nogas Island, Hurao-Hurao Island and Mararison Island have long stretches of white sand beaches that are ideal for shell-hunting.",
+            "Batbatan Island on the other hand, appeals to scuba divers because of the well-preserved coral reefs."
+        ],
+        [
+            "Mount Madja-as is located in Culasi, is the highest peak on the island of Panay.",
+            "This 2,117-metre-high (6,946\u00a0ft) mountain is a dormant volcano with lakes and 14 waterfalls.",
+            "It is said to be the legendary home of Bulalakaw, the supreme god of the ancients, and beckons as a challenge for hikers and trekkers.",
+            "Mount Nangtud, is the second highest mountain in Antique and Panay island with an elevation of 6,804\u00a0ft (2,074\u00a0m)  above sea level, located between Antique and Capiz border."
+        ],
+        [
+            "Antique has nine major rivers, the longest is Sibalom River 73 km, followed by Paliwan River 58.2 km, Cangaranan River 57.4 km, Dalanas River 34.6 km, Cairawan River 31.5 km, Ypayo River (Patnongon) 29.2 km, Tibiao River 26.4 km, Malandog River 17.8 km and Bacong River 16.2 km."
+        ],
+        [
+            "List of peaks in Antique by elevation."
+        ],
+        [
+            "Mount Madja-as 6,946\u00a0ft (2,117\u00a0m)"
+        ],
+        [
+            "Mount Nangtud 6,804\u00a0ft (2,074\u00a0m)"
+        ],
+        [
+            "Mount Baloy 6,430\u00a0ft (1,960\u00a0m)"
+        ],
+        [
+            "Mount Balabag 5,630\u00a0ft (1,720\u00a0m)"
+        ],
+        [
+            "Mount Agbalanti 5,180\u00a0ft (1,580\u00a0m)"
+        ],
+        [
+            "Mount Kigas 4,967\u00a0ft (1,514\u00a0m)"
+        ],
+        [
+            "Mount Igbanig 4,810\u00a0ft (1,470\u00a0m)"
+        ],
+        [
+            "Mount Sipanag 4,754\u00a0ft (1,449\u00a0m)"
+        ],
+        [
+            "Mount Igdalig 4,518\u00a0ft (1,377\u00a0m)"
+        ],
+        [
+            "Mount Tiguran 4,518\u00a0ft (1,377\u00a0m)"
+        ],
+        [
+            "Mount Tigatay 4,429\u00a0ft (1,350\u00a0m)"
+        ],
+        [
+            "Mount Dumara 4,222\u00a0ft (1,287\u00a0m)"
+        ],
+        [
+            "Mount Sansanan 4,209\u00a0ft (1,283\u00a0m)"
+        ],
+        [
+            "Mount Anoy 3,507\u00a0ft (1,069\u00a0m)"
+        ],
+        [
+            "Mount Balabag, Seb.",
+            "3,360\u00a0ft (1,020\u00a0m)"
+        ],
+        [
+            "Mount Acotay 3,241\u00a0ft (988\u00a0m)"
+        ],
+        [
+            "Mount Tinayunga  3,002\u00a0ft (915\u00a0m)"
+        ],
+        [
+            "Mount Tuno 2,841\u00a0ft (866\u00a0m)"
+        ],
+        [
+            "Mount Tigancal 2,825\u00a0ft (861\u00a0m)"
+        ],
+        [
+            "Mount Tigbararing 2,582\u00a0ft (787\u00a0m)"
+        ],
+        [
+            "Mount Tigdagano 2,513\u00a0ft (766\u00a0m)"
+        ],
+        [
+            "Mount Manlagbo 2,421\u00a0ft (738\u00a0m)"
+        ],
+        [
+            "Mount Aningalan 2,470\u00a0ft (750\u00a0m)"
+        ],
+        [
+            "River systems"
+        ],
+        [
+            "List of rivers in Antique by length."
+        ],
+        [
+            "1.Sibalom River 73 km"
+        ],
+        [
+            "Tipulu-an River 33.1 km"
+        ],
+        [
+            "Mao-it River 15.8 km"
+        ],
+        [
+            "Maninila River 31.1 km"
+        ],
+        [
+            "Cansilayan River 12.5 km"
+        ],
+        [
+            "2.Paliwan River 58.2 km"
+        ],
+        [
+            "Paningayan River 18.7 km"
+        ],
+        [
+            "Bucayan River 14.1 km"
+        ],
+        [
+            "Nawili River 12.6 km"
+        ],
+        [
+            "3.Cangaranan River 57.4 km"
+        ],
+        [
+            "Cadi-an River 25 km"
+        ],
+        [
+            "Baloy River 15.4 km"
+        ],
+        [
+            "4.Dalanas River, Barbaza 34.6 km"
+        ],
+        [
+            "Mali-ao River 26.3 km"
+        ],
+        [
+            "Kigas River 16.2 km"
+        ],
+        [
+            "Mamara River 11.3 km"
+        ],
+        [
+            "Bajay River 10 km"
+        ],
+        [
+            "Memero River 6.2 km"
+        ],
+        [
+            "Nalusdan River 5.8 km"
+        ],
+        [
+            "5.Cairawan River, Laua-an 31.5 km"
+        ],
+        [
+            "Cabay-ang River 19.5 km"
+        ],
+        [
+            "6.Ypayo River, Patnongon 29.2 km"
+        ],
+        [
+            "7.Tibiao River, Tibiao 26.4 km"
+        ],
+        [
+            "8.Malandog River, Hamtic 17.8 km"
+        ],
+        [
+            "9.Bacong River, Culasi 16.2 km"
+        ],
+        [
+            "10.Hamtic River, Hamtic 15.2 km"
+        ],
+        [
+            "11.Carit-an River, Patnongon 15.1 km"
+        ],
+        [
+            "12.Casay River, Anini-y 14.3 km"
+        ],
+        [
+            "13.Asluman River, Hamtic 13.8 km"
+        ],
+        [
+            "14.Ipil River, Belison 13.4 km"
+        ],
+        [
+            "15.Iba River, Anini-y 13.1 km"
+        ],
+        [
+            "16.Bulanao River, Libertad 12.3 km"
+        ],
+        [
+            "17.Bacalan River, Sebaste 11.5 km"
+        ],
+        [
+            "18.Inyawan River, Libertad 11.4 km"
+        ],
+        [
+            "19.Sabang River, Bugasong 11.4 km"
+        ],
+        [
+            "20.Panganta River, Culasi 10.6 km"
+        ],
+        [
+            "21.Paningayan River, Culasi 10.4 km"
+        ],
+        [
+            "22.Binangbang River, Barbaza 10.4 km"
+        ],
+        [
+            "23.Bugang River, Pandan 10.3 km"
+        ],
+        [
+            "24.Patnongon River, Patnongon 10.2 km"
+        ],
+        [
+            "25.San Roque River, Libertad 10.1 km"
+        ],
+        [
+            "26.Carit-an River, Sebaste 8.7 km"
+        ],
+        [
+            "27.Dao River, Tobias Fornier 8.6 km"
+        ],
+        [
+            "28.Ypayo River, Sebaste 8.2 km"
+        ],
+        [
+            "29.Linaban River, Hamtic 8.2 km"
+        ],
+        [
+            "30.Panukayan River, Pandan 8.2 km"
+        ],
+        [
+            "31.Nauring River, Pandan 7.8 km"
+        ],
+        [
+            "32.Cala-cala River, Sebaste 7.7 km"
+        ],
+        [
+            "33.Bongol River, Culasi 7.6 km"
+        ],
+        [
+            "34.Duyong River, Pandan 7.6 km"
+        ],
+        [
+            "35.Aureliana River, Patnongon 7.5 km"
+        ],
+        [
+            "36.Idio River, Sebaste 7.5 km"
+        ],
+        [
+            "37.Burabod River, Pandan 7.3 km"
+        ],
+        [
+            "38.Union River, Libertad 7.2 km"
+        ],
+        [
+            "39.Carit-an River, Culasi 7.1 km"
+        ],
+        [
+            "40.Patria River, Pandan 6.1 km"
+        ],
+        [
+            "41.Guija River, Bugasong 5.9 km"
+        ],
+        [
+            "42.Aguila River, Sebaste 5.5 km"
+        ],
+        [
+            "43.Bitadnon River, Culasi 5.4 km"
+        ],
+        [
+            "44.Aras-asan River, Hamtic 5.4 km"
+        ],
+        [
+            "45.Igbarawan River, Patnongon 5.2 km"
+        ],
+        [
+            "46.Nalupa River, Barbaza 5.1 km"
+        ],
+        [
+            "47.San Andres River, Pandan 5.1 km"
+        ],
+        [
+            "48.Paz River, Libertad 4.9 km"
+        ],
+        [
+            "49.Barusbus River, Libertad 4.9 km"
+        ],
+        [
+            "50.Laua-an River, Laua-an 4.6 km"
+        ],
+        [
+            "51.Mapatag River, Hamtic 4.6 km"
+        ],
+        [
+            "52.Nauhon River, Sebaste 4.2 km"
+        ],
+        [
+            "53.Mauno River, Laua-an 3.8 km"
+        ],
+        [
+            "54.Banban River, Laua-an 2.4 km"
+        ],
+        [
+            "55.Yapo River, Barbaza 2.3 km"
+        ],
+        [
+            "56.Intao Creek, Laua-an 2.1 km"
+        ],
+        [
+            "57.Bahuyan Creek, Barbaza 1.3 km"
+        ],
+        [
+            "Waterfalls"
+        ],
+        [
+            "List of waterfalls in Antique."
+        ],
+        [
+            "Tigmalmos Falls in Tibiao"
+        ],
+        [
+            "Bugtong Bato Falls in Tibiao"
+        ],
+        [
+            "Inyawan Falls in Libertad"
+        ],
+        [
+            "Sigbungon Falls in Barbaza"
+        ],
+        [
+            "Macalbag Falls in Barbaza"
+        ],
+        [
+            "Kamalasag Falls in Sebaste"
+        ],
+        [
+            "Igpasungaw Falls in Sebaste"
+        ],
+        [
+            "Bulwang Falls in Sebaste"
+        ],
+        [
+            "Nabarao Falls in Sebaste"
+        ],
+        [
+            "Capnayan Falls in Laua-an"
+        ],
+        [
+            "Kataw Falls in Culasi"
+        ],
+        [
+            "Cadiao Falls in Barbaza"
+        ],
+        [
+            "Sayay Falls in Barbaza"
+        ],
+        [
+            "Libog Falls in Culasi"
+        ],
+        [
+            "Halat Falls in Bugasong"
+        ],
+        [
+            "Climate"
+        ],
+        [
+            "The rainy season in Antique is from June to November, and the summer season is from December to May."
+        ],
+        [
+            "Climate data for Antique"
+        ],
+        [
+            "Month"
+        ],
+        [
+            "Jan"
+        ],
+        [
+            "Feb"
+        ],
+        [
+            "Mar"
+        ],
+        [
+            "Apr"
+        ],
+        [
+            "May"
+        ],
+        [
+            "Jun"
+        ],
+        [
+            "Jul"
+        ],
+        [
+            "Aug"
+        ],
+        [
+            "Sep"
+        ],
+        [
+            "Oct"
+        ],
+        [
+            "Nov"
+        ],
+        [
+            "Dec"
+        ],
+        [
+            "Year"
+        ],
+        [
+            "Mean daily maximum \u00b0C (\u00b0F)"
+        ],
+        [
+            "29.9(85.8)"
+        ],
+        [
+            "30.8(87.4)"
+        ],
+        [
+            "32.2(90.0)"
+        ],
+        [
+            "33.6(92.5)"
+        ],
+        [
+            "33(91)"
+        ],
+        [
+            "31.8(89.2)"
+        ],
+        [
+            "30.9(87.6)"
+        ],
+        [
+            "30.8(87.4)"
+        ],
+        [
+            "31.1(88.0)"
+        ],
+        [
+            "31.2(88.2)"
+        ],
+        [
+            "31.2(88.2)"
+        ],
+        [
+            "30.4(86.7)"
+        ],
+        [
+            "31.4(88.5)"
+        ],
+        [
+            "Mean daily minimum \u00b0C (\u00b0F)"
+        ],
+        [
+            "22.8(73.0)"
+        ],
+        [
+            "23(73)"
+        ],
+        [
+            "23.5(74.3)"
+        ],
+        [
+            "24.2(75.6)"
+        ],
+        [
+            "24.6(76.3)"
+        ],
+        [
+            "24.3(75.7)"
+        ],
+        [
+            "23.9(75.0)"
+        ],
+        [
+            "23.8(74.8)"
+        ],
+        [
+            "23.8(74.8)"
+        ],
+        [
+            "23.8(74.8)"
+        ],
+        [
+            "23.5(74.3)"
+        ],
+        [
+            "23.1(73.6)"
+        ],
+        [
+            "23.7(74.6)"
+        ],
+        [
+            "Average rainy days"
+        ],
+        [
+            "7"
+        ],
+        [
+            "5"
+        ],
+        [
+            "6"
+        ],
+        [
+            "4"
+        ],
+        [
+            "11"
+        ],
+        [
+            "16"
+        ],
+        [
+            "18"
+        ],
+        [
+            "18"
+        ],
+        [
+            "16"
+        ],
+        [
+            "16"
+        ],
+        [
+            "10"
+        ],
+        [
+            "9"
+        ],
+        [
+            "136"
+        ],
+        [
+            "Source: Storm24/7"
+        ],
+        [
+            "Administrative divisions"
+        ],
+        [
+            "Political map of Antique"
+        ],
+        [
+            "Administrative Map of Antique in 1918"
+        ],
+        [
+            "Antique is subdivided into 18 municipalities."
+        ],
+        [
+            "San Jose de Buenavista serves as the provincial capital, the center of commerce and trade, and the seat of the provincial government and national government agencies."
+        ],
+        [
+            "Municipality"
+        ],
+        [
+            "Population"
+        ],
+        [
+            "\u00b1% p.a."
+        ],
+        [
+            "Area"
+        ],
+        [
+            "Density"
+        ],
+        [
+            "Barangay"
+        ],
+        [
+            "(2020)"
+        ],
+        [
+            "(2015)"
+        ],
+        [
+            "km2"
+        ],
+        [
+            "sq\u2009mi"
+        ],
+        [
+            "/km2"
+        ],
+        [
+            "/sq\u2009mi"
+        ],
+        [
+            "10\u00b025\u203252\u2033N 121\u00b055\u203236\u2033E\ufeff / \ufeff10.4312\u00b0N 121.9266\u00b0E\ufeff / 10.4312; 121.9266\ufeff (Anini-y)"
+        ],
+        [
+            "Anini-y"
+        ],
+        [
+            "3.6%"
+        ],
+        [
+            "22,018"
+        ],
+        [
+            "21,201"
+        ],
+        [
+            "+0.72%"
+        ],
+        [
+            "48.89"
+        ],
+        [
+            "18.88"
+        ],
+        [
+            "450"
+        ],
+        [
+            "1,200"
+        ],
+        [
+            "23"
+        ],
+        [
+            "11\u00b011\u203245\u2033N 122\u00b002\u203220\u2033E\ufeff / \ufeff11.1958\u00b0N 122.0389\u00b0E\ufeff / 11.1958; 122.0389\ufeff (Barbaza)"
+        ],
+        [
+            "Barbaza (Nalupa)"
+        ],
+        [
+            "3.8%"
+        ],
+        [
+            "23,359"
+        ],
+        [
+            "22,704"
+        ],
+        [
+            "+0.54%"
+        ],
+        [
+            "154.36"
+        ],
+        [
+            "59.60"
+        ],
+        [
+            "150"
+        ],
+        [
+            "390"
+        ],
+        [
+            "39"
+        ],
+        [
+            "10\u00b050\u203215\u2033N 121\u00b057\u203244\u2033E\ufeff / \ufeff10.8374\u00b0N 121.9621\u00b0E\ufeff / 10.8374; 121.9621\ufeff (Belison)"
+        ],
+        [
+            "Belison"
+        ],
+        [
+            "2.3%"
+        ],
+        [
+            "14,129"
+        ],
+        [
+            "13,539"
+        ],
+        [
+            "+0.82%"
+        ],
+        [
+            "19.78"
+        ],
+        [
+            "7.64"
+        ],
+        [
+            "710"
+        ],
+        [
+            "1,800"
+        ],
+        [
+            "11"
+        ],
+        [
+            "11\u00b002\u203239\u2033N 122\u00b003\u203253\u2033E\ufeff / \ufeff11.0441\u00b0N 122.0646\u00b0E\ufeff / 11.0441; 122.0646\ufeff (Bugasong)"
+        ],
+        [
+            "Bugasong (Bugason)"
+        ],
+        [
+            "5.7%"
+        ],
+        [
+            "34,676"
+        ],
+        [
+            "33,642"
+        ],
+        [
+            "+0.58%"
+        ],
+        [
+            "203.71"
+        ],
+        [
+            "78.65"
+        ],
+        [
+            "170"
+        ],
+        [
+            "440"
+        ],
+        [
+            "27"
+        ],
+        [
+            "11\u00b055\u203257\u2033N 121\u00b032\u203251\u2033E\ufeff / \ufeff11.9324\u00b0N 121.5475\u00b0E\ufeff / 11.9324; 121.5475\ufeff (Caluya)"
+        ],
+        [
+            "Caluya"
+        ],
+        [
+            "6.3%"
+        ],
+        [
+            "38,908"
+        ],
+        [
+            "35,496"
+        ],
+        [
+            "+0.90%"
+        ],
+        [
+            "136.81"
+        ],
+        [
+            "52.82"
+        ],
+        [
+            "280"
+        ],
+        [
+            "730"
+        ],
+        [
+            "18"
+        ],
+        [
+            "11\u00b025\u203233\u2033N 122\u00b003\u203222\u2033E\ufeff / \ufeff11.4257\u00b0N 122.0561\u00b0E\ufeff / 11.4257; 122.0561\ufeff (Culasi)"
+        ],
+        [
+            "Culasi (Bacong)"
+        ],
+        [
+            "7.3%"
+        ],
+        [
+            "44,494"
+        ],
+        [
+            "41,228"
+        ],
+        [
+            "+1.46%"
+        ],
+        [
+            "228.56"
+        ],
+        [
+            "88.25"
+        ],
+        [
+            "190"
+        ],
+        [
+            "490"
+        ],
+        [
+            "44"
+        ],
+        [
+            "10\u00b042\u203202\u2033N 121\u00b058\u203252\u2033E\ufeff / \ufeff10.7006\u00b0N 121.9810\u00b0E\ufeff / 10.7006; 121.9810\ufeff (Hamtic)"
+        ],
+        [
+            "Hamtic"
+        ],
+        [
+            "8.6%"
+        ],
+        [
+            "52,685"
+        ],
+        [
+            "48,592"
+        ],
+        [
+            "+1.55%"
+        ],
+        [
+            "113.03"
+        ],
+        [
+            "43.64"
+        ],
+        [
+            "470"
+        ],
+        [
+            "1,200"
+        ],
+        [
+            "47"
+        ],
+        [
+            "11\u00b008\u203234\u2033N 122\u00b002\u203230\u2033E\ufeff / \ufeff11.1429\u00b0N 122.0416\u00b0E\ufeff / 11.1429; 122.0416\ufeff (Laua-an)"
+        ],
+        [
+            "Laua-an"
+        ],
+        [
+            "4.3%"
+        ],
+        [
+            "26,580"
+        ],
+        [
+            "26,072"
+        ],
+        [
+            "+0.37%"
+        ],
+        [
+            "100.72"
+        ],
+        [
+            "38.89"
+        ],
+        [
+            "260"
+        ],
+        [
+            "670"
+        ],
+        [
+            "40"
+        ],
+        [
+            "11\u00b046\u203211\u2033N 121\u00b055\u203207\u2033E\ufeff / \ufeff11.7697\u00b0N 121.9185\u00b0E\ufeff / 11.7697; 121.9185\ufeff (Libertad)"
+        ],
+        [
+            "Libertad (Inayawan)"
+        ],
+        [
+            "2.9%"
+        ],
+        [
+            "17,507"
+        ],
+        [
+            "16,429"
+        ],
+        [
+            "+1.22%"
+        ],
+        [
+            "97.00"
+        ],
+        [
+            "37.45"
+        ],
+        [
+            "180"
+        ],
+        [
+            "470"
+        ],
+        [
+            "19"
+        ],
+        [
+            "11\u00b043\u203211\u2033N 122\u00b005\u203240\u2033E\ufeff / \ufeff11.7198\u00b0N 122.0945\u00b0E\ufeff / 11.7198; 122.0945\ufeff (Pandan)"
+        ],
+        [
+            "Pandan"
+        ],
+        [
+            "5.9%"
+        ],
+        [
+            "35,965"
+        ],
+        [
+            "34,333"
+        ],
+        [
+            "+0.89%"
+        ],
+        [
+            "113.98"
+        ],
+        [
+            "44.01"
+        ],
+        [
+            "320"
+        ],
+        [
+            "830"
+        ],
+        [
+            "34"
+        ],
+        [
+            "10\u00b054\u203248\u2033N 121\u00b059\u203242\u2033E\ufeff / \ufeff10.9133\u00b0N 121.9950\u00b0E\ufeff / 10.9133; 121.9950\ufeff (Patnongon)"
+        ],
+        [
+            "Patnongon"
+        ],
+        [
+            "6.3%"
+        ],
+        [
+            "38,329"
+        ],
+        [
+            "37,176"
+        ],
+        [
+            "+0.58%"
+        ],
+        [
+            "167.92"
+        ],
+        [
+            "64.83"
+        ],
+        [
+            "230"
+        ],
+        [
+            "600"
+        ],
+        [
+            "36"
+        ],
+        [
+            "10\u00b044\u203237\u2033N 121\u00b056\u203228\u2033E\ufeff / \ufeff10.7436\u00b0N 121.9411\u00b0E\ufeff / 10.7436; 121.9411\ufeff (San Jose de Buenavista)"
+        ],
+        [
+            "San\u00a0Jose de\u00a0Buenavista"
+        ],
+        [
+            "\u2020"
+        ],
+        [
+            "10.6%"
+        ],
+        [
+            "65,140"
+        ],
+        [
+            "62,534"
+        ],
+        [
+            "+0.78%"
+        ],
+        [
+            "48.56"
+        ],
+        [
+            "18.75"
+        ],
+        [
+            "1,300"
+        ],
+        [
+            "3,400"
+        ],
+        [
+            "28"
+        ],
+        [
+            "10\u00b049\u203252\u2033N 122\u00b005\u203218\u2033E\ufeff / \ufeff10.8312\u00b0N 122.0882\u00b0E\ufeff / 10.8312; 122.0882\ufeff (San Remigio)"
+        ],
+        [
+            "San Remigio (Tigbagacay)"
+        ],
+        [
+            "5.6%"
+        ],
+        [
+            "34,045"
+        ],
+        [
+            "31,935"
+        ],
+        [
+            "+1.23%"
+        ],
+        [
+            "406.98"
+        ],
+        [
+            "157.14"
+        ],
+        [
+            "84"
+        ],
+        [
+            "220"
+        ],
+        [
+            "45"
+        ],
+        [
+            "11\u00b035\u203224\u2033N 122\u00b005\u203243\u2033E\ufeff / \ufeff11.5899\u00b0N 122.0953\u00b0E\ufeff / 11.5899; 122.0953\ufeff (Sebaste)"
+        ],
+        [
+            "Sebaste (Ipayo)"
+        ],
+        [
+            "3.1%"
+        ],
+        [
+            "18,816"
+        ],
+        [
+            "17,907"
+        ],
+        [
+            "+0.95%"
+        ],
+        [
+            "111.64"
+        ],
+        [
+            "43.10"
+        ],
+        [
+            "170"
+        ],
+        [
+            "440"
+        ],
+        [
+            "10"
+        ],
+        [
+            "10\u00b047\u203220\u2033N 122\u00b001\u203203\u2033E\ufeff / \ufeff10.7889\u00b0N 122.0175\u00b0E\ufeff / 10.7889; 122.0175\ufeff (Sibalom)"
+        ],
+        [
+            "Sibalom"
+        ],
+        [
+            "10.4%"
+        ],
+        [
+            "63,833"
+        ],
+        [
+            "60,306"
+        ],
+        [
+            "+1.09%"
+        ],
+        [
+            "201.30"
+        ],
+        [
+            "77.72"
+        ],
+        [
+            "320"
+        ],
+        [
+            "830"
+        ],
+        [
+            "76"
+        ],
+        [
+            "11\u00b017\u203219\u2033N 122\u00b002\u203203\u2033E\ufeff / \ufeff11.2886\u00b0N 122.0342\u00b0E\ufeff / 11.2886; 122.0342\ufeff (Tibiao)"
+        ],
+        [
+            "Tibiao"
+        ],
+        [
+            "4.7%"
+        ],
+        [
+            "28,703"
+        ],
+        [
+            "26,748"
+        ],
+        [
+            "+1.35%"
+        ],
+        [
+            "177.42"
+        ],
+        [
+            "68.50"
+        ],
+        [
+            "160"
+        ],
+        [
+            "410"
+        ],
+        [
+            "21"
+        ],
+        [
+            "10\u00b030\u203258\u2033N 121\u00b056\u203242\u2033E\ufeff / \ufeff10.5162\u00b0N 121.9451\u00b0E\ufeff / 10.5162; 121.9451\ufeff (Tobias Fornier)"
+        ],
+        [
+            "Tobias Fornier (Dao)"
+        ],
+        [
+            "5.5%"
+        ],
+        [
+            "33,816"
+        ],
+        [
+            "33,046"
+        ],
+        [
+            "+0.44%"
+        ],
+        [
+            "112.12"
+        ],
+        [
+            "43.29"
+        ],
+        [
+            "300"
+        ],
+        [
+            "780"
+        ],
+        [
+            "50"
+        ],
+        [
+            "11\u00b000\u203206\u2033N 122\u00b007\u203246\u2033E\ufeff / \ufeff11.0018\u00b0N 122.1294\u00b0E\ufeff / 11.0018; 122.1294\ufeff (Valderrama)"
+        ],
+        [
+            "Valderrama (Kaberi-an)"
+        ],
+        [
+            "3.3%"
+        ],
+        [
+            "19,971"
+        ],
+        [
+            "19,124"
+        ],
+        [
+            "+0.83%"
+        ],
+        [
+            "287.89"
+        ],
+        [
+            "111.15"
+        ],
+        [
+            "69"
+        ],
+        [
+            "180"
+        ],
+        [
+            "22"
+        ],
+        [
+            "Total"
+        ],
+        [
+            "612,974"
+        ],
+        [
+            "582,012"
+        ],
+        [
+            "+0.99%"
+        ],
+        [
+            "2,730.67"
+        ],
+        [
+            "1,054.32"
+        ],
+        [
+            "220"
+        ],
+        [
+            "570"
+        ],
+        [
+            "590"
+        ],
+        [
+            "^ Former names are italicized."
+        ],
+        [
+            "\u00a0\u2020\u00a0\u2009Provincial\u00a0capital"
+        ],
+        [
+            "\u00a0\u2009Municipality"
+        ],
+        [
+            "^ The globe\u00a0 icon marks the town\u00a0center."
+        ],
+        [
+            "Demographics"
+        ],
+        [
+            "Population census of Antique (province)YearPop.\u00b1% p.a.1903 134,166\u2014\u00a0\u00a0\u00a0\u00a01918 154,999+0.97%1939 199,414+1.21%1948 233,506+1.77%1960 238,405+0.17%1970 289,172+1.95%1975 308,484+1.30%1980 344,879+2.25%1990 406,361+1.65%1995 431,713+1.14%2000 472,822+1.97%2007 515,265+1.19%2010 546,031+2.13%2015 582,012+1.22%2020 612,974+1.02%Source: Philippine Statistics Authority"
+        ],
+        [
+            "The population of Antique in the 2020 census was 612,974 people, with a density of 220 inhabitants per square kilometre or 570 inhabitants per square mile.",
+            "San Jose is the most populous town in the province."
+        ],
+        [
+            "Antique\u00f1os are seafaring people that share many characteristics with their Panay neighbors.",
+            "However, the steep slopes and the rugged, long mountain ranges of Antique have isolated it from the rest of Panay.",
+            "Hence, they have developed their own distinct language called Kinaray-a.",
+            "This language is of Austronesian origin characterized by the predominance of r's and schwa sounds spoken with a lilting gentle intonation."
+        ],
+        [
+            "The Antique\u00f1os are noted for their industry.",
+            "They are renowned weavers throughout the Visayas.",
+            "The Bugasong patadyong, a tube cotton fabric of plaid design, is highly valued because of its fineness of weaving.",
+            "Pi\u00f1a cloth is also produced in looms throughout the province.",
+            "Wine manufactured from the sap of the coconut is a cottage industry."
+        ],
+        [
+            "Religion"
+        ],
+        [
+            "The Saint Michael and All Angels Parish Church of the Iglesia Filipina Independiente in the town of Culasi."
+        ],
+        [
+            "Catholicism"
+        ],
+        [
+            "The people of Antique are predominantly Catholics, with the Roman Catholic Church as its largest denomination.",
+            "While the Iglesia Filipina Independiente or the IFI, also known as the Aglipayan Church, is the second largest religious denomination in the province.",
+            "The IFI being the tangible fruit of the Philippine Revolution against the Spanish Imperialist remains to be significant in the present-day Antique.",
+            "Both the Roman Catholic and IFI are influential in both the society and politics of the province."
+        ],
+        [
+            "Others"
+        ],
+        [
+            "Other religious denominations in the province are the Members Church of God International (MCGI), Protestants and Nontrinitarian cults such as, Iglesia ni Cristo, Seventh-day Adventist Church, Jehovah's Witnesses, and the Church of Jesus Christ of Latter-day Saints, among others."
+        ],
+        [
+            "In the mountains, remnants of ancient folk beliefs persist.",
+            "Babaylans or native priestesses continue to divine the future, heal the sick or conjure spells."
+        ],
+        [
+            "Economy"
+        ],
+        [
+            "Poverty incidence of Antique"
+        ],
+        [
+            "10"
+        ],
+        [
+            "20"
+        ],
+        [
+            "30"
+        ],
+        [
+            "40"
+        ],
+        [
+            "50"
+        ],
+        [
+            "60"
+        ],
+        [
+            "2006  51.61"
+        ],
+        [
+            "2009  44.25"
+        ],
+        [
+            "2012  30.90"
+        ],
+        [
+            "2015  26.03"
+        ],
+        [
+            "2018  19.13"
+        ],
+        [
+            "2021  18.20"
+        ],
+        [
+            "Source: Philippine Statistics Authority"
+        ],
+        [
+            "Agriculture"
+        ],
+        [
+            "A sugarcane field in Sibalom"
+        ],
+        [
+            "For the year 1998, production of palay, the primary crop of the province, registered a total of 177,521 metric tons (mt.)",
+            "or 4,438,025 cavans from 58,847 hectares with an average yield of 3.02 metric tons per hectare.",
+            "An increase of 8,280 mt.",
+            "or 16.37 percent over last years (1997) production was observed because the area harvested has increased by 9,822 hectares or 5.86 percent.",
+            "However, the average yield per hectare decreased by 0.3 mt.",
+            "per hectare or 0.09 percent.",
+            "The average yield per hectare for irrigated lands is 3.39 mt., 2.63 mt.",
+            "for rain-fed farms, and 1.57 for upland areas.",
+            "The province regularly harvests enough to feed its population.",
+            "This year, there is a surplus of 83,756 mt.",
+            "or 2,093,900 cavans of palay."
+        ],
+        [
+            "Copra, the second major agricultural commodity, registered a total production of 15,712 mt.",
+            "in 1998 reflecting a decrease of 965 mt.",
+            "(5.78%) as against last years (1997) yield of 16,677 mt.",
+            "The main bulk of copra came from the municipality of Caluya where this area accounts for 44 percent of the total copra output of the province.",
+            "The area planted with coconuts constitutes about 34 percent of the total area of the province.",
+            "Caluya, together with Pandan, account for more than half (53%) of the total provincial figure in terms of area planted, number of bearing trees."
+        ],
+        [
+            "Fishery"
+        ],
+        [
+            "Fisherman in Bugasong"
+        ],
+        [
+            "Fishing is the major source of livelihood for households in the 15 coastal municipalities.",
+            "The rich fishing grounds of the Cuyo East Pass, Sulu Sea, and the municipal waters along the approximately 296.8-kilometre (184.4\u00a0mi) coastline, make fishing a promising venture.",
+            "The fishing season is year round and peaks during December to June.",
+            "A total of 17,437 households are directly dependent on fishing, and 39,055 households are indirectly dependent on it."
+        ],
+        [
+            "Livestock and poultry"
+        ],
+        [
+            "Livestock and poultry raising in the province is through backyard or commercial system of production.",
+            "Data from Bureau of Agricultural Statistics (BAS) revealed that from 1,441,660 head of livestock and poultry in 1997, the number rose to 1,547,944 in 1998, an additional 106,284 heads, indicating a 7.37% growth.",
+            "The main reason behind this growth is the increase in poultry production of almost 7.88 percent."
+        ],
+        [
+            "Forestry"
+        ],
+        [
+            "Forest products include bamboo, buri, bariw, nito, log, charcoal, abaca, herbal vines and plants, wild flowers and others.",
+            "These forest resources are of undetermined quantity, and are used as raw materials in the construction industry, furniture and handicraft."
+        ],
+        [
+            "One of the most notable flower to be thriving the Antique\u00f1o mountains would be the rafflesia, one of the biggest flowers in the world.",
+            "Rafflesia is Antique's provincial flower."
+        ],
+        [
+            "A large percentage of forestland is classified as protected (59.29 percent or 70,338.52 hectares).",
+            "A little more than 50 percent of the total forestland is vegetated.",
+            "The municipalities of Culasi, San Remigio and Valderrama registered the highest vegetative cover with an area of 13,005 hectares (32,140 acres), 8,637.50 hectares (21,343.7 acres) and 6,35 hectares respectively.",
+            "The remaining 40.71 percent or 48,296.48 hectares (119,343.2 acres) are classified as production forests."
+        ],
+        [
+            "Trade, commerce, and industry"
+        ],
+        [
+            "Major products shipped out of the province are palay, rice, copra, muscovado sugar, legumes, fruits and vegetables, livestock, fish and fish preparations, and seaweeds.",
+            "Manufacture items like native gifts, toys, and housewares are sold in major cities of the country and abroad.",
+            "Principal mined products exported include coal, marble, silica, copper and gemstones."
+        ],
+        [
+            "The main goods entering the province are construction materials, dry goods, groceries, canned and bottled products, fertilizers and others."
+        ],
+        [
+            "The capital town of San Jose de Buenavista is the center of business in the province while Culasi is the center of the North."
+        ],
+        [
+            "Economically potential towns are San Jose, Sibalom, Caluya, Culasi, Pandan, Hamtic, Tibiao, Bugasong and Patnongon."
+        ],
+        [
+            "With the revival of Antique Airport (also called Evelio Javier Airport), commercial flights have resumed and may contribute to the development of commerce and tourism industry especially in the capital town, San Jose."
+        ],
+        [
+            "Establishments"
+        ],
+        [
+            "An establishment is an economic unit which engages under a single ownership or control.",
+            "The Department of Trade and Industry (DTI) classifies establishments as manufacturing, trade and service.",
+            "For 1998, fourteen manufacturing establishments were reported.",
+            "Such manufacturing establishments are making hollow blocks, wood furniture, steel/wood, packed foods, metal craft, threshers, soap and sidecars.",
+            "Service establishments totaled 117 and a total of 294 trade establishments."
+        ],
+        [
+            "Mineral resources"
+        ],
+        [
+            "Aerial view of Panian mine in Semirara Island of Caluya"
+        ],
+        [
+            "Antique has deposits of metallic and non-metallic mineral resources.",
+            "The metallic mineral resources include copper, gold, chromite, pyrite, iron, manganese and ferro alloy and limestone.",
+            "Copper deposits in Barbaza and San Remigio are estimated to have a volume of 36,255 metric tons and 59,445 metric tons respectively.",
+            "Pyrite deposits in Valderrama and Sibalom are estimated at 120,000 metric tons while limestone deposits in Culasi are estimated at 30 billion metric tons."
+        ],
+        [
+            "The Mines and Geo-Sciences Bureau (MGB) confirms the presence of gold in Mt.",
+            "Dumara, Laua-an extending as far as Lumboyan, Barbaza.",
+            "An analysis conducted in ore deposits indicated that 39.75 grams of gold can be found in a metric ton of ore. Non-metallic deposits include sulfides, clay, sulfur, oil and gemstones.",
+            "Marble deposits are estimated at 1.8 billion metric tons in Libertad, and 2.3 billion metric tons in Pandan.",
+            "Coal reserves in Caluya are estimated to be 1.6 million metric tons."
+        ],
+        [
+            "An indication of oil deposits was recently discovered at Maniguin Island in Culasi."
+        ],
+        [
+            "Tourism"
+        ],
+        [
+            "The old provincial capitol of Antique in San Jose de Buenavista, now used as a provincial museum"
+        ],
+        [
+            "Mararison Island in Culasi"
+        ],
+        [
+            "The whole stretch of coastal areas in Antique is suited for scuba diving.",
+            "Starting from the southern town of Antique tourists can drop by Sira-an Hot Spring, claimed to be a medical spring.",
+            "The next destination is the capital town San Jose de Buenavista passing by Malandog Marker, site of the first Malayan Settlement and the newly constructed Marina Bay.",
+            "Tourism amenities like restaurants, two shopping malls, pasalubong centers, accommodations and beach resorts are present.",
+            "Rafflesia, the largest flower in the world, can be found in Sibalom Natural Park."
+        ],
+        [
+            "Binirayan festival"
+        ],
+        [
+            "Main article: Binirayan festival"
+        ],
+        [
+            "Started in San Jose in 1974 by governor Evelio Javier, this is a week-long festival that includes colorful street parades, beach shows, plaza concerts, a beauty contest and trade fair.",
+            "\"Binirayan\" biray, or \"sailboat\" in Kinaray-a (Antique's local language), refers to the Pre-Hispanic legend of the Bornean datus to reach Malandog beach, where they befriended the Atis (Aetas) and eventually started a civilization.",
+            "Antique tradition holds that it was founded by Bornean Malays in the 12th century, although this had been called erroneously as a hoax, recent studies show there is support for this claim in contemporary records from chinese annals and as well as early spanish reecords pre dating the maragtas work by Moteclaro.",
+            "According to legend, 10 Bornean datus (chieftains) claimed Panay island and their leader, Datu Sumakwel, founded the settlement in Malandog, Hamtik, Antique."
+        ],
+        [
+            "Transportation"
+        ],
+        [
+            "Roads"
+        ],
+        [
+            "Antique has a total road length of 340\u00a0km (210\u00a0mi) including a 208\u00a0km (129\u00a0mi) National Road linking the province from Libertad in the north to Anini-y in the south.",
+            "Transportation services are generally provided by tricycles, jeepneys, vans and buses.",
+            "There are also daily buses to Manila via the roll-on/roll-off nautical highway and other neighboring provinces and cities including Iloilo City and Kalibo."
+        ],
+        [
+            "Airports"
+        ],
+        [
+            "Evelio Javier Airport (Antique Airport), located in San Jose de Buenavista, is the only airport in the province with flights to Manila operated by PAL Express.",
+            "Semirara Island in Caluya has an airstrip that has chartered flights to Manila."
+        ],
+        [
+            "Seaports"
+        ],
+        [
+            "Seaports in the province include the Lipata Port in Culasi and the San Jose Port in San Jose de Buenavista.",
+            "Lipata Port in Culasi being used to travel to Caluya."
+        ],
+        [
+            "Government"
+        ],
+        [
+            "Antique Provincial Capitol Building in San Jose de Buenavista."
+        ],
+        [
+            "Further information: Governor of Antique and Legislative district of Antique"
+        ],
+        [
+            "Education"
+        ],
+        [
+            "Universities and colleges"
+        ],
+        [
+            "Advance Central College (ACC) (San Jose, Antique)"
+        ],
+        [
+            "University of Antique (Main Campus) Sibalom, Antique"
+        ],
+        [
+            "University of Antique (Tibiao Campus)"
+        ],
+        [
+            "University of Antique (Hamtic Campus)"
+        ],
+        [
+            "University of Antique (Caluya Campus)"
+        ],
+        [
+            "University of Antique (Libertad Campus)"
+        ],
+        [
+            "University of the Philippines - Visayas Extension Campus (Pandan, Antique)"
+        ],
+        [
+            "Pandan Bay Institute (Pandan, Antique)"
+        ],
+        [
+            "Saint Anthony's College (San Jose, Antique)"
+        ],
+        [
+            "STI Antique (San Jose, Antique)"
+        ],
+        [
+            "Vicente A. Javier Memorial Community College (Culasi, Antique)"
+        ],
+        [
+            "Notable people"
+        ],
+        [
+            "Loren Legarda - senator, journalist, and UN Global Champion for Resilience"
+        ],
+        [
+            "Jerry Navarro Elizalde - Philippine National Artist for Visual Arts - Painting"
+        ],
+        [
+            "Evelio Javier - Filipino lawyer, civil servant, politician, and an opposition leader during the regime of President Ferdinand Marcos.",
+            "His assassination on February 11, 1986, allegedly by allies of Marcos, was one of the sparks of the People Power Revolution later that month."
+        ],
+        [
+            "John Iremil Teodoro - Filipino writer, university professor and freelance journalist.",
+            "He is also a multi-awarded poet and playwright, one of the country's leading pioneers in gay literature and the most published author in Kinaray-a to date."
+        ],
+        [
+            "Alex C. Delos Santos - a Karay-a writer and theater artist based in San Jose, Antique, the Philippines.",
+            "He completed his Master of Education with an academic excellence award from the University of the Philippines in the Visayas.",
+            "His research and writing interests are in culture and arts and gay literature."
+        ],
+        [
+            "Richard Yee - Filipino professional basketball player who last played for the Barako Bull Energy Boosters in the Philippine Basketball Association."
+        ],
+        [
+            "Alberto A. Villavert - Filipino politician who led the Philippine Province of Antique between 1937 and 1946 both as an appointed and elected Governor.",
+            "He was first elected as presidente municipal (town mayor) of Antique's capital town of San Jose in 1928 and was the youngest presidente municipal in his time at the age of 24 and then became governor of the province in 1937.",
+            "Villavert became an Antique Representative of the National Assembly from 1943 to 1944.",
+            "During World War II, he served in the USAFFE and subsequently appointed as Governor of the Province again from 1946 to 1947 and then elected and served the same post from 1948 \u2013 1951."
+        ],
+        [
+            "Megan Young - Filipino-American actress, model, TV host and beauty queen.",
+            "She won the Miss World Philippines title and was later crowned as Miss World 2013 in Bali, Indonesia.",
+            "She is the daughter of Victoria Talde who hails from Pandan, Antique."
+        ],
+        [
+            "Lauren Anne Young - Filipino-American actress and model.",
+            "She is the younger sister of actress and Miss World 2013 Megan Young."
+        ],
+        [
+            "Genevieve L. Asenjo - Filipino poet, novelist, translator and literary scholar in Kinaray-a, Hiligaynon and Filipino.",
+            "Asenjo is an associate professor at De La Salle University in Manila.",
+            "In 2010, she founded Balay Sugidanun (The House of Storytelling)."
+        ],
+        [
+            "Lisa Macuja-Elizalde - Ballerina"
+        ],
+        [
+            "Calixto Zaldivar \u2013 former representative, Lone District of Antique (1934\u20131935), former Governor of Antique (1951\u20131955) and former Associate Justice of the Supreme Court (1964\u20131974).",
+            "Former president of the National Lay Organization of the Iglesia Filipina.",
+            "Honored at the Bantayog ng mga Bayani as among the heroes and martyrs who fought the authoritarian dictatorship of Ferdinand Marcos."
+        ],
+        [
+            "Nelia Sancho (1951-2022) - Filipina Beauty Queen and Fashion Model born in Botbot, Pandan, Antique was Binibining Pilipinas 1969 1st-Runner Up to Gloria Diaz, and Queen of the Pacific 1971 winner."
+        ],
+        [
+            "Jansen Magpusao - actor from Pandan, Antique who portrayed the lead role in 2019 Cinemalaya film John Denver Trending by Arden Rod Condez"
+        ],
+        [
+            "Alfredo Siojo Lim, former Senator and Former Mayor of City of Manila.",
+            "He is the Son of Quintin Lim Sr."
+        ],
+        [
+            "Notes"
+        ],
+        [
+            "^ Elysa Claire V. Arguelles (September 28, 2016).",
+            "\"BRIEF HISTORY OF ANTIQUE\".",
+            "thetreasuresofantique.blogspot.com.",
+            "Retrieved December 10, 2022."
+        ],
+        [
+            "^  Accessed December 11, 2022"
+        ],
+        [
+            "^ \"List of Provinces\".",
+            "PSGC Interactive.",
+            "Makati City, Philippines: National Statistical Coordination Board.",
+            "Archived from the original on 19 April 2016.",
+            "Retrieved 5 March 2020."
+        ],
+        [
+            "^ a b c Census of Population (2020).",
+            "\"Region VI (Western Visayas)\".",
+            "Total Population by Province, City, Municipality and Barangay.",
+            "Philippine Statistics Authority.",
+            "Retrieved 8 July 2021."
+        ],
+        [
+            "^ \"2021 to 2023 Gross Regional Domestic Product (GRDP)\".",
+            "openstat.psa.gov.ph.",
+            "Philippine Statistics Authority.",
+            "Retrieved April 26, 2024."
+        ],
+        [
+            "^ \"About | Province of Antique\".",
+            "Retrieved 2022-07-27."
+        ],
+        [
+            "^ \"Provincial Government of Antique\".",
+            "WebCite: League of Provinces of the Philippines.",
+            "Archived from the original on 19 October 2009.",
+            "Retrieved 3 May 2012."
+        ],
+        [
+            "^ Santaren, Tomas.",
+            "1902.",
+            "\"Apendice Num 3: Historia de los primeros Datos que, precendenutes de Borneo, poblaron estas Islas, segun narra un viejo manuscrito que me proporcionaron del puebo de Janiuay, en el a\u00f1o 1858, y que traducido al espa\u00f1ol dice asi.\"",
+            "in Igorrotes: Estudio Geografico y Etnografico sobre algunos distritos del Norte de Luzon by Angel Perez.",
+            "pp.",
+            "383-398"
+        ],
+        [
+            "^ Ilongo, Vic.",
+            "\"The History of Iloilo\".",
+            "Research Center for Iloilo.",
+            "Weebly.com.",
+            "Archived from the original on 4 March 2016.",
+            "Retrieved 29 June 2016."
+        ],
+        [
+            "^ Langdon (17 August 2001).",
+            "\"salakot\".",
+            "Everything2.",
+            "Everything2 Media, LLC.",
+            "Retrieved 3 May 2012."
+        ],
+        [
+            "^ Jocelyn Montemayor (28 May 2003).",
+            "\"THE MANY FACETS OF ANTIQUE\".",
+            "Philippine Headline News Online.",
+            "Archived from the original on 8 January 2006.",
+            "Retrieved 3 May 2012."
+        ],
+        [
+            "^ \"Calendar of Events and Festivals\" (PDF).",
+            "Department of Tourism.",
+            "2010.",
+            "Archived from the original (PDF) on 2013-06-12.",
+            "Retrieved 30 April 2021."
+        ],
+        [
+            "^ \"Historical Background, Province of Antique\".",
+            "antique.gov.ph.",
+            "Archived from the original on December 10, 2022.",
+            "Retrieved December 10, 2022."
+        ],
+        [
+            "^ ESTADISMO DE LAS ISLAS FILIPINAS TOMO PRIMERO By Joaqu\u00edn Mart\u00ednez de Z\u00fa\u00f1iga (Original Spanish)"
+        ],
+        [
+            "^ ESTADISMO DE LAS ISLAS FILIPINAS TOMO SEGUNDO By Joaqu\u00edn Mart\u00ednez de Z\u00fa\u00f1iga (Original Spanish)"
+        ],
+        [
+            "^ \"The Bacong Bridge Massace of 1981\".",
+            "19 December 2019."
+        ],
+        [
+            "^ \"Honoring the Martyrs of the Culasi/Bacong Bridge Massacre of 1981 | Human Rights Violations Victims' Memorial Commission\".",
+            "20 December 2020.",
+            "Retrieved 2022-08-31."
+        ],
+        [
+            "^ a b \"Province: Antique (province)\".",
+            "PSGC Interactive.",
+            "Quezon City, Philippines: Philippine Statistics Authority.",
+            "Retrieved 8 January 2016."
+        ],
+        [
+            "^ \"Mt.",
+            "Madjaas (2,117+)\".",
+            "Pinoy Mountaineer.",
+            "6 March 2009.",
+            "Retrieved 8 February 2013."
+        ],
+        [
+            "^ \"Weather forecast for Antique, Philippines\".",
+            "Storm247.com.",
+            "Bergen, Norway: StormGeo AS.",
+            "Retrieved 30 April 2021."
+        ],
+        [
+            "^ a b Census of Population (2015).",
+            "\"Region VI (Western Visayas)\".",
+            "Total Population by Province, City, Municipality and Barangay.",
+            "Philippine Statistics Authority.",
+            "Retrieved 20 June 2016."
+        ],
+        [
+            "^ a b Census of Population and Housing (2010).",
+            "\"Region VI (Western Visayas)\" (PDF).",
+            "Total Population by Province, City, Municipality and Barangay.",
+            "National Statistics Office.",
+            "Retrieved 29 June 2016."
+        ],
+        [
+            "^ \"A Joyous Celebration: Bro.",
+            "Daniel Razon Visits Brethren in Capiz, Aklan, and Antique\".",
+            "MCGI Cares.",
+            "July 26, 2023.",
+            "Retrieved May 8, 2024.",
+            "{{cite news}}:  CS1 maint: url-status (link)"
+        ],
+        [
+            "^ \"Poverty incidence (PI):\".",
+            "Philippine Statistics Authority.",
+            "Retrieved December 28, 2020."
+        ],
+        [
+            "^ \"Estimation of Local Poverty in the Philippines\" (PDF).",
+            "Philippine Statistics Authority.",
+            "29 November 2005."
+        ],
+        [
+            "^ \"2009 Official Poverty Statistics of the Philippines\" (PDF).",
+            "Philippine Statistics Authority.",
+            "8 February 2011."
+        ],
+        [
+            "^ \"Annual Per Capita Poverty Threshold, Poverty Incidence and Magnitude of Poor Population, by Region and Province: 1991, 2006, 2009, 2012 and 2015\".",
+            "Philippine Statistics Authority.",
+            "27 August 2016."
+        ],
+        [
+            "^ \"Annual Per Capita Poverty Threshold, Poverty Incidence and Magnitude of Poor Population, by Region and Province: 1991, 2006, 2009, 2012 and 2015\".",
+            "Philippine Statistics Authority.",
+            "27 August 2016."
+        ],
+        [
+            "^ \"Annual Per Capita Poverty Threshold, Poverty Incidence and Magnitude of Poor Population, by Region and Province: 1991, 2006, 2009, 2012 and 2015\".",
+            "Philippine Statistics Authority.",
+            "27 August 2016."
+        ],
+        [
+            "^ \"Updated Annual Per Capita Poverty Threshold, Poverty Incidence and Magnitude of Poor Population with Measures of Precision, by Region and Province: 2015 and 2018\".",
+            "Philippine Statistics Authority.",
+            "4 June 2020."
+        ],
+        [
+            "^ \"2021 Full Year Official Poverty Statistics of the Philippines\" (PDF).",
+            "Philippine Statistics Authority.",
+            "15 August 2022.",
+            "Retrieved 28 April 2024."
+        ],
+        [
+            "^ a b c \"NSCB Fact Sheet\" (PDF).",
+            "National Statistical Coordination Board.",
+            "April 2007.",
+            "Retrieved 23 April 2016."
+        ],
+        [
+            "^ Solinap, Leo (5 April 2002).",
+            "\"World's largest flower blooms in Antique\".",
+            "The Philippine Star.",
+            "Retrieved 23 April 2016."
+        ],
+        [
+            "^ \"Strawberry Farm | San Remigio\".",
+            "Retrieved 2024-06-07."
+        ],
+        [
+            "^ Gomez, Raquel P. (5 May 2008).",
+            "\"Antique celebrates pride of place and history\".",
+            "Philippine Daily Inquirer.",
+            "Archived from the original on 8 June 2008.",
+            "Retrieved 23 April 2016."
+        ],
+        [
+            "^ \"Interview: Genevieve L. Asenjo\".",
+            "9 January 2014."
+        ],
+        [
+            "^ \"HEROES & MARTYRS: ZALDIVAR, Calixto O.\"",
+            "Bantayog ng mga Bayani.",
+            "2016-04-11.",
+            "Retrieved 2019-10-29."
+        ],
+        [
+            "^ AJ (17 November 2021).",
+            "\"Nelia Sancho: The beauty queen turned activist bats for Comfort Women \u2013 Asian Journal USA\".",
+            "Retrieved 2022-08-31."
+        ],
+        [
+            "References"
+        ],
+        [
+            "PPDO.",
+            "Provincial Development & Physical Framework Plan.",
+            "San Jose, Antique.",
+            "2008"
+        ],
+        [
+            "Vanzi, Sol Jose.",
+            "\"The Many Facets of Antique Archived 2006-01-08 at the Wayback Machine.\"",
+            "Philippine Headline News Online."
+        ],
+        [
+            "Website of the Provincial Government of Antique (old) \"The Provincial Government of Antique\".",
+            "Archived from the original on 2009-10-19."
+        ],
+        [
+            "External links"
+        ],
+        [
+            "Wikimedia Commons has media related to Antique (province)."
+        ],
+        [
+            "Map all coordinates using OpenStreetMap"
+        ],
+        [
+            "Download coordinates as:"
+        ],
+        [
+            "KML"
+        ],
+        [
+            "GPX (all coordinates)"
+        ],
+        [
+            "GPX (primary coordinates)"
+        ],
+        [
+            "GPX (secondary coordinates)"
+        ],
+        [
+            "Official website"
+        ],
+        [
+            " Antique travel guide from Wikivoyage"
+        ],
+        [
+            " Geographic data related to Antique (province) at OpenStreetMap"
+        ],
+        [
+            "Places adjacent to Antique (province)"
+        ],
+        [
+            "Aklan"
+        ],
+        [
+            "Palawan / Sulu Sea"
+        ],
+        [
+            "Antique"
+        ],
+        [
+            "AklanCapizIloilo"
+        ],
+        [
+            "Sulu Sea"
+        ],
+        [
+            "vte Province of AntiqueSan Jose de Buenavista (capital and largest municipality)Municipalities"
+        ],
+        [
+            "Anini-y"
+        ],
+        [
+            "Barbaza"
+        ],
+        [
+            "Belison"
+        ],
+        [
+            "Bugasong"
+        ],
+        [
+            "Caluya"
+        ],
+        [
+            "Culasi"
+        ],
+        [
+            "Hamtic"
+        ],
+        [
+            "Laua-an"
+        ],
+        [
+            "Libertad"
+        ],
+        [
+            "Pandan"
+        ],
+        [
+            "Patnongon"
+        ],
+        [
+            "San Jose de Buenavista"
+        ],
+        [
+            "San Remigio"
+        ],
+        [
+            "Sebaste"
+        ],
+        [
+            "Sibalom"
+        ],
+        [
+            "Tibiao"
+        ],
+        [
+            "Tobias Fornier"
+        ],
+        [
+            "Valderrama"
+        ],
+        [
+            "Articles related to Antique"
+        ],
+        [
+            "vteWestern Visayas (Region VI)Regional center"
+        ],
+        [
+            "Iloilo City"
+        ],
+        [
+            "Provinces"
+        ],
+        [
+            "Aklan"
+        ],
+        [
+            "Antique"
+        ],
+        [
+            "Capiz"
+        ],
+        [
+            "Guimaras"
+        ],
+        [
+            "Iloilo"
+        ],
+        [
+            "Metropolitan Areas"
+        ],
+        [
+            "Metro Iloilo\u2013Guimaras"
+        ],
+        [
+            "Highly urbanized cities"
+        ],
+        [
+            "Iloilo City"
+        ],
+        [
+            "Component cities"
+        ],
+        [
+            "Passi"
+        ],
+        [
+            "Roxas"
+        ],
+        [
+            "Provincial capitals"
+        ],
+        [
+            "Iloilo City"
+        ],
+        [
+            "Jordan"
+        ],
+        [
+            "Kalibo"
+        ],
+        [
+            "Roxas"
+        ],
+        [
+            "San Jose de Buenavista"
+        ],
+        [
+            "Municipalities"
+        ],
+        [
+            "Ajuy"
+        ],
+        [
+            "Alimodian"
+        ],
+        [
+            "Altavas"
+        ],
+        [
+            "Anilao"
+        ],
+        [
+            "Anini-y"
+        ],
+        [
+            "Badiangan"
+        ],
+        [
+            "Balasan"
+        ],
+        [
+            "Balete"
+        ],
+        [
+            "Banate"
+        ],
+        [
+            "Banga"
+        ],
+        [
+            "Barbaza"
+        ],
+        [
+            "Barotac Nuevo"
+        ],
+        [
+            "Barotac Viejo"
+        ],
+        [
+            "Batad"
+        ],
+        [
+            "Batan"
+        ],
+        [
+            "Belison"
+        ],
+        [
+            "Bingawan"
+        ],
+        [
+            "Buenavista"
+        ],
+        [
+            "Bugasong"
+        ],
+        [
+            "Buruanga"
+        ],
+        [
+            "Cabatuan"
+        ],
+        [
+            "Calinog"
+        ],
+        [
+            "Caluya"
+        ],
+        [
+            "Carles"
+        ],
+        [
+            "Concepcion"
+        ],
+        [
+            "Cuartero"
+        ],
+        [
+            "Culasi"
+        ],
+        [
+            "Dao"
+        ],
+        [
+            "Dingle"
+        ],
+        [
+            "Due\u00f1as"
+        ],
+        [
+            "Dumalag"
+        ],
+        [
+            "Dumangas"
+        ],
+        [
+            "Dumarao"
+        ],
+        [
+            "Estancia"
+        ],
+        [
+            "Guimbal"
+        ],
+        [
+            "Hamtic"
+        ],
+        [
+            "Ibajay"
+        ],
+        [
+            "Igbaras"
+        ],
+        [
+            "Ivisan"
+        ],
+        [
+            "Jamindan"
+        ],
+        [
+            "Janiuay"
+        ],
+        [
+            "Jordan"
+        ],
+        [
+            "Kalibo"
+        ],
+        [
+            "Lambunao"
+        ],
+        [
+            "Laua-an"
+        ],
+        [
+            "Leganes"
+        ],
+        [
+            "Lemery"
+        ],
+        [
+            "Leon"
+        ],
+        [
+            "Lezo"
+        ],
+        [
+            "Libacao"
+        ],
+        [
+            "Libertad"
+        ],
+        [
+            "Maasin"
+        ],
+        [
+            "Ma-ayon"
+        ],
+        [
+            "Madalag"
+        ],
+        [
+            "Makato"
+        ],
+        [
+            "Malay"
+        ],
+        [
+            "Malinao"
+        ],
+        [
+            "Mambusao"
+        ],
+        [
+            "Miagao"
+        ],
+        [
+            "Mina"
+        ],
+        [
+            "Nabas"
+        ],
+        [
+            "New Lucena"
+        ],
+        [
+            "New Washington"
+        ],
+        [
+            "Nueva Valencia"
+        ],
+        [
+            "Numancia"
+        ],
+        [
+            "Oton"
+        ],
+        [
+            "Panay"
+        ],
+        [
+            "Pandan"
+        ],
+        [
+            "Panitan"
+        ],
+        [
+            "Patnongon"
+        ],
+        [
+            "Pavia"
+        ],
+        [
+            "Pilar"
+        ],
+        [
+            "Pontevedra"
+        ],
+        [
+            "Pototan"
+        ],
+        [
+            "President Roxas"
+        ],
+        [
+            "San Dionisio"
+        ],
+        [
+            "San Enrique"
+        ],
+        [
+            "San Joaquin"
+        ],
+        [
+            "San Jose de Buenavista"
+        ],
+        [
+            "San Lorenzo"
+        ],
+        [
+            "San Miguel"
+        ],
+        [
+            "San Rafael"
+        ],
+        [
+            "San Remigio"
+        ],
+        [
+            "Santa Barbara"
+        ],
+        [
+            "Sapian"
+        ],
+        [
+            "Sara"
+        ],
+        [
+            "Sebaste"
+        ],
+        [
+            "Sibalom"
+        ],
+        [
+            "Sibunag"
+        ],
+        [
+            "Sigma"
+        ],
+        [
+            "Tangalan"
+        ],
+        [
+            "Tapaz"
+        ],
+        [
+            "Tibiao"
+        ],
+        [
+            "Tigbauan"
+        ],
+        [
+            "Tobias Fornier"
+        ],
+        [
+            "Tubungan"
+        ],
+        [
+            "Valderrama"
+        ],
+        [
+            "Zarraga"
+        ],
+        [
+            "Visayas, Republic of the Philippines"
+        ],
+        [
+            "vte Provinces of the Philippines"
+        ],
+        [
+            "Abra"
+        ],
+        [
+            "Agusan del Norte"
+        ],
+        [
+            "Agusan del Sur"
+        ],
+        [
+            "Aklan"
+        ],
+        [
+            "Albay"
+        ],
+        [
+            "Antique"
+        ],
+        [
+            "Apayao"
+        ],
+        [
+            "Aurora"
+        ],
+        [
+            "Basilan"
+        ],
+        [
+            "Bataan"
+        ],
+        [
+            "Batanes"
+        ],
+        [
+            "Batangas"
+        ],
+        [
+            "Benguet"
+        ],
+        [
+            "Biliran"
+        ],
+        [
+            "Bohol"
+        ],
+        [
+            "Bukidnon"
+        ],
+        [
+            "Bulacan"
+        ],
+        [
+            "Cagayan"
+        ],
+        [
+            "Camarines Norte"
+        ],
+        [
+            "Camarines Sur"
+        ],
+        [
+            "Camiguin"
+        ],
+        [
+            "Capiz"
+        ],
+        [
+            "Catanduanes"
+        ],
+        [
+            "Cavite"
+        ],
+        [
+            "Cebu"
+        ],
+        [
+            "Cotabato"
+        ],
+        [
+            "Davao de Oro"
+        ],
+        [
+            "Davao del Norte"
+        ],
+        [
+            "Davao del Sur"
+        ],
+        [
+            "Davao Occidental"
+        ],
+        [
+            "Davao Oriental"
+        ],
+        [
+            "Dinagat Islands"
+        ],
+        [
+            "Eastern Samar"
+        ],
+        [
+            "Guimaras"
+        ],
+        [
+            "Ifugao"
+        ],
+        [
+            "Ilocos Norte"
+        ],
+        [
+            "Ilocos Sur"
+        ],
+        [
+            "Iloilo"
+        ],
+        [
+            "Isabela"
+        ],
+        [
+            "Kalinga"
+        ],
+        [
+            "La Union"
+        ],
+        [
+            "Laguna"
+        ],
+        [
+            "Lanao del Norte"
+        ],
+        [
+            "Lanao del Sur"
+        ],
+        [
+            "Leyte"
+        ],
+        [
+            "Maguindanao del Norte"
+        ],
+        [
+            "Maguindanao del Sur"
+        ],
+        [
+            "Marinduque"
+        ],
+        [
+            "Masbate"
+        ],
+        [
+            "Misamis Occidental"
+        ],
+        [
+            "Misamis Oriental"
+        ],
+        [
+            "Mountain Province"
+        ],
+        [
+            "Negros Occidental"
+        ],
+        [
+            "Negros Oriental"
+        ],
+        [
+            "Northern Samar"
+        ],
+        [
+            "Nueva Ecija"
+        ],
+        [
+            "Nueva Vizcaya"
+        ],
+        [
+            "Occidental Mindoro"
+        ],
+        [
+            "Oriental Mindoro"
+        ],
+        [
+            "Palawan"
+        ],
+        [
+            "Pampanga"
+        ],
+        [
+            "Pangasinan"
+        ],
+        [
+            "Quezon"
+        ],
+        [
+            "Quirino"
+        ],
+        [
+            "Rizal"
+        ],
+        [
+            "Romblon"
+        ],
+        [
+            "Samar"
+        ],
+        [
+            "Sarangani"
+        ],
+        [
+            "Siquijor"
+        ],
+        [
+            "Sorsogon"
+        ],
+        [
+            "South Cotabato"
+        ],
+        [
+            "Southern Leyte"
+        ],
+        [
+            "Sultan Kudarat"
+        ],
+        [
+            "Sulu"
+        ],
+        [
+            "Surigao del Norte"
+        ],
+        [
+            "Surigao del Sur"
+        ],
+        [
+            "Tarlac"
+        ],
+        [
+            "Tawi-Tawi"
+        ],
+        [
+            "Zambales"
+        ],
+        [
+            "Zamboanga del Norte"
+        ],
+        [
+            "Zamboanga del Sur"
+        ],
+        [
+            "Zamboanga Sibugay"
+        ],
+        [
+            "vtePhilippines\u00a0articlesHistoryOverviews"
+        ],
+        [
+            "Archaeology"
+        ],
+        [
+            "Economy"
+        ],
+        [
+            "Military"
+        ],
+        [
+            "Political"
+        ],
+        [
+            "Chronology"
+        ],
+        [
+            "Prehistory"
+        ],
+        [
+            "Pre-colonial era"
+        ],
+        [
+            "Colonial era"
+        ],
+        [
+            "Spanish period"
+        ],
+        [
+            "American period"
+        ],
+        [
+            "Japanese occupation"
+        ],
+        [
+            "Postcolonial era"
+        ],
+        [
+            "Third Republic"
+        ],
+        [
+            "Marcos presidency"
+        ],
+        [
+            "Fifth Republic"
+        ],
+        [
+            "Geography"
+        ],
+        [
+            "Bays"
+        ],
+        [
+            "Biosphere reserves"
+        ],
+        [
+            "Borders"
+        ],
+        [
+            "Climate"
+        ],
+        [
+            "Climate change"
+        ],
+        [
+            "Typhoons"
+        ],
+        [
+            "Earthquakes"
+        ],
+        [
+            "Ecoregions"
+        ],
+        [
+            "Extreme points"
+        ],
+        [
+            "Island groups"
+        ],
+        [
+            "islands"
+        ],
+        [
+            "Lakes"
+        ],
+        [
+            "Mountains"
+        ],
+        [
+            "Protected areas"
+        ],
+        [
+            "National parks"
+        ],
+        [
+            "Ramsar sites"
+        ],
+        [
+            "Rivers"
+        ],
+        [
+            "Volcanoes"
+        ],
+        [
+            "Wildlife"
+        ],
+        [
+            "World Heritage Sites"
+        ],
+        [
+            "Politics"
+        ],
+        [
+            "Administrative divisions"
+        ],
+        [
+            "Constitution"
+        ],
+        [
+            "Elections"
+        ],
+        [
+            "Foreign relations"
+        ],
+        [
+            "Human rights"
+        ],
+        [
+            "LGBT"
+        ],
+        [
+            "Legal codes"
+        ],
+        [
+            "Political families"
+        ],
+        [
+            "Political parties"
+        ],
+        [
+            "Government"
+        ],
+        [
+            "Executive"
+        ],
+        [
+            "Cabinet"
+        ],
+        [
+            "lists"
+        ],
+        [
+            "Executive departments"
+        ],
+        [
+            "Executive office"
+        ],
+        [
+            "Law enforcement"
+        ],
+        [
+            "President"
+        ],
+        [
+            "Legislative"
+        ],
+        [
+            "Senate"
+        ],
+        [
+            "House of Representatives"
+        ],
+        [
+            "Judicial"
+        ],
+        [
+            "Supreme Court"
+        ],
+        [
+            "Court of Appeals"
+        ],
+        [
+            "Regional Trial Court"
+        ],
+        [
+            "Armed Forces"
+        ],
+        [
+            "Air Force"
+        ],
+        [
+            "Army"
+        ],
+        [
+            "Navy"
+        ],
+        [
+            "Marine Corps"
+        ],
+        [
+            "Coast Guard"
+        ],
+        [
+            "Economy"
+        ],
+        [
+            "Agriculture"
+        ],
+        [
+            "Automotive"
+        ],
+        [
+            "Business process outsourcing"
+        ],
+        [
+            "Census"
+        ],
+        [
+            "Central bank"
+        ],
+        [
+            "Energy"
+        ],
+        [
+            "Fiscal policy"
+        ],
+        [
+            "National debt"
+        ],
+        [
+            "Labor"
+        ],
+        [
+            "Peso"
+        ],
+        [
+            "Science and technology"
+        ],
+        [
+            "Stock exchange"
+        ],
+        [
+            "Taxation"
+        ],
+        [
+            "Telecommunications"
+        ],
+        [
+            "Telephone numbers"
+        ],
+        [
+            "Tourism"
+        ],
+        [
+            "Tourist attractions"
+        ],
+        [
+            "Transportation"
+        ],
+        [
+            "Water and sanitation"
+        ],
+        [
+            "ZIP codes"
+        ],
+        [
+            "Society"
+        ],
+        [
+            "Abortion"
+        ],
+        [
+            "Censorship"
+        ],
+        [
+            "Corruption"
+        ],
+        [
+            "Crime"
+        ],
+        [
+            "Demographics"
+        ],
+        [
+            "Divorce"
+        ],
+        [
+            "Education"
+        ],
+        [
+            "Higher education"
+        ],
+        [
+            "Environmental issues"
+        ],
+        [
+            "Climate change"
+        ],
+        [
+            "Deforestation"
+        ],
+        [
+            "Ethnic groups"
+        ],
+        [
+            "Indigenous peoples"
+        ],
+        [
+            "Genetics"
+        ],
+        [
+            "Health"
+        ],
+        [
+            "Human trafficking"
+        ],
+        [
+            "Sex trafficking"
+        ],
+        [
+            "Immigration"
+        ],
+        [
+            "Income inequality"
+        ],
+        [
+            "Kinship"
+        ],
+        [
+            "Languages"
+        ],
+        [
+            "Overseas workers"
+        ],
+        [
+            "Poverty"
+        ],
+        [
+            "Prostitution"
+        ],
+        [
+            "Refugees"
+        ],
+        [
+            "Religion"
+        ],
+        [
+            "Sexuality"
+        ],
+        [
+            "Squatting"
+        ],
+        [
+            "Women"
+        ],
+        [
+            "Pinoy"
+        ],
+        [
+            "Culture"
+        ],
+        [
+            "Architecture"
+        ],
+        [
+            "Arts"
+        ],
+        [
+            "Cinema"
+        ],
+        [
+            "Cuisine"
+        ],
+        [
+            "Cultural properties"
+        ],
+        [
+            "Dance"
+        ],
+        [
+            "Fashion and clothing"
+        ],
+        [
+            "Historical markers"
+        ],
+        [
+            "Inventions"
+        ],
+        [
+            "Literature"
+        ],
+        [
+            "Media"
+        ],
+        [
+            "Music"
+        ],
+        [
+            "Mythology"
+        ],
+        [
+            "Name"
+        ],
+        [
+            "Public holidays"
+        ],
+        [
+            "Festivals"
+        ],
+        [
+            "Psychology"
+        ],
+        [
+            "Sports"
+        ],
+        [
+            "Traditional games"
+        ],
+        [
+            "Value system"
+        ],
+        [
+            "Symbols"
+        ],
+        [
+            "Anthem"
+        ],
+        [
+            "Bird"
+        ],
+        [
+            "Coat of arms"
+        ],
+        [
+            "Flag"
+        ],
+        [
+            "Flower"
+        ],
+        [
+            "Gem"
+        ],
+        [
+            "Great Seal"
+        ],
+        [
+            "Language"
+        ],
+        [
+            "Motto"
+        ],
+        [
+            "Sign language"
+        ],
+        [
+            "Sport and martial art"
+        ],
+        [
+            "Tree"
+        ],
+        [
+            "Outline"
+        ],
+        [
+            "Bibliography"
+        ],
+        [
+            " Philippines portal"
+        ],
+        [
+            " Category"
+        ],
+        [
+            "Authority control databases International"
+        ],
+        [
+            "ISNI"
+        ],
+        [
+            "VIAF"
+        ],
+        [
+            "WorldCat"
+        ],
+        [
+            "National"
+        ],
+        [
+            "France"
+        ],
+        [
+            "BnF data"
+        ],
+        [
+            "Israel"
+        ],
+        [
+            "United States"
+        ],
+        [
+            "Retrieved from \"https://en.wikipedia.org/w/index.php?title=Antique_(province)&oldid=1232737906\""
+        ],
+        [
+            "Categories: Antique (province)1780 establishments in the PhilippinesProvinces of the PhilippinesProvinces of Western VisayasStates and territories established in 1780Hidden categories: Pages using gadget WikiMiniAtlasCS1 maint: url-statusArticles with short descriptionShort description is different from WikidataCoordinates on WikidataPages with Tagalog IPAArticles containing Kinaray-a-language textArticles containing Hiligaynon-language textArticles containing Tagalog-language textWikipedia articles needing clarification from April 2016All articles with vague or ambiguous timeVague or ambiguous time from January 2013Webarchive template wayback linksCommons category link from WikidataLists of coordinatesGeographic coordinate listsArticles with GeoArticles with ISNI identifiersArticles with VIAF identifiersArticles with WorldCat Entities identifiersArticles with BNF identifiersArticles with BNFdata identifiersArticles with J9U identifiersArticles with LCCN identifiersPages using the Kartographer extension"
+        ]
+    ]
+}
